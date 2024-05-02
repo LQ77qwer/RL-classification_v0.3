@@ -1,0 +1,2000 @@
+2024-05-01 16:56:20,059 - Episode End: Accuracy=0.5483870967741935, Final Reward=-5
+2024-05-01 16:56:20,060 - Episode: 1/1000, Total Reward: -3.2, Accuracy: 0.55
+2024-05-01 16:56:22,978 - Episode End: Accuracy=0.47580645161290325, Final Reward=-5
+2024-05-01 16:56:22,978 - Episode: 2/1000, Total Reward: -5.5, Accuracy: 0.48
+2024-05-01 16:56:24,932 - Episode End: Accuracy=0.5161290322580645, Final Reward=-5
+2024-05-01 16:56:24,933 - Episode: 3/1000, Total Reward: -4.5, Accuracy: 0.52
+2024-05-01 16:56:27,039 - Episode End: Accuracy=0.4596774193548387, Final Reward=-5
+2024-05-01 16:56:27,039 - Episode: 4/1000, Total Reward: -6.1, Accuracy: 0.46
+2024-05-01 16:56:29,090 - Episode End: Accuracy=0.5161290322580645, Final Reward=-5
+2024-05-01 16:56:29,091 - Episode: 5/1000, Total Reward: -4.5, Accuracy: 0.52
+2024-05-01 16:56:31,237 - Episode End: Accuracy=0.5161290322580645, Final Reward=-5
+2024-05-01 16:56:31,238 - Episode: 6/1000, Total Reward: -4.7, Accuracy: 0.52
+2024-05-01 16:56:33,480 - Episode End: Accuracy=0.46774193548387094, Final Reward=-5
+2024-05-01 16:56:33,480 - Episode: 7/1000, Total Reward: -5.7, Accuracy: 0.47
+2024-05-01 16:56:35,891 - Episode End: Accuracy=0.532258064516129, Final Reward=-5
+2024-05-01 16:56:35,891 - Episode: 8/1000, Total Reward: -4.3, Accuracy: 0.53
+2024-05-01 16:56:38,094 - Episode End: Accuracy=0.5161290322580645, Final Reward=-5
+2024-05-01 16:56:38,095 - Episode: 9/1000, Total Reward: -4.000000000000001, Accuracy: 0.52
+2024-05-01 16:56:40,392 - Episode End: Accuracy=0.46774193548387094, Final Reward=-5
+2024-05-01 16:56:40,392 - Episode: 10/1000, Total Reward: -5.7, Accuracy: 0.47
+2024-05-01 16:56:42,671 - Episode End: Accuracy=0.5564516129032258, Final Reward=-5
+2024-05-01 16:56:42,671 - Episode: 11/1000, Total Reward: -3.0, Accuracy: 0.56
+2024-05-01 16:56:44,805 - Episode End: Accuracy=0.5161290322580645, Final Reward=-5
+2024-05-01 16:56:44,805 - Episode: 12/1000, Total Reward: -4.7, Accuracy: 0.52
+2024-05-01 16:56:47,447 - Episode End: Accuracy=0.5645161290322581, Final Reward=-5
+2024-05-01 16:56:47,447 - Episode: 13/1000, Total Reward: -2.8, Accuracy: 0.56
+2024-05-01 16:56:50,769 - Episode End: Accuracy=0.5403225806451613, Final Reward=-5
+2024-05-01 16:56:50,769 - Episode: 14/1000, Total Reward: -3.6000000000000005, Accuracy: 0.54
+2024-05-01 16:56:53,334 - Episode End: Accuracy=0.5483870967741935, Final Reward=-5
+2024-05-01 16:56:53,335 - Episode: 15/1000, Total Reward: -3.4000000000000004, Accuracy: 0.55
+2024-05-01 16:56:55,663 - Episode End: Accuracy=0.5483870967741935, Final Reward=-5
+2024-05-01 16:56:55,663 - Episode: 16/1000, Total Reward: -3.4000000000000004, Accuracy: 0.55
+2024-05-01 16:56:58,003 - Episode End: Accuracy=0.5241935483870968, Final Reward=-5
+2024-05-01 16:56:58,004 - Episode: 17/1000, Total Reward: -3.8000000000000007, Accuracy: 0.52
+2024-05-01 16:57:00,447 - Episode End: Accuracy=0.5403225806451613, Final Reward=-5
+2024-05-01 16:57:00,447 - Episode: 18/1000, Total Reward: -3.4000000000000004, Accuracy: 0.54
+2024-05-01 16:57:02,932 - Episode End: Accuracy=0.5403225806451613, Final Reward=-5
+2024-05-01 16:57:02,932 - Episode: 19/1000, Total Reward: -3.4000000000000004, Accuracy: 0.54
+2024-05-01 16:57:05,404 - Episode End: Accuracy=0.49193548387096775, Final Reward=-5
+2024-05-01 16:57:05,404 - Episode: 20/1000, Total Reward: -5.1, Accuracy: 0.49
+2024-05-01 16:57:07,863 - Episode End: Accuracy=0.5806451612903226, Final Reward=-5
+2024-05-01 16:57:07,863 - Episode: 21/1000, Total Reward: -1.8999999999999995, Accuracy: 0.58
+2024-05-01 16:57:10,331 - Episode End: Accuracy=0.5080645161290323, Final Reward=-5
+2024-05-01 16:57:10,332 - Episode: 22/1000, Total Reward: -4.7, Accuracy: 0.51
+2024-05-01 16:57:12,971 - Episode End: Accuracy=0.532258064516129, Final Reward=-5
+2024-05-01 16:57:12,972 - Episode: 23/1000, Total Reward: -4.3, Accuracy: 0.53
+2024-05-01 16:57:15,613 - Episode End: Accuracy=0.5403225806451613, Final Reward=-5
+2024-05-01 16:57:15,613 - Episode: 24/1000, Total Reward: -4.1, Accuracy: 0.54
+2024-05-01 16:57:18,184 - Episode End: Accuracy=0.4435483870967742, Final Reward=-5
+2024-05-01 16:57:18,184 - Episode: 25/1000, Total Reward: -6.5, Accuracy: 0.44
+2024-05-01 16:57:20,588 - Episode End: Accuracy=0.4838709677419355, Final Reward=-5
+2024-05-01 16:57:20,589 - Episode: 26/1000, Total Reward: -5.5, Accuracy: 0.48
+2024-05-01 16:57:22,857 - Episode End: Accuracy=0.5161290322580645, Final Reward=-5
+2024-05-01 16:57:22,857 - Episode: 27/1000, Total Reward: -4.5, Accuracy: 0.52
+2024-05-01 16:57:25,501 - Episode End: Accuracy=0.47580645161290325, Final Reward=-5
+2024-05-01 16:57:25,501 - Episode: 28/1000, Total Reward: -5.5, Accuracy: 0.48
+2024-05-01 16:57:28,202 - Episode End: Accuracy=0.45161290322580644, Final Reward=-5
+2024-05-01 16:57:28,202 - Episode: 29/1000, Total Reward: -6.1, Accuracy: 0.45
+2024-05-01 16:57:30,904 - Episode End: Accuracy=0.3629032258064516, Final Reward=-5
+2024-05-01 16:57:30,904 - Episode: 30/1000, Total Reward: -8.3, Accuracy: 0.36
+2024-05-01 16:57:33,684 - Episode End: Accuracy=0.47580645161290325, Final Reward=-5
+2024-05-01 16:57:33,684 - Episode: 31/1000, Total Reward: -5.000000000000001, Accuracy: 0.48
+2024-05-01 16:57:36,247 - Episode End: Accuracy=0.4435483870967742, Final Reward=-5
+2024-05-01 16:57:36,247 - Episode: 32/1000, Total Reward: -6.5, Accuracy: 0.44
+2024-05-01 16:57:38,680 - Episode End: Accuracy=0.5161290322580645, Final Reward=-5
+2024-05-01 16:57:38,681 - Episode: 33/1000, Total Reward: -4.000000000000001, Accuracy: 0.52
+2024-05-01 16:57:41,296 - Episode End: Accuracy=0.4596774193548387, Final Reward=-5
+2024-05-01 16:57:41,297 - Episode: 34/1000, Total Reward: -5.9, Accuracy: 0.46
+2024-05-01 16:57:44,019 - Episode End: Accuracy=0.47580645161290325, Final Reward=-5
+2024-05-01 16:57:44,019 - Episode: 35/1000, Total Reward: -5.7, Accuracy: 0.48
+2024-05-01 16:57:46,535 - Episode End: Accuracy=0.46774193548387094, Final Reward=-5
+2024-05-01 16:57:46,535 - Episode: 36/1000, Total Reward: -5.7, Accuracy: 0.47
+2024-05-01 16:57:49,106 - Episode End: Accuracy=0.3629032258064516, Final Reward=-5
+2024-05-01 16:57:49,106 - Episode: 37/1000, Total Reward: -8.3, Accuracy: 0.36
+2024-05-01 16:57:51,839 - Episode End: Accuracy=0.41935483870967744, Final Reward=-5
+2024-05-01 16:57:51,839 - Episode: 38/1000, Total Reward: -6.9, Accuracy: 0.42
+2024-05-01 16:57:54,555 - Episode End: Accuracy=0.5403225806451613, Final Reward=-5
+2024-05-01 16:57:54,556 - Episode: 39/1000, Total Reward: -3.6000000000000005, Accuracy: 0.54
+2024-05-01 16:57:57,300 - Episode End: Accuracy=0.5403225806451613, Final Reward=-5
+2024-05-01 16:57:57,300 - Episode: 40/1000, Total Reward: -3.6000000000000005, Accuracy: 0.54
+2024-05-01 16:58:00,184 - Episode End: Accuracy=0.532258064516129, Final Reward=-5
+2024-05-01 16:58:00,184 - Episode: 41/1000, Total Reward: -3.6000000000000005, Accuracy: 0.53
+2024-05-01 16:58:02,989 - Episode End: Accuracy=0.5403225806451613, Final Reward=-5
+2024-05-01 16:58:02,989 - Episode: 42/1000, Total Reward: -3.1000000000000005, Accuracy: 0.54
+2024-05-01 16:58:05,742 - Episode End: Accuracy=0.49193548387096775, Final Reward=-5
+2024-05-01 16:58:05,743 - Episode: 43/1000, Total Reward: -5.1, Accuracy: 0.49
+2024-05-01 16:58:08,420 - Episode End: Accuracy=0.5483870967741935, Final Reward=-5
+2024-05-01 16:58:08,420 - Episode: 44/1000, Total Reward: -3.4000000000000004, Accuracy: 0.55
+2024-05-01 16:58:11,326 - Episode End: Accuracy=0.46774193548387094, Final Reward=-5
+2024-05-01 16:58:11,326 - Episode: 45/1000, Total Reward: -5.9, Accuracy: 0.47
+2024-05-01 16:58:14,056 - Episode End: Accuracy=0.41935483870967744, Final Reward=-5
+2024-05-01 16:58:14,056 - Episode: 46/1000, Total Reward: -6.9, Accuracy: 0.42
+2024-05-01 16:58:16,985 - Episode End: Accuracy=0.45161290322580644, Final Reward=-5
+2024-05-01 16:58:16,985 - Episode: 47/1000, Total Reward: -6.3, Accuracy: 0.45
+2024-05-01 16:58:19,805 - Episode End: Accuracy=0.4274193548387097, Final Reward=-5
+2024-05-01 16:58:19,805 - Episode: 48/1000, Total Reward: -6.7, Accuracy: 0.43
+2024-05-01 16:58:22,737 - Episode End: Accuracy=0.5080645161290323, Final Reward=-5
+2024-05-01 16:58:22,737 - Episode: 49/1000, Total Reward: -4.2, Accuracy: 0.51
+2024-05-01 16:58:25,644 - Episode End: Accuracy=0.4032258064516129, Final Reward=-5
+2024-05-01 16:58:25,644 - Episode: 50/1000, Total Reward: -7.300000000000001, Accuracy: 0.40
+2024-05-01 16:58:28,487 - Episode End: Accuracy=0.4435483870967742, Final Reward=-5
+2024-05-01 16:58:28,487 - Episode: 51/1000, Total Reward: -6.5, Accuracy: 0.44
+2024-05-01 16:58:31,229 - Episode End: Accuracy=0.4838709677419355, Final Reward=-5
+2024-05-01 16:58:31,230 - Episode: 52/1000, Total Reward: -4.800000000000001, Accuracy: 0.48
+2024-05-01 16:58:34,365 - Episode End: Accuracy=0.41935483870967744, Final Reward=-5
+2024-05-01 16:58:34,366 - Episode: 53/1000, Total Reward: -6.9, Accuracy: 0.42
+2024-05-01 16:58:37,340 - Episode End: Accuracy=0.4032258064516129, Final Reward=-5
+2024-05-01 16:58:37,340 - Episode: 54/1000, Total Reward: -7.300000000000001, Accuracy: 0.40
+2024-05-01 16:58:40,403 - Episode End: Accuracy=0.43548387096774194, Final Reward=-5
+2024-05-01 16:58:40,403 - Episode: 55/1000, Total Reward: -6.7, Accuracy: 0.44
+2024-05-01 16:58:43,332 - Episode End: Accuracy=0.4032258064516129, Final Reward=-5
+2024-05-01 16:58:43,332 - Episode: 56/1000, Total Reward: -7.300000000000001, Accuracy: 0.40
+2024-05-01 16:58:46,697 - Episode End: Accuracy=0.4112903225806452, Final Reward=-5
+2024-05-01 16:58:46,697 - Episode: 57/1000, Total Reward: -7.300000000000001, Accuracy: 0.41
+2024-05-01 16:58:49,744 - Episode End: Accuracy=0.4435483870967742, Final Reward=-5
+2024-05-01 16:58:49,744 - Episode: 58/1000, Total Reward: -6.5, Accuracy: 0.44
+2024-05-01 16:58:52,834 - Episode End: Accuracy=0.3790322580645161, Final Reward=-5
+2024-05-01 16:58:52,835 - Episode: 59/1000, Total Reward: -8.100000000000001, Accuracy: 0.38
+2024-05-01 16:58:55,913 - Episode End: Accuracy=0.4274193548387097, Final Reward=-5
+2024-05-01 16:58:55,914 - Episode: 60/1000, Total Reward: -6.7, Accuracy: 0.43
+2024-05-01 16:58:59,198 - Episode End: Accuracy=0.43548387096774194, Final Reward=-5
+2024-05-01 16:58:59,198 - Episode: 61/1000, Total Reward: -6.7, Accuracy: 0.44
+2024-05-01 16:59:02,219 - Episode End: Accuracy=0.43548387096774194, Final Reward=-5
+2024-05-01 16:59:02,219 - Episode: 62/1000, Total Reward: -6.7, Accuracy: 0.44
+2024-05-01 16:59:05,112 - Episode End: Accuracy=0.46774193548387094, Final Reward=-5
+2024-05-01 16:59:05,113 - Episode: 63/1000, Total Reward: -5.7, Accuracy: 0.47
+2024-05-01 16:59:08,232 - Episode End: Accuracy=0.4032258064516129, Final Reward=-5
+2024-05-01 16:59:08,232 - Episode: 64/1000, Total Reward: -7.300000000000001, Accuracy: 0.40
+2024-05-01 16:59:11,441 - Episode End: Accuracy=0.4435483870967742, Final Reward=-5
+2024-05-01 16:59:11,441 - Episode: 65/1000, Total Reward: -6.5, Accuracy: 0.44
+2024-05-01 16:59:14,550 - Episode End: Accuracy=0.41935483870967744, Final Reward=-5
+2024-05-01 16:59:14,550 - Episode: 66/1000, Total Reward: -6.9, Accuracy: 0.42
+2024-05-01 16:59:17,718 - Episode End: Accuracy=0.3709677419354839, Final Reward=-5
+2024-05-01 16:59:17,718 - Episode: 67/1000, Total Reward: -8.100000000000001, Accuracy: 0.37
+2024-05-01 16:59:20,996 - Episode End: Accuracy=0.5241935483870968, Final Reward=-5
+2024-05-01 16:59:20,996 - Episode: 68/1000, Total Reward: -3.8000000000000007, Accuracy: 0.52
+2024-05-01 16:59:24,473 - Episode End: Accuracy=0.532258064516129, Final Reward=-5
+2024-05-01 16:59:24,474 - Episode: 69/1000, Total Reward: -3.8000000000000007, Accuracy: 0.53
+2024-05-01 16:59:27,598 - Episode End: Accuracy=0.5080645161290323, Final Reward=-5
+2024-05-01 16:59:27,598 - Episode: 70/1000, Total Reward: -4.7, Accuracy: 0.51
+2024-05-01 16:59:30,857 - Episode End: Accuracy=0.4032258064516129, Final Reward=-5
+2024-05-01 16:59:30,858 - Episode: 71/1000, Total Reward: -7.300000000000001, Accuracy: 0.40
+2024-05-01 16:59:34,220 - Episode End: Accuracy=0.4032258064516129, Final Reward=-5
+2024-05-01 16:59:34,221 - Episode: 72/1000, Total Reward: -7.500000000000001, Accuracy: 0.40
+2024-05-01 16:59:37,676 - Episode End: Accuracy=0.5, Final Reward=-5
+2024-05-01 16:59:37,676 - Episode: 73/1000, Total Reward: -5.1, Accuracy: 0.50
+2024-05-01 16:59:40,828 - Episode End: Accuracy=0.3951612903225806, Final Reward=-5
+2024-05-01 16:59:40,828 - Episode: 74/1000, Total Reward: -7.700000000000001, Accuracy: 0.40
+2024-05-01 16:59:44,188 - Episode End: Accuracy=0.3951612903225806, Final Reward=-5
+2024-05-01 16:59:44,188 - Episode: 75/1000, Total Reward: -7.700000000000001, Accuracy: 0.40
+2024-05-01 16:59:47,644 - Episode End: Accuracy=0.5483870967741935, Final Reward=-5
+2024-05-01 16:59:47,644 - Episode: 76/1000, Total Reward: -3.4000000000000004, Accuracy: 0.55
+2024-05-01 16:59:50,916 - Episode End: Accuracy=0.5161290322580645, Final Reward=-5
+2024-05-01 16:59:50,916 - Episode: 77/1000, Total Reward: -4.5, Accuracy: 0.52
+2024-05-01 16:59:54,434 - Episode End: Accuracy=0.4596774193548387, Final Reward=-5
+2024-05-01 16:59:54,434 - Episode: 78/1000, Total Reward: -5.9, Accuracy: 0.46
+2024-05-01 16:59:57,675 - Episode End: Accuracy=0.4596774193548387, Final Reward=-5
+2024-05-01 16:59:57,675 - Episode: 79/1000, Total Reward: -6.1, Accuracy: 0.46
+2024-05-01 17:00:01,131 - Episode End: Accuracy=0.4435483870967742, Final Reward=-5
+2024-05-01 17:00:01,131 - Episode: 80/1000, Total Reward: -6.3, Accuracy: 0.44
+2024-05-01 17:00:04,679 - Episode End: Accuracy=0.45161290322580644, Final Reward=-5
+2024-05-01 17:00:04,680 - Episode: 81/1000, Total Reward: -6.3, Accuracy: 0.45
+2024-05-01 17:00:08,091 - Episode End: Accuracy=0.3225806451612903, Final Reward=-5
+2024-05-01 17:00:08,091 - Episode: 82/1000, Total Reward: -9.3, Accuracy: 0.32
+2024-05-01 17:00:11,561 - Episode End: Accuracy=0.3548387096774194, Final Reward=-5
+2024-05-01 17:00:11,561 - Episode: 83/1000, Total Reward: -8.500000000000002, Accuracy: 0.35
+2024-05-01 17:00:14,847 - Episode End: Accuracy=0.4274193548387097, Final Reward=-5
+2024-05-01 17:00:14,847 - Episode: 84/1000, Total Reward: -6.9, Accuracy: 0.43
+2024-05-01 17:00:18,337 - Episode End: Accuracy=0.5, Final Reward=-5
+2024-05-01 17:00:18,338 - Episode: 85/1000, Total Reward: -4.4, Accuracy: 0.50
+2024-05-01 17:00:21,340 - Episode End: Accuracy=0.46774193548387094, Final Reward=-5
+2024-05-01 17:00:21,340 - Episode: 86/1000, Total Reward: -5.7, Accuracy: 0.47
+2024-05-01 17:00:24,830 - Episode End: Accuracy=0.4032258064516129, Final Reward=-5
+2024-05-01 17:00:24,831 - Episode: 87/1000, Total Reward: -7.300000000000001, Accuracy: 0.40
+2024-05-01 17:00:28,321 - Episode End: Accuracy=0.4274193548387097, Final Reward=-5
+2024-05-01 17:00:28,321 - Episode: 88/1000, Total Reward: -6.9, Accuracy: 0.43
+2024-05-01 17:00:31,533 - Episode End: Accuracy=0.41935483870967744, Final Reward=-5
+2024-05-01 17:00:31,533 - Episode: 89/1000, Total Reward: -6.9, Accuracy: 0.42
+2024-05-01 17:00:35,066 - Episode End: Accuracy=0.4274193548387097, Final Reward=-5
+2024-05-01 17:00:35,066 - Episode: 90/1000, Total Reward: -6.9, Accuracy: 0.43
+2024-05-01 17:00:38,397 - Episode End: Accuracy=0.47580645161290325, Final Reward=-5
+2024-05-01 17:00:38,397 - Episode: 91/1000, Total Reward: -5.5, Accuracy: 0.48
+2024-05-01 17:00:41,780 - Episode End: Accuracy=0.532258064516129, Final Reward=-5
+2024-05-01 17:00:41,780 - Episode: 92/1000, Total Reward: -3.8000000000000007, Accuracy: 0.53
+2024-05-01 17:00:45,434 - Episode End: Accuracy=0.5967741935483871, Final Reward=-5
+2024-05-01 17:00:45,434 - Episode: 93/1000, Total Reward: -1.4999999999999991, Accuracy: 0.60
+2024-05-01 17:00:48,788 - Episode End: Accuracy=0.5483870967741935, Final Reward=-5
+2024-05-01 17:00:48,788 - Episode: 94/1000, Total Reward: -3.4000000000000004, Accuracy: 0.55
+2024-05-01 17:00:52,285 - Episode End: Accuracy=0.47580645161290325, Final Reward=-5
+2024-05-01 17:00:52,285 - Episode: 95/1000, Total Reward: -5.5, Accuracy: 0.48
+2024-05-01 17:00:55,836 - Episode End: Accuracy=0.6048387096774194, Final Reward=-5
+2024-05-01 17:00:55,836 - Episode: 96/1000, Total Reward: -1.4999999999999991, Accuracy: 0.60
+2024-05-01 17:01:00,682 - Episode End: Accuracy=0.4274193548387097, Final Reward=-5
+2024-05-01 17:01:00,683 - Episode: 97/1000, Total Reward: -6.7, Accuracy: 0.43
+2024-05-01 17:01:04,947 - Episode End: Accuracy=0.46774193548387094, Final Reward=-5
+2024-05-01 17:01:04,947 - Episode: 98/1000, Total Reward: -5.7, Accuracy: 0.47
+2024-05-01 17:01:08,550 - Episode End: Accuracy=0.3951612903225806, Final Reward=-5
+2024-05-01 17:01:08,551 - Episode: 99/1000, Total Reward: -7.700000000000001, Accuracy: 0.40
+2024-05-01 17:01:12,116 - Episode End: Accuracy=0.4435483870967742, Final Reward=-5
+2024-05-01 17:01:12,116 - Episode: 100/1000, Total Reward: -6.3, Accuracy: 0.44
+2024-05-01 17:01:15,747 - Episode End: Accuracy=0.4274193548387097, Final Reward=-5
+2024-05-01 17:01:15,747 - Episode: 101/1000, Total Reward: -6.7, Accuracy: 0.43
+2024-05-01 17:01:19,721 - Episode End: Accuracy=0.3870967741935484, Final Reward=-5
+2024-05-01 17:01:19,721 - Episode: 102/1000, Total Reward: -7.900000000000001, Accuracy: 0.39
+2024-05-01 17:01:23,733 - Episode End: Accuracy=0.3951612903225806, Final Reward=-5
+2024-05-01 17:01:23,733 - Episode: 103/1000, Total Reward: -7.500000000000001, Accuracy: 0.40
+2024-05-01 17:01:27,344 - Episode End: Accuracy=0.47580645161290325, Final Reward=-5
+2024-05-01 17:01:27,344 - Episode: 104/1000, Total Reward: -5.0, Accuracy: 0.48
+2024-05-01 17:01:33,276 - Episode End: Accuracy=0.4435483870967742, Final Reward=-5
+2024-05-01 17:01:33,276 - Episode: 105/1000, Total Reward: -6.5, Accuracy: 0.44
+2024-05-01 17:01:37,670 - Episode End: Accuracy=0.5725806451612904, Final Reward=-5
+2024-05-01 17:01:37,670 - Episode: 106/1000, Total Reward: -2.8, Accuracy: 0.57
+2024-05-01 17:01:41,705 - Episode End: Accuracy=0.49193548387096775, Final Reward=-5
+2024-05-01 17:01:41,705 - Episode: 107/1000, Total Reward: -5.1, Accuracy: 0.49
+2024-05-01 17:01:46,794 - Episode End: Accuracy=0.5241935483870968, Final Reward=-5
+2024-05-01 17:01:46,794 - Episode: 108/1000, Total Reward: -4.5, Accuracy: 0.52
+2024-05-01 17:01:51,216 - Episode End: Accuracy=0.5806451612903226, Final Reward=-5
+2024-05-01 17:01:51,216 - Episode: 109/1000, Total Reward: -2.5999999999999996, Accuracy: 0.58
+2024-05-01 17:01:54,931 - Episode End: Accuracy=0.6451612903225806, Final Reward=-5
+2024-05-01 17:01:54,931 - Episode: 110/1000, Total Reward: 0.1999999999999984, Accuracy: 0.65
+2024-05-01 17:01:59,259 - Episode End: Accuracy=0.5645161290322581, Final Reward=-5
+2024-05-01 17:01:59,259 - Episode: 111/1000, Total Reward: -3.0, Accuracy: 0.56
+2024-05-01 17:02:03,684 - Episode End: Accuracy=0.5725806451612904, Final Reward=-5
+2024-05-01 17:02:03,684 - Episode: 112/1000, Total Reward: -2.8, Accuracy: 0.57
+2024-05-01 17:02:08,048 - Episode End: Accuracy=0.6048387096774194, Final Reward=-5
+2024-05-01 17:02:08,048 - Episode: 113/1000, Total Reward: -1.4999999999999991, Accuracy: 0.60
+2024-05-01 17:02:12,654 - Episode End: Accuracy=0.5564516129032258, Final Reward=-5
+2024-05-01 17:02:12,655 - Episode: 114/1000, Total Reward: -3.2, Accuracy: 0.56
+2024-05-01 17:02:17,722 - Episode End: Accuracy=0.43548387096774194, Final Reward=-5
+2024-05-01 17:02:17,722 - Episode: 115/1000, Total Reward: -6.7, Accuracy: 0.44
+2024-05-01 17:02:22,375 - Episode End: Accuracy=0.4435483870967742, Final Reward=-5
+2024-05-01 17:02:22,375 - Episode: 116/1000, Total Reward: -6.5, Accuracy: 0.44
+2024-05-01 17:02:27,050 - Episode End: Accuracy=0.4112903225806452, Final Reward=-5
+2024-05-01 17:02:27,050 - Episode: 117/1000, Total Reward: -7.300000000000001, Accuracy: 0.41
+2024-05-01 17:02:32,610 - Episode End: Accuracy=0.3951612903225806, Final Reward=-5
+2024-05-01 17:02:32,610 - Episode: 118/1000, Total Reward: -7.700000000000001, Accuracy: 0.40
+2024-05-01 17:02:37,455 - Episode End: Accuracy=0.3548387096774194, Final Reward=-5
+2024-05-01 17:02:37,456 - Episode: 119/1000, Total Reward: -8.500000000000002, Accuracy: 0.35
+2024-05-01 17:02:42,122 - Episode End: Accuracy=0.3387096774193548, Final Reward=-5
+2024-05-01 17:02:42,122 - Episode: 120/1000, Total Reward: -8.900000000000002, Accuracy: 0.34
+2024-05-01 17:02:46,636 - Episode End: Accuracy=0.3870967741935484, Final Reward=-5
+2024-05-01 17:02:46,636 - Episode: 121/1000, Total Reward: -7.700000000000001, Accuracy: 0.39
+2024-05-01 17:02:50,734 - Episode End: Accuracy=0.43548387096774194, Final Reward=-5
+2024-05-01 17:02:50,734 - Episode: 122/1000, Total Reward: -6.5, Accuracy: 0.44
+2024-05-01 17:02:55,159 - Episode End: Accuracy=0.4032258064516129, Final Reward=-5
+2024-05-01 17:02:55,159 - Episode: 123/1000, Total Reward: -7.500000000000001, Accuracy: 0.40
+2024-05-01 17:02:59,427 - Episode End: Accuracy=0.5080645161290323, Final Reward=-5
+2024-05-01 17:02:59,427 - Episode: 124/1000, Total Reward: -4.9, Accuracy: 0.51
+2024-05-01 17:03:03,783 - Episode End: Accuracy=0.5080645161290323, Final Reward=-5
+2024-05-01 17:03:03,783 - Episode: 125/1000, Total Reward: -4.7, Accuracy: 0.51
+2024-05-01 17:03:07,962 - Episode End: Accuracy=0.5161290322580645, Final Reward=-5
+2024-05-01 17:03:07,962 - Episode: 126/1000, Total Reward: -4.7, Accuracy: 0.52
+2024-05-01 17:03:12,099 - Episode End: Accuracy=0.4596774193548387, Final Reward=-5
+2024-05-01 17:03:12,099 - Episode: 127/1000, Total Reward: -5.9, Accuracy: 0.46
+2024-05-01 17:03:16,355 - Episode End: Accuracy=0.5645161290322581, Final Reward=-5
+2024-05-01 17:03:16,356 - Episode: 128/1000, Total Reward: -3.0, Accuracy: 0.56
+2024-05-01 17:03:20,970 - Episode End: Accuracy=0.5241935483870968, Final Reward=-5
+2024-05-01 17:03:20,970 - Episode: 129/1000, Total Reward: -4.3, Accuracy: 0.52
+2024-05-01 17:03:25,348 - Episode End: Accuracy=0.5483870967741935, Final Reward=-5
+2024-05-01 17:03:25,348 - Episode: 130/1000, Total Reward: -3.4000000000000004, Accuracy: 0.55
+2024-05-01 17:03:29,824 - Episode End: Accuracy=0.5241935483870968, Final Reward=-5
+2024-05-01 17:03:29,824 - Episode: 131/1000, Total Reward: -4.3, Accuracy: 0.52
+2024-05-01 17:03:34,104 - Episode End: Accuracy=0.4274193548387097, Final Reward=-5
+2024-05-01 17:03:34,104 - Episode: 132/1000, Total Reward: -6.9, Accuracy: 0.43
+2024-05-01 17:03:38,418 - Episode End: Accuracy=0.3870967741935484, Final Reward=-5
+2024-05-01 17:03:38,419 - Episode: 133/1000, Total Reward: -7.900000000000001, Accuracy: 0.39
+2024-05-01 17:03:42,689 - Episode End: Accuracy=0.3870967741935484, Final Reward=-5
+2024-05-01 17:03:42,689 - Episode: 134/1000, Total Reward: -7.700000000000001, Accuracy: 0.39
+2024-05-01 17:03:46,579 - Episode End: Accuracy=0.4274193548387097, Final Reward=-5
+2024-05-01 17:03:46,579 - Episode: 135/1000, Total Reward: -6.7, Accuracy: 0.43
+2024-05-01 17:03:51,578 - Episode End: Accuracy=0.3387096774193548, Final Reward=-5
+2024-05-01 17:03:51,579 - Episode: 136/1000, Total Reward: -8.900000000000002, Accuracy: 0.34
+2024-05-01 17:03:56,047 - Episode End: Accuracy=0.45161290322580644, Final Reward=-5
+2024-05-01 17:03:56,047 - Episode: 137/1000, Total Reward: -6.3, Accuracy: 0.45
+2024-05-01 17:04:01,072 - Episode End: Accuracy=0.3467741935483871, Final Reward=-5
+2024-05-01 17:04:01,072 - Episode: 138/1000, Total Reward: -8.700000000000001, Accuracy: 0.35
+2024-05-01 17:04:05,630 - Episode End: Accuracy=0.4032258064516129, Final Reward=-5
+2024-05-01 17:04:05,630 - Episode: 139/1000, Total Reward: -7.300000000000001, Accuracy: 0.40
+2024-05-01 17:04:10,245 - Episode End: Accuracy=0.5241935483870968, Final Reward=-5
+2024-05-01 17:04:10,245 - Episode: 140/1000, Total Reward: -4.5, Accuracy: 0.52
+2024-05-01 17:04:15,070 - Episode End: Accuracy=0.5645161290322581, Final Reward=-5
+2024-05-01 17:04:15,070 - Episode: 141/1000, Total Reward: -3.0, Accuracy: 0.56
+2024-05-01 17:04:19,969 - Episode End: Accuracy=0.5564516129032258, Final Reward=-5
+2024-05-01 17:04:19,969 - Episode: 142/1000, Total Reward: -3.2, Accuracy: 0.56
+2024-05-01 17:04:24,377 - Episode End: Accuracy=0.6048387096774194, Final Reward=-5
+2024-05-01 17:04:24,377 - Episode: 143/1000, Total Reward: -1.4999999999999991, Accuracy: 0.60
+2024-05-01 17:04:29,099 - Episode End: Accuracy=0.5887096774193549, Final Reward=-5
+2024-05-01 17:04:29,099 - Episode: 144/1000, Total Reward: -1.8999999999999995, Accuracy: 0.59
+2024-05-01 17:04:33,718 - Episode End: Accuracy=0.6532258064516129, Final Reward=-5
+2024-05-01 17:04:33,719 - Episode: 145/1000, Total Reward: 0.1999999999999984, Accuracy: 0.65
+2024-05-01 17:04:38,286 - Episode End: Accuracy=0.5645161290322581, Final Reward=-5
+2024-05-01 17:04:38,287 - Episode: 146/1000, Total Reward: -3.0, Accuracy: 0.56
+2024-05-01 17:04:42,535 - Episode End: Accuracy=0.5483870967741935, Final Reward=-5
+2024-05-01 17:04:42,535 - Episode: 147/1000, Total Reward: -3.2, Accuracy: 0.55
+2024-05-01 17:04:47,151 - Episode End: Accuracy=0.6290322580645161, Final Reward=-5
+2024-05-01 17:04:47,151 - Episode: 148/1000, Total Reward: -0.39999999999999947, Accuracy: 0.63
+2024-05-01 17:04:51,623 - Episode End: Accuracy=0.5645161290322581, Final Reward=-5
+2024-05-01 17:04:51,623 - Episode: 149/1000, Total Reward: -3.0, Accuracy: 0.56
+2024-05-01 17:04:56,260 - Episode End: Accuracy=0.4112903225806452, Final Reward=-5
+2024-05-01 17:04:56,260 - Episode: 150/1000, Total Reward: -7.1000000000000005, Accuracy: 0.41
+2024-05-01 17:05:00,751 - Episode End: Accuracy=0.41935483870967744, Final Reward=-5
+2024-05-01 17:05:00,752 - Episode: 151/1000, Total Reward: -7.1000000000000005, Accuracy: 0.42
+2024-05-01 17:05:05,720 - Episode End: Accuracy=0.43548387096774194, Final Reward=-5
+2024-05-01 17:05:05,721 - Episode: 152/1000, Total Reward: -6.5, Accuracy: 0.44
+2024-05-01 17:05:10,360 - Episode End: Accuracy=0.3387096774193548, Final Reward=-5
+2024-05-01 17:05:10,361 - Episode: 153/1000, Total Reward: -8.900000000000002, Accuracy: 0.34
+2024-05-01 17:05:15,134 - Episode End: Accuracy=0.3709677419354839, Final Reward=-5
+2024-05-01 17:05:15,134 - Episode: 154/1000, Total Reward: -8.100000000000001, Accuracy: 0.37
+2024-05-01 17:05:19,858 - Episode End: Accuracy=0.43548387096774194, Final Reward=-5
+2024-05-01 17:05:19,858 - Episode: 155/1000, Total Reward: -6.5, Accuracy: 0.44
+2024-05-01 17:05:24,504 - Episode End: Accuracy=0.45161290322580644, Final Reward=-5
+2024-05-01 17:05:24,504 - Episode: 156/1000, Total Reward: -6.1, Accuracy: 0.45
+2024-05-01 17:05:29,339 - Episode End: Accuracy=0.3709677419354839, Final Reward=-5
+2024-05-01 17:05:29,339 - Episode: 157/1000, Total Reward: -8.3, Accuracy: 0.37
+2024-05-01 17:05:33,910 - Episode End: Accuracy=0.3790322580645161, Final Reward=-5
+2024-05-01 17:05:33,910 - Episode: 158/1000, Total Reward: -7.900000000000001, Accuracy: 0.38
+2024-05-01 17:05:38,490 - Episode End: Accuracy=0.4596774193548387, Final Reward=-5
+2024-05-01 17:05:38,490 - Episode: 159/1000, Total Reward: -5.9, Accuracy: 0.46
+2024-05-01 17:05:43,192 - Episode End: Accuracy=0.4112903225806452, Final Reward=-5
+2024-05-01 17:05:43,193 - Episode: 160/1000, Total Reward: -7.1000000000000005, Accuracy: 0.41
+2024-05-01 17:05:47,600 - Episode End: Accuracy=0.4112903225806452, Final Reward=-5
+2024-05-01 17:05:47,600 - Episode: 161/1000, Total Reward: -7.300000000000001, Accuracy: 0.41
+2024-05-01 17:05:52,336 - Episode End: Accuracy=0.4274193548387097, Final Reward=-5
+2024-05-01 17:05:52,336 - Episode: 162/1000, Total Reward: -6.9, Accuracy: 0.43
+2024-05-01 17:05:57,235 - Episode End: Accuracy=0.4435483870967742, Final Reward=-5
+2024-05-01 17:05:57,235 - Episode: 163/1000, Total Reward: -6.5, Accuracy: 0.44
+2024-05-01 17:06:01,971 - Episode End: Accuracy=0.4274193548387097, Final Reward=-5
+2024-05-01 17:06:01,971 - Episode: 164/1000, Total Reward: -6.9, Accuracy: 0.43
+2024-05-01 17:06:06,646 - Episode End: Accuracy=0.3709677419354839, Final Reward=-5
+2024-05-01 17:06:06,646 - Episode: 165/1000, Total Reward: -8.100000000000001, Accuracy: 0.37
+2024-05-01 17:06:11,302 - Episode End: Accuracy=0.3951612903225806, Final Reward=-5
+2024-05-01 17:06:11,302 - Episode: 166/1000, Total Reward: -7.500000000000001, Accuracy: 0.40
+2024-05-01 17:06:16,079 - Episode End: Accuracy=0.3629032258064516, Final Reward=-5
+2024-05-01 17:06:16,079 - Episode: 167/1000, Total Reward: -8.500000000000002, Accuracy: 0.36
+2024-05-01 17:06:20,538 - Episode End: Accuracy=0.4032258064516129, Final Reward=-5
+2024-05-01 17:06:20,539 - Episode: 168/1000, Total Reward: -7.300000000000001, Accuracy: 0.40
+2024-05-01 17:06:25,027 - Episode End: Accuracy=0.3629032258064516, Final Reward=-5
+2024-05-01 17:06:25,028 - Episode: 169/1000, Total Reward: -8.3, Accuracy: 0.36
+2024-05-01 17:06:29,767 - Episode End: Accuracy=0.3387096774193548, Final Reward=-5
+2024-05-01 17:06:29,767 - Episode: 170/1000, Total Reward: -9.100000000000001, Accuracy: 0.34
+2024-05-01 17:06:34,404 - Episode End: Accuracy=0.4435483870967742, Final Reward=-5
+2024-05-01 17:06:34,405 - Episode: 171/1000, Total Reward: -6.5, Accuracy: 0.44
+2024-05-01 17:06:38,830 - Episode End: Accuracy=0.5564516129032258, Final Reward=-5
+2024-05-01 17:06:38,830 - Episode: 172/1000, Total Reward: -3.0, Accuracy: 0.56
+2024-05-01 17:06:43,548 - Episode End: Accuracy=0.5080645161290323, Final Reward=-5
+2024-05-01 17:06:43,548 - Episode: 173/1000, Total Reward: -4.9, Accuracy: 0.51
+2024-05-01 17:06:48,402 - Episode End: Accuracy=0.5161290322580645, Final Reward=-5
+2024-05-01 17:06:48,402 - Episode: 174/1000, Total Reward: -4.7, Accuracy: 0.52
+2024-05-01 17:06:53,236 - Episode End: Accuracy=0.47580645161290325, Final Reward=-5
+2024-05-01 17:06:53,236 - Episode: 175/1000, Total Reward: -5.7, Accuracy: 0.48
+2024-05-01 17:06:58,377 - Episode End: Accuracy=0.5725806451612904, Final Reward=-5
+2024-05-01 17:06:58,377 - Episode: 176/1000, Total Reward: -2.8, Accuracy: 0.57
+2024-05-01 17:07:02,607 - Episode End: Accuracy=0.5161290322580645, Final Reward=-5
+2024-05-01 17:07:02,607 - Episode: 177/1000, Total Reward: -4.5, Accuracy: 0.52
+2024-05-01 17:07:07,217 - Episode End: Accuracy=0.532258064516129, Final Reward=-5
+2024-05-01 17:07:07,218 - Episode: 178/1000, Total Reward: -4.3, Accuracy: 0.53
+2024-05-01 17:07:11,735 - Episode End: Accuracy=0.6048387096774194, Final Reward=-5
+2024-05-01 17:07:11,735 - Episode: 179/1000, Total Reward: -1.299999999999999, Accuracy: 0.60
+2024-05-01 17:07:16,649 - Episode End: Accuracy=0.6370967741935484, Final Reward=-5
+2024-05-01 17:07:16,649 - Episode: 180/1000, Total Reward: -0.20000000000000018, Accuracy: 0.64
+2024-05-01 17:07:21,132 - Episode End: Accuracy=0.6532258064516129, Final Reward=-5
+2024-05-01 17:07:21,132 - Episode: 181/1000, Total Reward: 0.1999999999999984, Accuracy: 0.65
+2024-05-01 17:07:25,725 - Episode End: Accuracy=0.5403225806451613, Final Reward=-5
+2024-05-01 17:07:25,725 - Episode: 182/1000, Total Reward: -3.4000000000000004, Accuracy: 0.54
+2024-05-01 17:07:30,113 - Episode End: Accuracy=0.6048387096774194, Final Reward=-5
+2024-05-01 17:07:30,114 - Episode: 183/1000, Total Reward: -1.4999999999999991, Accuracy: 0.60
+2024-05-01 17:07:34,673 - Episode End: Accuracy=0.5241935483870968, Final Reward=-5
+2024-05-01 17:07:34,673 - Episode: 184/1000, Total Reward: -4.5, Accuracy: 0.52
+2024-05-01 17:07:39,266 - Episode End: Accuracy=0.49193548387096775, Final Reward=-5
+2024-05-01 17:07:39,266 - Episode: 185/1000, Total Reward: -5.3, Accuracy: 0.49
+2024-05-01 17:07:43,635 - Episode End: Accuracy=0.49193548387096775, Final Reward=-5
+2024-05-01 17:07:43,636 - Episode: 186/1000, Total Reward: -5.3, Accuracy: 0.49
+2024-05-01 17:07:48,575 - Episode End: Accuracy=0.5, Final Reward=-5
+2024-05-01 17:07:48,575 - Episode: 187/1000, Total Reward: -5.1, Accuracy: 0.50
+2024-05-01 17:07:52,841 - Episode End: Accuracy=0.5241935483870968, Final Reward=-5
+2024-05-01 17:07:52,841 - Episode: 188/1000, Total Reward: -4.5, Accuracy: 0.52
+2024-05-01 17:07:57,256 - Episode End: Accuracy=0.532258064516129, Final Reward=-5
+2024-05-01 17:07:57,256 - Episode: 189/1000, Total Reward: -4.3, Accuracy: 0.53
+2024-05-01 17:08:02,164 - Episode End: Accuracy=0.532258064516129, Final Reward=-5
+2024-05-01 17:08:02,165 - Episode: 190/1000, Total Reward: -4.3, Accuracy: 0.53
+2024-05-01 17:08:06,497 - Episode End: Accuracy=0.5080645161290323, Final Reward=-5
+2024-05-01 17:08:06,498 - Episode: 191/1000, Total Reward: -4.9, Accuracy: 0.51
+2024-05-01 17:08:10,853 - Episode End: Accuracy=0.5, Final Reward=-5
+2024-05-01 17:08:10,853 - Episode: 192/1000, Total Reward: -4.9, Accuracy: 0.50
+2024-05-01 17:08:15,170 - Episode End: Accuracy=0.5403225806451613, Final Reward=-5
+2024-05-01 17:08:15,170 - Episode: 193/1000, Total Reward: -3.6000000000000005, Accuracy: 0.54
+2024-05-01 17:08:19,995 - Episode End: Accuracy=0.5967741935483871, Final Reward=-5
+2024-05-01 17:08:19,996 - Episode: 194/1000, Total Reward: -1.6999999999999993, Accuracy: 0.60
+2024-05-01 17:08:24,565 - Episode End: Accuracy=0.4596774193548387, Final Reward=-5
+2024-05-01 17:08:24,565 - Episode: 195/1000, Total Reward: -6.1, Accuracy: 0.46
+2024-05-01 17:08:29,138 - Episode End: Accuracy=0.5967741935483871, Final Reward=-5
+2024-05-01 17:08:29,138 - Episode: 196/1000, Total Reward: -1.6999999999999993, Accuracy: 0.60
+2024-05-01 17:08:33,712 - Episode End: Accuracy=0.5564516129032258, Final Reward=-5
+2024-05-01 17:08:33,712 - Episode: 197/1000, Total Reward: -3.2, Accuracy: 0.56
+2024-05-01 17:08:37,839 - Episode End: Accuracy=0.6129032258064516, Final Reward=-5
+2024-05-01 17:08:37,839 - Episode: 198/1000, Total Reward: -1.299999999999999, Accuracy: 0.61
+2024-05-01 17:08:42,605 - Episode End: Accuracy=0.6209677419354839, Final Reward=-5
+2024-05-01 17:08:42,606 - Episode: 199/1000, Total Reward: -0.5999999999999988, Accuracy: 0.62
+2024-05-01 17:08:47,000 - Episode End: Accuracy=0.5806451612903226, Final Reward=-5
+2024-05-01 17:08:47,001 - Episode: 200/1000, Total Reward: -1.8999999999999995, Accuracy: 0.58
+2024-05-01 17:08:51,629 - Episode End: Accuracy=0.5483870967741935, Final Reward=-5
+2024-05-01 17:08:51,629 - Episode: 201/1000, Total Reward: -3.2, Accuracy: 0.55
+2024-05-01 17:08:56,475 - Episode End: Accuracy=0.6451612903225806, Final Reward=-5
+2024-05-01 17:08:56,475 - Episode: 202/1000, Total Reward: -8.881784197001252e-16, Accuracy: 0.65
+2024-05-01 17:09:01,205 - Episode End: Accuracy=0.6612903225806451, Final Reward=-5
+2024-05-01 17:09:01,205 - Episode: 203/1000, Total Reward: 0.3999999999999977, Accuracy: 0.66
+2024-05-01 17:09:05,846 - Episode End: Accuracy=0.7016129032258065, Final Reward=-5
+2024-05-01 17:09:05,846 - Episode: 204/1000, Total Reward: 1.8999999999999941, Accuracy: 0.70
+2024-05-01 17:09:10,746 - Episode End: Accuracy=0.6532258064516129, Final Reward=-5
+2024-05-01 17:09:10,746 - Episode: 205/1000, Total Reward: 0.1999999999999984, Accuracy: 0.65
+2024-05-01 17:09:15,529 - Episode End: Accuracy=0.6451612903225806, Final Reward=-5
+2024-05-01 17:09:15,530 - Episode: 206/1000, Total Reward: 0.1999999999999984, Accuracy: 0.65
+2024-05-01 17:09:20,201 - Episode End: Accuracy=0.7096774193548387, Final Reward=-5
+2024-05-01 17:09:20,201 - Episode: 207/1000, Total Reward: 2.5999999999999934, Accuracy: 0.71
+2024-05-01 17:09:24,744 - Episode End: Accuracy=0.7016129032258065, Final Reward=-5
+2024-05-01 17:09:24,745 - Episode: 208/1000, Total Reward: 1.8999999999999941, Accuracy: 0.70
+2024-05-01 17:09:29,324 - Episode End: Accuracy=0.7016129032258065, Final Reward=-5
+2024-05-01 17:09:29,325 - Episode: 209/1000, Total Reward: 1.8999999999999941, Accuracy: 0.70
+2024-05-01 17:09:34,079 - Episode End: Accuracy=0.6693548387096774, Final Reward=-5
+2024-05-01 17:09:34,079 - Episode: 210/1000, Total Reward: 1.099999999999997, Accuracy: 0.67
+2024-05-01 17:09:39,029 - Episode End: Accuracy=0.6854838709677419, Final Reward=-5
+2024-05-01 17:09:39,029 - Episode: 211/1000, Total Reward: 1.4999999999999956, Accuracy: 0.69
+2024-05-01 17:09:43,797 - Episode End: Accuracy=0.6612903225806451, Final Reward=-5
+2024-05-01 17:09:43,797 - Episode: 212/1000, Total Reward: 0.3999999999999977, Accuracy: 0.66
+2024-05-01 17:09:48,708 - Episode End: Accuracy=0.7419354838709677, Final Reward=-5
+2024-05-01 17:09:48,708 - Episode: 213/1000, Total Reward: 3.3999999999999915, Accuracy: 0.74
+2024-05-01 17:09:53,434 - Episode End: Accuracy=0.6129032258064516, Final Reward=-5
+2024-05-01 17:09:53,434 - Episode: 214/1000, Total Reward: -1.299999999999999, Accuracy: 0.61
+2024-05-01 17:09:58,117 - Episode End: Accuracy=0.6693548387096774, Final Reward=-5
+2024-05-01 17:09:58,117 - Episode: 215/1000, Total Reward: 1.099999999999997, Accuracy: 0.67
+2024-05-01 17:10:03,049 - Episode End: Accuracy=0.7016129032258065, Final Reward=-5
+2024-05-01 17:10:03,049 - Episode: 216/1000, Total Reward: 1.8999999999999941, Accuracy: 0.70
+2024-05-01 17:10:07,732 - Episode End: Accuracy=0.6693548387096774, Final Reward=-5
+2024-05-01 17:10:07,732 - Episode: 217/1000, Total Reward: 1.099999999999997, Accuracy: 0.67
+2024-05-01 17:10:12,438 - Episode End: Accuracy=0.6290322580645161, Final Reward=-5
+2024-05-01 17:10:12,438 - Episode: 218/1000, Total Reward: -0.20000000000000018, Accuracy: 0.63
+2024-05-01 17:10:16,999 - Episode End: Accuracy=0.6451612903225806, Final Reward=-5
+2024-05-01 17:10:16,999 - Episode: 219/1000, Total Reward: -8.881784197001252e-16, Accuracy: 0.65
+2024-05-01 17:10:21,866 - Episode End: Accuracy=0.7096774193548387, Final Reward=-5
+2024-05-01 17:10:21,866 - Episode: 220/1000, Total Reward: 2.5999999999999934, Accuracy: 0.71
+2024-05-01 17:10:26,748 - Episode End: Accuracy=0.6854838709677419, Final Reward=-5
+2024-05-01 17:10:26,748 - Episode: 221/1000, Total Reward: 1.4999999999999956, Accuracy: 0.69
+2024-05-01 17:10:31,536 - Episode End: Accuracy=0.6935483870967742, Final Reward=-5
+2024-05-01 17:10:31,536 - Episode: 222/1000, Total Reward: 1.6999999999999948, Accuracy: 0.69
+2024-05-01 17:10:36,412 - Episode End: Accuracy=0.5887096774193549, Final Reward=-5
+2024-05-01 17:10:36,412 - Episode: 223/1000, Total Reward: -1.8999999999999995, Accuracy: 0.59
+2024-05-01 17:10:40,872 - Episode End: Accuracy=0.5887096774193549, Final Reward=-5
+2024-05-01 17:10:40,872 - Episode: 224/1000, Total Reward: -1.8999999999999995, Accuracy: 0.59
+2024-05-01 17:10:45,692 - Episode End: Accuracy=0.5564516129032258, Final Reward=-5
+2024-05-01 17:10:45,692 - Episode: 225/1000, Total Reward: -3.2, Accuracy: 0.56
+2024-05-01 17:10:50,422 - Episode End: Accuracy=0.6129032258064516, Final Reward=-5
+2024-05-01 17:10:50,422 - Episode: 226/1000, Total Reward: -1.299999999999999, Accuracy: 0.61
+2024-05-01 17:10:55,180 - Episode End: Accuracy=0.5967741935483871, Final Reward=-5
+2024-05-01 17:10:55,180 - Episode: 227/1000, Total Reward: -1.4999999999999991, Accuracy: 0.60
+2024-05-01 17:11:00,011 - Episode End: Accuracy=0.6290322580645161, Final Reward=-5
+2024-05-01 17:11:00,012 - Episode: 228/1000, Total Reward: -0.39999999999999947, Accuracy: 0.63
+2024-05-01 17:11:04,992 - Episode End: Accuracy=0.5403225806451613, Final Reward=-5
+2024-05-01 17:11:04,993 - Episode: 229/1000, Total Reward: -3.6000000000000005, Accuracy: 0.54
+2024-05-01 17:11:09,720 - Episode End: Accuracy=0.6290322580645161, Final Reward=-5
+2024-05-01 17:11:09,720 - Episode: 230/1000, Total Reward: -0.20000000000000018, Accuracy: 0.63
+2024-05-01 17:11:14,451 - Episode End: Accuracy=0.5967741935483871, Final Reward=-5
+2024-05-01 17:11:14,451 - Episode: 231/1000, Total Reward: -1.6999999999999993, Accuracy: 0.60
+2024-05-01 17:11:19,760 - Episode End: Accuracy=0.6209677419354839, Final Reward=-5
+2024-05-01 17:11:19,760 - Episode: 232/1000, Total Reward: -1.0999999999999992, Accuracy: 0.62
+2024-05-01 17:11:24,564 - Episode End: Accuracy=0.5483870967741935, Final Reward=-5
+2024-05-01 17:11:24,564 - Episode: 233/1000, Total Reward: -3.4000000000000004, Accuracy: 0.55
+2024-05-01 17:11:29,689 - Episode End: Accuracy=0.5564516129032258, Final Reward=-5
+2024-05-01 17:11:29,689 - Episode: 234/1000, Total Reward: -3.2, Accuracy: 0.56
+2024-05-01 17:11:34,652 - Episode End: Accuracy=0.47580645161290325, Final Reward=-5
+2024-05-01 17:11:34,652 - Episode: 235/1000, Total Reward: -5.7, Accuracy: 0.48
+2024-05-01 17:11:39,312 - Episode End: Accuracy=0.5483870967741935, Final Reward=-5
+2024-05-01 17:11:39,312 - Episode: 236/1000, Total Reward: -3.2, Accuracy: 0.55
+2024-05-01 17:11:44,456 - Episode End: Accuracy=0.532258064516129, Final Reward=-5
+2024-05-01 17:11:44,457 - Episode: 237/1000, Total Reward: -3.8000000000000007, Accuracy: 0.53
+2024-05-01 17:11:49,554 - Episode End: Accuracy=0.5725806451612904, Final Reward=-5
+2024-05-01 17:11:49,554 - Episode: 238/1000, Total Reward: -2.8, Accuracy: 0.57
+2024-05-01 17:11:54,429 - Episode End: Accuracy=0.6370967741935484, Final Reward=-5
+2024-05-01 17:11:54,429 - Episode: 239/1000, Total Reward: -0.20000000000000018, Accuracy: 0.64
+2024-05-01 17:11:59,157 - Episode End: Accuracy=0.6612903225806451, Final Reward=-5
+2024-05-01 17:11:59,157 - Episode: 240/1000, Total Reward: 0.3999999999999977, Accuracy: 0.66
+2024-05-01 17:12:04,046 - Episode End: Accuracy=0.6209677419354839, Final Reward=-5
+2024-05-01 17:12:04,047 - Episode: 241/1000, Total Reward: -1.0999999999999988, Accuracy: 0.62
+2024-05-01 17:12:08,845 - Episode End: Accuracy=0.6370967741935484, Final Reward=-5
+2024-05-01 17:12:08,845 - Episode: 242/1000, Total Reward: -8.881784197001252e-16, Accuracy: 0.64
+2024-05-01 17:12:13,634 - Episode End: Accuracy=0.532258064516129, Final Reward=-5
+2024-05-01 17:12:13,634 - Episode: 243/1000, Total Reward: -4.3, Accuracy: 0.53
+2024-05-01 17:12:18,535 - Episode End: Accuracy=0.4596774193548387, Final Reward=-5
+2024-05-01 17:12:18,535 - Episode: 244/1000, Total Reward: -6.1, Accuracy: 0.46
+2024-05-01 17:12:23,245 - Episode End: Accuracy=0.4596774193548387, Final Reward=-5
+2024-05-01 17:12:23,245 - Episode: 245/1000, Total Reward: -6.1, Accuracy: 0.46
+2024-05-01 17:12:27,993 - Episode End: Accuracy=0.46774193548387094, Final Reward=-5
+2024-05-01 17:12:27,993 - Episode: 246/1000, Total Reward: -5.9, Accuracy: 0.47
+2024-05-01 17:12:32,864 - Episode End: Accuracy=0.49193548387096775, Final Reward=-5
+2024-05-01 17:12:32,864 - Episode: 247/1000, Total Reward: -5.3, Accuracy: 0.49
+2024-05-01 17:12:37,598 - Episode End: Accuracy=0.43548387096774194, Final Reward=-5
+2024-05-01 17:12:37,599 - Episode: 248/1000, Total Reward: -6.5, Accuracy: 0.44
+2024-05-01 17:12:42,406 - Episode End: Accuracy=0.5080645161290323, Final Reward=-5
+2024-05-01 17:12:42,406 - Episode: 249/1000, Total Reward: -4.9, Accuracy: 0.51
+2024-05-01 17:12:47,222 - Episode End: Accuracy=0.4596774193548387, Final Reward=-5
+2024-05-01 17:12:47,222 - Episode: 250/1000, Total Reward: -6.1, Accuracy: 0.46
+2024-05-01 17:12:52,041 - Episode End: Accuracy=0.5403225806451613, Final Reward=-5
+2024-05-01 17:12:52,041 - Episode: 251/1000, Total Reward: -3.4000000000000004, Accuracy: 0.54
+2024-05-01 17:12:56,765 - Episode End: Accuracy=0.5725806451612904, Final Reward=-5
+2024-05-01 17:12:56,765 - Episode: 252/1000, Total Reward: -2.8, Accuracy: 0.57
+2024-05-01 17:13:01,830 - Episode End: Accuracy=0.6532258064516129, Final Reward=-5
+2024-05-01 17:13:01,830 - Episode: 253/1000, Total Reward: 0.1999999999999984, Accuracy: 0.65
+2024-05-01 17:13:06,779 - Episode End: Accuracy=0.6290322580645161, Final Reward=-5
+2024-05-01 17:13:06,779 - Episode: 254/1000, Total Reward: -0.39999999999999947, Accuracy: 0.63
+2024-05-01 17:13:11,646 - Episode End: Accuracy=0.6370967741935484, Final Reward=-5
+2024-05-01 17:13:11,647 - Episode: 255/1000, Total Reward: -0.20000000000000018, Accuracy: 0.64
+2024-05-01 17:13:16,582 - Episode End: Accuracy=0.6290322580645161, Final Reward=-5
+2024-05-01 17:13:16,582 - Episode: 256/1000, Total Reward: -0.39999999999999947, Accuracy: 0.63
+2024-05-01 17:13:21,243 - Episode End: Accuracy=0.6612903225806451, Final Reward=-5
+2024-05-01 17:13:21,243 - Episode: 257/1000, Total Reward: 0.3999999999999977, Accuracy: 0.66
+2024-05-01 17:13:25,962 - Episode End: Accuracy=0.6370967741935484, Final Reward=-5
+2024-05-01 17:13:25,962 - Episode: 258/1000, Total Reward: -0.20000000000000018, Accuracy: 0.64
+2024-05-01 17:13:30,590 - Episode End: Accuracy=0.5967741935483871, Final Reward=-5
+2024-05-01 17:13:30,590 - Episode: 259/1000, Total Reward: -1.6999999999999993, Accuracy: 0.60
+2024-05-01 17:13:35,893 - Episode End: Accuracy=0.6048387096774194, Final Reward=-5
+2024-05-01 17:13:35,894 - Episode: 260/1000, Total Reward: -1.4999999999999991, Accuracy: 0.60
+2024-05-01 17:13:40,720 - Episode End: Accuracy=0.5967741935483871, Final Reward=-5
+2024-05-01 17:13:40,720 - Episode: 261/1000, Total Reward: -1.6999999999999993, Accuracy: 0.60
+2024-05-01 17:13:45,900 - Episode End: Accuracy=0.6854838709677419, Final Reward=-5
+2024-05-01 17:13:45,900 - Episode: 262/1000, Total Reward: 1.4999999999999956, Accuracy: 0.69
+2024-05-01 17:13:50,798 - Episode End: Accuracy=0.6532258064516129, Final Reward=-5
+2024-05-01 17:13:50,799 - Episode: 263/1000, Total Reward: 0.1999999999999984, Accuracy: 0.65
+2024-05-01 17:13:55,313 - Episode End: Accuracy=0.7016129032258065, Final Reward=-5
+2024-05-01 17:13:55,313 - Episode: 264/1000, Total Reward: 1.8999999999999941, Accuracy: 0.70
+2024-05-01 17:14:00,204 - Episode End: Accuracy=0.6290322580645161, Final Reward=-5
+2024-05-01 17:14:00,204 - Episode: 265/1000, Total Reward: -0.39999999999999947, Accuracy: 0.63
+2024-05-01 17:14:05,359 - Episode End: Accuracy=0.7258064516129032, Final Reward=-5
+2024-05-01 17:14:05,360 - Episode: 266/1000, Total Reward: 2.999999999999992, Accuracy: 0.73
+2024-05-01 17:14:10,403 - Episode End: Accuracy=0.6693548387096774, Final Reward=-5
+2024-05-01 17:14:10,403 - Episode: 267/1000, Total Reward: 1.099999999999997, Accuracy: 0.67
+2024-05-01 17:14:15,465 - Episode End: Accuracy=0.7338709677419355, Final Reward=-5
+2024-05-01 17:14:15,465 - Episode: 268/1000, Total Reward: 3.199999999999992, Accuracy: 0.73
+2024-05-01 17:14:20,495 - Episode End: Accuracy=0.6612903225806451, Final Reward=-5
+2024-05-01 17:14:20,495 - Episode: 269/1000, Total Reward: 1.099999999999997, Accuracy: 0.66
+2024-05-01 17:14:25,637 - Episode End: Accuracy=0.6612903225806451, Final Reward=-5
+2024-05-01 17:14:25,637 - Episode: 270/1000, Total Reward: 0.3999999999999977, Accuracy: 0.66
+2024-05-01 17:14:30,790 - Episode End: Accuracy=0.6854838709677419, Final Reward=-5
+2024-05-01 17:14:30,790 - Episode: 271/1000, Total Reward: 1.4999999999999956, Accuracy: 0.69
+2024-05-01 17:14:36,064 - Episode End: Accuracy=0.6935483870967742, Final Reward=-5
+2024-05-01 17:14:36,064 - Episode: 272/1000, Total Reward: 1.6999999999999948, Accuracy: 0.69
+2024-05-01 17:14:40,717 - Episode End: Accuracy=0.6048387096774194, Final Reward=-5
+2024-05-01 17:14:40,717 - Episode: 273/1000, Total Reward: -1.4999999999999991, Accuracy: 0.60
+2024-05-01 17:14:45,509 - Episode End: Accuracy=0.5967741935483871, Final Reward=-5
+2024-05-01 17:14:45,509 - Episode: 274/1000, Total Reward: -1.6999999999999993, Accuracy: 0.60
+2024-05-01 17:14:50,506 - Episode End: Accuracy=0.5564516129032258, Final Reward=-5
+2024-05-01 17:14:50,506 - Episode: 275/1000, Total Reward: -3.2, Accuracy: 0.56
+2024-05-01 17:14:55,579 - Episode End: Accuracy=0.5403225806451613, Final Reward=-5
+2024-05-01 17:14:55,579 - Episode: 276/1000, Total Reward: -3.6000000000000005, Accuracy: 0.54
+2024-05-01 17:15:00,481 - Episode End: Accuracy=0.4596774193548387, Final Reward=-5
+2024-05-01 17:15:00,481 - Episode: 277/1000, Total Reward: -6.1, Accuracy: 0.46
+2024-05-01 17:15:05,539 - Episode End: Accuracy=0.4274193548387097, Final Reward=-5
+2024-05-01 17:15:05,539 - Episode: 278/1000, Total Reward: -6.9, Accuracy: 0.43
+2024-05-01 17:15:10,503 - Episode End: Accuracy=0.5080645161290323, Final Reward=-5
+2024-05-01 17:15:10,503 - Episode: 279/1000, Total Reward: -4.7, Accuracy: 0.51
+2024-05-01 17:15:15,714 - Episode End: Accuracy=0.5887096774193549, Final Reward=-5
+2024-05-01 17:15:15,714 - Episode: 280/1000, Total Reward: -1.8999999999999995, Accuracy: 0.59
+2024-05-01 17:15:20,898 - Episode End: Accuracy=0.5887096774193549, Final Reward=-5
+2024-05-01 17:15:20,899 - Episode: 281/1000, Total Reward: -1.8999999999999995, Accuracy: 0.59
+2024-05-01 17:15:26,094 - Episode End: Accuracy=0.6693548387096774, Final Reward=-5
+2024-05-01 17:15:26,094 - Episode: 282/1000, Total Reward: 1.099999999999997, Accuracy: 0.67
+2024-05-01 17:15:31,183 - Episode End: Accuracy=0.6693548387096774, Final Reward=-5
+2024-05-01 17:15:31,183 - Episode: 283/1000, Total Reward: 1.099999999999997, Accuracy: 0.67
+2024-05-01 17:15:36,054 - Episode End: Accuracy=0.6612903225806451, Final Reward=-5
+2024-05-01 17:15:36,054 - Episode: 284/1000, Total Reward: 0.3999999999999977, Accuracy: 0.66
+2024-05-01 17:15:41,374 - Episode End: Accuracy=0.6532258064516129, Final Reward=-5
+2024-05-01 17:15:41,374 - Episode: 285/1000, Total Reward: 0.1999999999999984, Accuracy: 0.65
+2024-05-01 17:15:46,342 - Episode End: Accuracy=0.6451612903225806, Final Reward=-5
+2024-05-01 17:15:46,343 - Episode: 286/1000, Total Reward: -8.881784197001252e-16, Accuracy: 0.65
+2024-05-01 17:15:51,677 - Episode End: Accuracy=0.6935483870967742, Final Reward=-5
+2024-05-01 17:15:51,678 - Episode: 287/1000, Total Reward: 1.6999999999999948, Accuracy: 0.69
+2024-05-01 17:15:56,752 - Episode End: Accuracy=0.6370967741935484, Final Reward=-5
+2024-05-01 17:15:56,752 - Episode: 288/1000, Total Reward: -0.20000000000000018, Accuracy: 0.64
+2024-05-01 17:16:01,734 - Episode End: Accuracy=0.6612903225806451, Final Reward=-5
+2024-05-01 17:16:01,735 - Episode: 289/1000, Total Reward: 0.3999999999999977, Accuracy: 0.66
+2024-05-01 17:16:06,811 - Episode End: Accuracy=0.6370967741935484, Final Reward=-5
+2024-05-01 17:16:06,811 - Episode: 290/1000, Total Reward: -0.20000000000000018, Accuracy: 0.64
+2024-05-01 17:16:11,976 - Episode End: Accuracy=0.6774193548387096, Final Reward=-5
+2024-05-01 17:16:11,976 - Episode: 291/1000, Total Reward: 1.2999999999999963, Accuracy: 0.68
+2024-05-01 17:16:17,041 - Episode End: Accuracy=0.6129032258064516, Final Reward=-5
+2024-05-01 17:16:17,042 - Episode: 292/1000, Total Reward: -1.299999999999999, Accuracy: 0.61
+2024-05-01 17:16:22,050 - Episode End: Accuracy=0.5161290322580645, Final Reward=-5
+2024-05-01 17:16:22,050 - Episode: 293/1000, Total Reward: -4.5, Accuracy: 0.52
+2024-05-01 17:16:27,051 - Episode End: Accuracy=0.4435483870967742, Final Reward=-5
+2024-05-01 17:16:27,051 - Episode: 294/1000, Total Reward: -6.5, Accuracy: 0.44
+2024-05-01 17:16:32,231 - Episode End: Accuracy=0.43548387096774194, Final Reward=-5
+2024-05-01 17:16:32,231 - Episode: 295/1000, Total Reward: -6.7, Accuracy: 0.44
+2024-05-01 17:16:37,503 - Episode End: Accuracy=0.4435483870967742, Final Reward=-5
+2024-05-01 17:16:37,503 - Episode: 296/1000, Total Reward: -6.5, Accuracy: 0.44
+2024-05-01 17:16:42,468 - Episode End: Accuracy=0.49193548387096775, Final Reward=-5
+2024-05-01 17:16:42,468 - Episode: 297/1000, Total Reward: -5.3, Accuracy: 0.49
+2024-05-01 17:16:48,333 - Episode End: Accuracy=0.45161290322580644, Final Reward=-5
+2024-05-01 17:16:48,333 - Episode: 298/1000, Total Reward: -6.3, Accuracy: 0.45
+2024-05-01 17:16:53,670 - Episode End: Accuracy=0.45161290322580644, Final Reward=-5
+2024-05-01 17:16:53,671 - Episode: 299/1000, Total Reward: -6.3, Accuracy: 0.45
+2024-05-01 17:16:58,846 - Episode End: Accuracy=0.47580645161290325, Final Reward=-5
+2024-05-01 17:16:58,846 - Episode: 300/1000, Total Reward: -5.7, Accuracy: 0.48
+2024-05-01 17:17:04,025 - Episode End: Accuracy=0.4435483870967742, Final Reward=-5
+2024-05-01 17:17:04,025 - Episode: 301/1000, Total Reward: -6.5, Accuracy: 0.44
+2024-05-01 17:17:09,252 - Episode End: Accuracy=0.5, Final Reward=-5
+2024-05-01 17:17:09,252 - Episode: 302/1000, Total Reward: -5.1, Accuracy: 0.50
+2024-05-01 17:17:14,379 - Episode End: Accuracy=0.47580645161290325, Final Reward=-5
+2024-05-01 17:17:14,379 - Episode: 303/1000, Total Reward: -5.7, Accuracy: 0.48
+2024-05-01 17:17:19,351 - Episode End: Accuracy=0.5080645161290323, Final Reward=-5
+2024-05-01 17:17:19,352 - Episode: 304/1000, Total Reward: -4.9, Accuracy: 0.51
+2024-05-01 17:17:24,286 - Episode End: Accuracy=0.5564516129032258, Final Reward=-5
+2024-05-01 17:17:24,286 - Episode: 305/1000, Total Reward: -3.2, Accuracy: 0.56
+2024-05-01 17:17:29,528 - Episode End: Accuracy=0.5806451612903226, Final Reward=-5
+2024-05-01 17:17:29,528 - Episode: 306/1000, Total Reward: -2.0999999999999996, Accuracy: 0.58
+2024-05-01 17:17:34,748 - Episode End: Accuracy=0.6370967741935484, Final Reward=-5
+2024-05-01 17:17:34,749 - Episode: 307/1000, Total Reward: -0.20000000000000018, Accuracy: 0.64
+2024-05-01 17:17:39,951 - Episode End: Accuracy=0.6048387096774194, Final Reward=-5
+2024-05-01 17:17:39,951 - Episode: 308/1000, Total Reward: -1.299999999999999, Accuracy: 0.60
+2024-05-01 17:17:45,185 - Episode End: Accuracy=0.6451612903225806, Final Reward=-5
+2024-05-01 17:17:45,185 - Episode: 309/1000, Total Reward: -8.881784197001252e-16, Accuracy: 0.65
+2024-05-01 17:17:50,350 - Episode End: Accuracy=0.6370967741935484, Final Reward=-5
+2024-05-01 17:17:50,350 - Episode: 310/1000, Total Reward: -8.881784197001252e-16, Accuracy: 0.64
+2024-05-01 17:17:55,620 - Episode End: Accuracy=0.6129032258064516, Final Reward=-5
+2024-05-01 17:17:55,621 - Episode: 311/1000, Total Reward: -1.299999999999999, Accuracy: 0.61
+2024-05-01 17:18:00,755 - Episode End: Accuracy=0.5483870967741935, Final Reward=-5
+2024-05-01 17:18:00,755 - Episode: 312/1000, Total Reward: -3.4000000000000004, Accuracy: 0.55
+2024-05-01 17:18:05,689 - Episode End: Accuracy=0.5080645161290323, Final Reward=-5
+2024-05-01 17:18:05,690 - Episode: 313/1000, Total Reward: -4.9, Accuracy: 0.51
+2024-05-01 17:18:10,780 - Episode End: Accuracy=0.5161290322580645, Final Reward=-5
+2024-05-01 17:18:10,780 - Episode: 314/1000, Total Reward: -4.7, Accuracy: 0.52
+2024-05-01 17:18:16,062 - Episode End: Accuracy=0.4435483870967742, Final Reward=-5
+2024-05-01 17:18:16,062 - Episode: 315/1000, Total Reward: -6.5, Accuracy: 0.44
+2024-05-01 17:18:21,319 - Episode End: Accuracy=0.5, Final Reward=-5
+2024-05-01 17:18:21,319 - Episode: 316/1000, Total Reward: -5.1, Accuracy: 0.50
+2024-05-01 17:18:26,464 - Episode End: Accuracy=0.5725806451612904, Final Reward=-5
+2024-05-01 17:18:26,464 - Episode: 317/1000, Total Reward: -2.8, Accuracy: 0.57
+2024-05-01 17:18:31,596 - Episode End: Accuracy=0.6129032258064516, Final Reward=-5
+2024-05-01 17:18:31,596 - Episode: 318/1000, Total Reward: -1.299999999999999, Accuracy: 0.61
+2024-05-01 17:18:36,916 - Episode End: Accuracy=0.6532258064516129, Final Reward=-5
+2024-05-01 17:18:36,916 - Episode: 319/1000, Total Reward: 0.3999999999999977, Accuracy: 0.65
+2024-05-01 17:18:42,319 - Episode End: Accuracy=0.5645161290322581, Final Reward=-5
+2024-05-01 17:18:42,319 - Episode: 320/1000, Total Reward: -3.0, Accuracy: 0.56
+2024-05-01 17:18:47,565 - Episode End: Accuracy=0.4274193548387097, Final Reward=-5
+2024-05-01 17:18:47,565 - Episode: 321/1000, Total Reward: -6.9, Accuracy: 0.43
+2024-05-01 17:18:52,706 - Episode End: Accuracy=0.45161290322580644, Final Reward=-5
+2024-05-01 17:18:52,706 - Episode: 322/1000, Total Reward: -6.1, Accuracy: 0.45
+2024-05-01 17:18:57,932 - Episode End: Accuracy=0.4274193548387097, Final Reward=-5
+2024-05-01 17:18:57,933 - Episode: 323/1000, Total Reward: -6.9, Accuracy: 0.43
+2024-05-01 17:19:03,198 - Episode End: Accuracy=0.4112903225806452, Final Reward=-5
+2024-05-01 17:19:03,198 - Episode: 324/1000, Total Reward: -7.300000000000001, Accuracy: 0.41
+2024-05-01 17:19:08,596 - Episode End: Accuracy=0.41935483870967744, Final Reward=-5
+2024-05-01 17:19:08,596 - Episode: 325/1000, Total Reward: -7.1000000000000005, Accuracy: 0.42
+2024-05-01 17:19:13,917 - Episode End: Accuracy=0.5080645161290323, Final Reward=-5
+2024-05-01 17:19:13,917 - Episode: 326/1000, Total Reward: -4.9, Accuracy: 0.51
+2024-05-01 17:19:19,223 - Episode End: Accuracy=0.7016129032258065, Final Reward=-5
+2024-05-01 17:19:19,223 - Episode: 327/1000, Total Reward: 1.8999999999999941, Accuracy: 0.70
+2024-05-01 17:19:24,258 - Episode End: Accuracy=0.7016129032258065, Final Reward=-5
+2024-05-01 17:19:24,258 - Episode: 328/1000, Total Reward: 2.5999999999999934, Accuracy: 0.70
+2024-05-01 17:19:29,690 - Episode End: Accuracy=0.7338709677419355, Final Reward=-5
+2024-05-01 17:19:29,690 - Episode: 329/1000, Total Reward: 3.199999999999992, Accuracy: 0.73
+2024-05-01 17:19:35,134 - Episode End: Accuracy=0.7096774193548387, Final Reward=-5
+2024-05-01 17:19:35,134 - Episode: 330/1000, Total Reward: 2.5999999999999934, Accuracy: 0.71
+2024-05-01 17:19:40,118 - Episode End: Accuracy=0.7016129032258065, Final Reward=-5
+2024-05-01 17:19:40,119 - Episode: 331/1000, Total Reward: 1.8999999999999941, Accuracy: 0.70
+2024-05-01 17:19:45,625 - Episode End: Accuracy=0.7096774193548387, Final Reward=-5
+2024-05-01 17:19:45,626 - Episode: 332/1000, Total Reward: 2.5999999999999934, Accuracy: 0.71
+2024-05-01 17:19:50,605 - Episode End: Accuracy=0.7258064516129032, Final Reward=-5
+2024-05-01 17:19:50,605 - Episode: 333/1000, Total Reward: 2.999999999999992, Accuracy: 0.73
+2024-05-01 17:19:55,502 - Episode End: Accuracy=0.6693548387096774, Final Reward=-5
+2024-05-01 17:19:55,502 - Episode: 334/1000, Total Reward: 1.099999999999997, Accuracy: 0.67
+2024-05-01 17:20:00,774 - Episode End: Accuracy=0.6612903225806451, Final Reward=-5
+2024-05-01 17:20:00,774 - Episode: 335/1000, Total Reward: 0.3999999999999977, Accuracy: 0.66
+2024-05-01 17:20:06,048 - Episode End: Accuracy=0.6129032258064516, Final Reward=-5
+2024-05-01 17:20:06,048 - Episode: 336/1000, Total Reward: -1.299999999999999, Accuracy: 0.61
+2024-05-01 17:20:11,258 - Episode End: Accuracy=0.6854838709677419, Final Reward=-5
+2024-05-01 17:20:11,258 - Episode: 337/1000, Total Reward: 1.6999999999999948, Accuracy: 0.69
+2024-05-01 17:20:16,464 - Episode End: Accuracy=0.7016129032258065, Final Reward=-5
+2024-05-01 17:20:16,464 - Episode: 338/1000, Total Reward: 1.8999999999999941, Accuracy: 0.70
+2024-05-01 17:20:21,964 - Episode End: Accuracy=0.7338709677419355, Final Reward=-5
+2024-05-01 17:20:21,964 - Episode: 339/1000, Total Reward: 3.199999999999992, Accuracy: 0.73
+2024-05-01 17:20:27,356 - Episode End: Accuracy=0.6854838709677419, Final Reward=-5
+2024-05-01 17:20:27,356 - Episode: 340/1000, Total Reward: 1.4999999999999956, Accuracy: 0.69
+2024-05-01 17:20:32,585 - Episode End: Accuracy=0.6774193548387096, Final Reward=-5
+2024-05-01 17:20:32,585 - Episode: 341/1000, Total Reward: 1.2999999999999963, Accuracy: 0.68
+2024-05-01 17:20:37,748 - Episode End: Accuracy=0.6612903225806451, Final Reward=-5
+2024-05-01 17:20:37,749 - Episode: 342/1000, Total Reward: 1.099999999999997, Accuracy: 0.66
+2024-05-01 17:20:43,141 - Episode End: Accuracy=0.6290322580645161, Final Reward=-5
+2024-05-01 17:20:43,141 - Episode: 343/1000, Total Reward: -0.20000000000000018, Accuracy: 0.63
+2024-05-01 17:20:48,420 - Episode End: Accuracy=0.6532258064516129, Final Reward=-5
+2024-05-01 17:20:48,420 - Episode: 344/1000, Total Reward: 0.1999999999999984, Accuracy: 0.65
+2024-05-01 17:20:53,943 - Episode End: Accuracy=0.6774193548387096, Final Reward=-5
+2024-05-01 17:20:53,944 - Episode: 345/1000, Total Reward: 1.2999999999999963, Accuracy: 0.68
+2024-05-01 17:20:59,104 - Episode End: Accuracy=0.7016129032258065, Final Reward=-5
+2024-05-01 17:20:59,105 - Episode: 346/1000, Total Reward: 1.8999999999999941, Accuracy: 0.70
+2024-05-01 17:21:04,632 - Episode End: Accuracy=0.6693548387096774, Final Reward=-5
+2024-05-01 17:21:04,632 - Episode: 347/1000, Total Reward: 1.2999999999999963, Accuracy: 0.67
+2024-05-01 17:21:09,948 - Episode End: Accuracy=0.7016129032258065, Final Reward=-5
+2024-05-01 17:21:09,948 - Episode: 348/1000, Total Reward: 1.8999999999999941, Accuracy: 0.70
+2024-05-01 17:21:15,438 - Episode End: Accuracy=0.7258064516129032, Final Reward=-5
+2024-05-01 17:21:15,439 - Episode: 349/1000, Total Reward: 2.999999999999992, Accuracy: 0.73
+2024-05-01 17:21:20,811 - Episode End: Accuracy=0.6451612903225806, Final Reward=-5
+2024-05-01 17:21:20,812 - Episode: 350/1000, Total Reward: -8.881784197001252e-16, Accuracy: 0.65
+2024-05-01 17:21:26,242 - Episode End: Accuracy=0.6290322580645161, Final Reward=-5
+2024-05-01 17:21:26,242 - Episode: 351/1000, Total Reward: -0.39999999999999947, Accuracy: 0.63
+2024-05-01 17:21:31,429 - Episode End: Accuracy=0.6048387096774194, Final Reward=-5
+2024-05-01 17:21:31,429 - Episode: 352/1000, Total Reward: -1.4999999999999991, Accuracy: 0.60
+2024-05-01 17:21:36,838 - Episode End: Accuracy=0.6290322580645161, Final Reward=-5
+2024-05-01 17:21:36,838 - Episode: 353/1000, Total Reward: -0.39999999999999947, Accuracy: 0.63
+2024-05-01 17:21:42,349 - Episode End: Accuracy=0.5806451612903226, Final Reward=-5
+2024-05-01 17:21:42,349 - Episode: 354/1000, Total Reward: -2.0999999999999996, Accuracy: 0.58
+2024-05-01 17:21:47,823 - Episode End: Accuracy=0.6129032258064516, Final Reward=-5
+2024-05-01 17:21:47,824 - Episode: 355/1000, Total Reward: -1.2999999999999994, Accuracy: 0.61
+2024-05-01 17:21:53,167 - Episode End: Accuracy=0.5483870967741935, Final Reward=-5
+2024-05-01 17:21:53,167 - Episode: 356/1000, Total Reward: -3.4000000000000004, Accuracy: 0.55
+2024-05-01 17:21:58,662 - Episode End: Accuracy=0.5725806451612904, Final Reward=-5
+2024-05-01 17:21:58,662 - Episode: 357/1000, Total Reward: -2.8, Accuracy: 0.57
+2024-05-01 17:22:03,898 - Episode End: Accuracy=0.5967741935483871, Final Reward=-5
+2024-05-01 17:22:03,898 - Episode: 358/1000, Total Reward: -1.6999999999999993, Accuracy: 0.60
+2024-05-01 17:22:09,409 - Episode End: Accuracy=0.717741935483871, Final Reward=-5
+2024-05-01 17:22:09,409 - Episode: 359/1000, Total Reward: 2.7999999999999927, Accuracy: 0.72
+2024-05-01 17:22:14,982 - Episode End: Accuracy=0.7580645161290323, Final Reward=5
+2024-05-01 17:22:14,982 - Episode: 360/1000, Total Reward: 14.29999999999999, Accuracy: 0.76
+2024-05-01 17:22:20,392 - Episode End: Accuracy=0.7016129032258065, Final Reward=-5
+2024-05-01 17:22:20,392 - Episode: 361/1000, Total Reward: 1.8999999999999941, Accuracy: 0.70
+2024-05-01 17:22:25,803 - Episode End: Accuracy=0.75, Final Reward=5
+2024-05-01 17:22:25,803 - Episode: 362/1000, Total Reward: 14.09999999999999, Accuracy: 0.75
+2024-05-01 17:22:31,133 - Episode End: Accuracy=0.7419354838709677, Final Reward=-5
+2024-05-01 17:22:31,134 - Episode: 363/1000, Total Reward: 3.3999999999999915, Accuracy: 0.74
+2024-05-01 17:22:36,492 - Episode End: Accuracy=0.7338709677419355, Final Reward=-5
+2024-05-01 17:22:36,493 - Episode: 364/1000, Total Reward: 3.199999999999992, Accuracy: 0.73
+2024-05-01 17:22:41,842 - Episode End: Accuracy=0.6693548387096774, Final Reward=-5
+2024-05-01 17:22:41,843 - Episode: 365/1000, Total Reward: 1.099999999999997, Accuracy: 0.67
+2024-05-01 17:22:47,108 - Episode End: Accuracy=0.6451612903225806, Final Reward=-5
+2024-05-01 17:22:47,109 - Episode: 366/1000, Total Reward: -8.881784197001252e-16, Accuracy: 0.65
+2024-05-01 17:22:52,621 - Episode End: Accuracy=0.6612903225806451, Final Reward=-5
+2024-05-01 17:22:52,621 - Episode: 367/1000, Total Reward: 0.3999999999999977, Accuracy: 0.66
+2024-05-01 17:22:58,062 - Episode End: Accuracy=0.6693548387096774, Final Reward=-5
+2024-05-01 17:22:58,062 - Episode: 368/1000, Total Reward: 1.099999999999997, Accuracy: 0.67
+2024-05-01 17:23:04,010 - Episode End: Accuracy=0.6370967741935484, Final Reward=-5
+2024-05-01 17:23:04,011 - Episode: 369/1000, Total Reward: -0.20000000000000018, Accuracy: 0.64
+2024-05-01 17:23:09,524 - Episode End: Accuracy=0.5645161290322581, Final Reward=-5
+2024-05-01 17:23:09,524 - Episode: 370/1000, Total Reward: -3.0, Accuracy: 0.56
+2024-05-01 17:23:14,836 - Episode End: Accuracy=0.5483870967741935, Final Reward=-5
+2024-05-01 17:23:14,836 - Episode: 371/1000, Total Reward: -3.4000000000000004, Accuracy: 0.55
+2024-05-01 17:23:20,378 - Episode End: Accuracy=0.5241935483870968, Final Reward=-5
+2024-05-01 17:23:20,378 - Episode: 372/1000, Total Reward: -4.5, Accuracy: 0.52
+2024-05-01 17:23:25,900 - Episode End: Accuracy=0.5564516129032258, Final Reward=-5
+2024-05-01 17:23:25,900 - Episode: 373/1000, Total Reward: -3.2, Accuracy: 0.56
+2024-05-01 17:23:31,160 - Episode End: Accuracy=0.5967741935483871, Final Reward=-5
+2024-05-01 17:23:31,160 - Episode: 374/1000, Total Reward: -1.6999999999999993, Accuracy: 0.60
+2024-05-01 17:23:36,518 - Episode End: Accuracy=0.6854838709677419, Final Reward=-5
+2024-05-01 17:23:36,518 - Episode: 375/1000, Total Reward: 1.4999999999999956, Accuracy: 0.69
+2024-05-01 17:23:41,912 - Episode End: Accuracy=0.6532258064516129, Final Reward=-5
+2024-05-01 17:23:41,912 - Episode: 376/1000, Total Reward: 0.1999999999999984, Accuracy: 0.65
+2024-05-01 17:23:47,218 - Episode End: Accuracy=0.7096774193548387, Final Reward=-5
+2024-05-01 17:23:47,218 - Episode: 377/1000, Total Reward: 2.5999999999999934, Accuracy: 0.71
+2024-05-01 17:23:52,626 - Episode End: Accuracy=0.7096774193548387, Final Reward=-5
+2024-05-01 17:23:52,626 - Episode: 378/1000, Total Reward: 2.5999999999999934, Accuracy: 0.71
+2024-05-01 17:23:57,895 - Episode End: Accuracy=0.717741935483871, Final Reward=-5
+2024-05-01 17:23:57,895 - Episode: 379/1000, Total Reward: 2.7999999999999927, Accuracy: 0.72
+2024-05-01 17:24:03,329 - Episode End: Accuracy=0.717741935483871, Final Reward=-5
+2024-05-01 17:24:03,329 - Episode: 380/1000, Total Reward: 2.7999999999999927, Accuracy: 0.72
+2024-05-01 17:24:08,494 - Episode End: Accuracy=0.6370967741935484, Final Reward=-5
+2024-05-01 17:24:08,494 - Episode: 381/1000, Total Reward: -0.20000000000000018, Accuracy: 0.64
+2024-05-01 17:24:13,923 - Episode End: Accuracy=0.717741935483871, Final Reward=-5
+2024-05-01 17:24:13,923 - Episode: 382/1000, Total Reward: 2.999999999999992, Accuracy: 0.72
+2024-05-01 17:24:19,572 - Episode End: Accuracy=0.6854838709677419, Final Reward=-5
+2024-05-01 17:24:19,572 - Episode: 383/1000, Total Reward: 1.6999999999999948, Accuracy: 0.69
+2024-05-01 17:24:25,036 - Episode End: Accuracy=0.7096774193548387, Final Reward=-5
+2024-05-01 17:24:25,036 - Episode: 384/1000, Total Reward: 2.5999999999999934, Accuracy: 0.71
+2024-05-01 17:24:30,446 - Episode End: Accuracy=0.6290322580645161, Final Reward=-5
+2024-05-01 17:24:30,446 - Episode: 385/1000, Total Reward: -0.39999999999999947, Accuracy: 0.63
+2024-05-01 17:24:35,772 - Episode End: Accuracy=0.6693548387096774, Final Reward=-5
+2024-05-01 17:24:35,772 - Episode: 386/1000, Total Reward: 1.099999999999997, Accuracy: 0.67
+2024-05-01 17:24:41,386 - Episode End: Accuracy=0.6451612903225806, Final Reward=-5
+2024-05-01 17:24:41,386 - Episode: 387/1000, Total Reward: -8.881784197001252e-16, Accuracy: 0.65
+2024-05-01 17:24:46,939 - Episode End: Accuracy=0.5967741935483871, Final Reward=-5
+2024-05-01 17:24:46,940 - Episode: 388/1000, Total Reward: -1.6999999999999993, Accuracy: 0.60
+2024-05-01 17:24:52,375 - Episode End: Accuracy=0.532258064516129, Final Reward=-5
+2024-05-01 17:24:52,376 - Episode: 389/1000, Total Reward: -3.6000000000000005, Accuracy: 0.53
+2024-05-01 17:24:57,898 - Episode End: Accuracy=0.5080645161290323, Final Reward=-5
+2024-05-01 17:24:57,899 - Episode: 390/1000, Total Reward: -4.2, Accuracy: 0.51
+2024-05-01 17:25:03,387 - Episode End: Accuracy=0.4596774193548387, Final Reward=-5
+2024-05-01 17:25:03,387 - Episode: 391/1000, Total Reward: -5.9, Accuracy: 0.46
+2024-05-01 17:25:08,811 - Episode End: Accuracy=0.3951612903225806, Final Reward=-5
+2024-05-01 17:25:08,811 - Episode: 392/1000, Total Reward: -7.500000000000001, Accuracy: 0.40
+2024-05-01 17:25:14,403 - Episode End: Accuracy=0.4112903225806452, Final Reward=-5
+2024-05-01 17:25:14,403 - Episode: 393/1000, Total Reward: -7.1000000000000005, Accuracy: 0.41
+2024-05-01 17:25:20,016 - Episode End: Accuracy=0.4032258064516129, Final Reward=-5
+2024-05-01 17:25:20,016 - Episode: 394/1000, Total Reward: -7.300000000000001, Accuracy: 0.40
+2024-05-01 17:25:25,376 - Episode End: Accuracy=0.3870967741935484, Final Reward=-5
+2024-05-01 17:25:25,376 - Episode: 395/1000, Total Reward: -7.700000000000001, Accuracy: 0.39
+2024-05-01 17:25:30,839 - Episode End: Accuracy=0.3870967741935484, Final Reward=-5
+2024-05-01 17:25:30,839 - Episode: 396/1000, Total Reward: -7.700000000000001, Accuracy: 0.39
+2024-05-01 17:25:36,347 - Episode End: Accuracy=0.49193548387096775, Final Reward=-5
+2024-05-01 17:25:36,347 - Episode: 397/1000, Total Reward: -5.3, Accuracy: 0.49
+2024-05-01 17:25:41,895 - Episode End: Accuracy=0.5887096774193549, Final Reward=-5
+2024-05-01 17:25:41,895 - Episode: 398/1000, Total Reward: -1.8999999999999995, Accuracy: 0.59
+2024-05-01 17:25:47,340 - Episode End: Accuracy=0.5887096774193549, Final Reward=-5
+2024-05-01 17:25:47,341 - Episode: 399/1000, Total Reward: -1.8999999999999995, Accuracy: 0.59
+2024-05-01 17:25:52,978 - Episode End: Accuracy=0.6129032258064516, Final Reward=-5
+2024-05-01 17:25:52,978 - Episode: 400/1000, Total Reward: -1.299999999999999, Accuracy: 0.61
+2024-05-01 17:25:58,597 - Episode End: Accuracy=0.6532258064516129, Final Reward=-5
+2024-05-01 17:25:58,598 - Episode: 401/1000, Total Reward: 0.1999999999999984, Accuracy: 0.65
+2024-05-01 17:26:04,100 - Episode End: Accuracy=0.717741935483871, Final Reward=-5
+2024-05-01 17:26:04,100 - Episode: 402/1000, Total Reward: 2.7999999999999927, Accuracy: 0.72
+2024-05-01 17:26:09,490 - Episode End: Accuracy=0.75, Final Reward=5
+2024-05-01 17:26:09,490 - Episode: 403/1000, Total Reward: 14.09999999999999, Accuracy: 0.75
+2024-05-01 17:26:15,051 - Episode End: Accuracy=0.7016129032258065, Final Reward=-5
+2024-05-01 17:26:15,051 - Episode: 404/1000, Total Reward: 1.8999999999999941, Accuracy: 0.70
+2024-05-01 17:26:20,662 - Episode End: Accuracy=0.7338709677419355, Final Reward=-5
+2024-05-01 17:26:20,663 - Episode: 405/1000, Total Reward: 3.199999999999992, Accuracy: 0.73
+2024-05-01 17:26:26,270 - Episode End: Accuracy=0.7580645161290323, Final Reward=5
+2024-05-01 17:26:26,270 - Episode: 406/1000, Total Reward: 14.29999999999999, Accuracy: 0.76
+2024-05-01 17:26:31,876 - Episode End: Accuracy=0.6854838709677419, Final Reward=-5
+2024-05-01 17:26:31,876 - Episode: 407/1000, Total Reward: 1.4999999999999956, Accuracy: 0.69
+2024-05-01 17:26:37,467 - Episode End: Accuracy=0.6774193548387096, Final Reward=-5
+2024-05-01 17:26:37,467 - Episode: 408/1000, Total Reward: 1.2999999999999963, Accuracy: 0.68
+2024-05-01 17:26:42,770 - Episode End: Accuracy=0.6612903225806451, Final Reward=-5
+2024-05-01 17:26:42,770 - Episode: 409/1000, Total Reward: 0.3999999999999977, Accuracy: 0.66
+2024-05-01 17:26:48,331 - Episode End: Accuracy=0.6532258064516129, Final Reward=-5
+2024-05-01 17:26:48,331 - Episode: 410/1000, Total Reward: 0.1999999999999984, Accuracy: 0.65
+2024-05-01 17:26:53,724 - Episode End: Accuracy=0.6693548387096774, Final Reward=-5
+2024-05-01 17:26:53,724 - Episode: 411/1000, Total Reward: 1.099999999999997, Accuracy: 0.67
+2024-05-01 17:26:59,256 - Episode End: Accuracy=0.75, Final Reward=5
+2024-05-01 17:26:59,256 - Episode: 412/1000, Total Reward: 14.09999999999999, Accuracy: 0.75
+2024-05-01 17:27:04,405 - Episode End: Accuracy=0.7096774193548387, Final Reward=-5
+2024-05-01 17:27:04,405 - Episode: 413/1000, Total Reward: 2.5999999999999934, Accuracy: 0.71
+2024-05-01 17:27:09,887 - Episode End: Accuracy=0.6693548387096774, Final Reward=-5
+2024-05-01 17:27:09,887 - Episode: 414/1000, Total Reward: 1.099999999999997, Accuracy: 0.67
+2024-05-01 17:27:15,592 - Episode End: Accuracy=0.6451612903225806, Final Reward=-5
+2024-05-01 17:27:15,592 - Episode: 415/1000, Total Reward: -8.881784197001252e-16, Accuracy: 0.65
+2024-05-01 17:27:21,010 - Episode End: Accuracy=0.6290322580645161, Final Reward=-5
+2024-05-01 17:27:21,010 - Episode: 416/1000, Total Reward: -0.39999999999999947, Accuracy: 0.63
+2024-05-01 17:27:26,360 - Episode End: Accuracy=0.6693548387096774, Final Reward=-5
+2024-05-01 17:27:26,360 - Episode: 417/1000, Total Reward: 1.2999999999999963, Accuracy: 0.67
+2024-05-01 17:27:31,854 - Episode End: Accuracy=0.717741935483871, Final Reward=-5
+2024-05-01 17:27:31,854 - Episode: 418/1000, Total Reward: 2.7999999999999927, Accuracy: 0.72
+2024-05-01 17:27:37,244 - Episode End: Accuracy=0.6854838709677419, Final Reward=-5
+2024-05-01 17:27:37,244 - Episode: 419/1000, Total Reward: 1.6999999999999948, Accuracy: 0.69
+2024-05-01 17:27:42,740 - Episode End: Accuracy=0.7661290322580645, Final Reward=5
+2024-05-01 17:27:42,740 - Episode: 420/1000, Total Reward: 14.49999999999999, Accuracy: 0.77
+2024-05-01 17:27:47,881 - Episode End: Accuracy=0.6048387096774194, Final Reward=-5
+2024-05-01 17:27:47,881 - Episode: 421/1000, Total Reward: -1.4999999999999991, Accuracy: 0.60
+2024-05-01 17:27:53,494 - Episode End: Accuracy=0.6048387096774194, Final Reward=-5
+2024-05-01 17:27:53,494 - Episode: 422/1000, Total Reward: -1.4999999999999991, Accuracy: 0.60
+2024-05-01 17:27:58,903 - Episode End: Accuracy=0.49193548387096775, Final Reward=-5
+2024-05-01 17:27:58,903 - Episode: 423/1000, Total Reward: -5.3, Accuracy: 0.49
+2024-05-01 17:28:04,450 - Episode End: Accuracy=0.4112903225806452, Final Reward=-5
+2024-05-01 17:28:04,450 - Episode: 424/1000, Total Reward: -7.1000000000000005, Accuracy: 0.41
+2024-05-01 17:28:09,923 - Episode End: Accuracy=0.5725806451612904, Final Reward=-5
+2024-05-01 17:28:09,923 - Episode: 425/1000, Total Reward: -2.8, Accuracy: 0.57
+2024-05-01 17:28:15,583 - Episode End: Accuracy=0.7016129032258065, Final Reward=-5
+2024-05-01 17:28:15,584 - Episode: 426/1000, Total Reward: 1.8999999999999941, Accuracy: 0.70
+2024-05-01 17:28:21,270 - Episode End: Accuracy=0.7661290322580645, Final Reward=5
+2024-05-01 17:28:21,270 - Episode: 427/1000, Total Reward: 14.49999999999999, Accuracy: 0.77
+2024-05-01 17:28:26,814 - Episode End: Accuracy=0.7338709677419355, Final Reward=-5
+2024-05-01 17:28:26,815 - Episode: 428/1000, Total Reward: 3.199999999999992, Accuracy: 0.73
+2024-05-01 17:28:32,454 - Episode End: Accuracy=0.6612903225806451, Final Reward=-5
+2024-05-01 17:28:32,454 - Episode: 429/1000, Total Reward: 0.3999999999999977, Accuracy: 0.66
+2024-05-01 17:28:37,907 - Episode End: Accuracy=0.4838709677419355, Final Reward=-5
+2024-05-01 17:28:37,907 - Episode: 430/1000, Total Reward: -5.3, Accuracy: 0.48
+2024-05-01 17:28:43,583 - Episode End: Accuracy=0.3709677419354839, Final Reward=-5
+2024-05-01 17:28:43,583 - Episode: 431/1000, Total Reward: -8.3, Accuracy: 0.37
+2024-05-01 17:28:49,320 - Episode End: Accuracy=0.4274193548387097, Final Reward=-5
+2024-05-01 17:28:49,321 - Episode: 432/1000, Total Reward: -6.7, Accuracy: 0.43
+2024-05-01 17:28:54,917 - Episode End: Accuracy=0.5806451612903226, Final Reward=-5
+2024-05-01 17:28:54,917 - Episode: 433/1000, Total Reward: -1.8999999999999995, Accuracy: 0.58
+2024-05-01 17:29:00,497 - Episode End: Accuracy=0.6290322580645161, Final Reward=-5
+2024-05-01 17:29:00,498 - Episode: 434/1000, Total Reward: -0.39999999999999947, Accuracy: 0.63
+2024-05-01 17:29:06,128 - Episode End: Accuracy=0.6612903225806451, Final Reward=-5
+2024-05-01 17:29:06,128 - Episode: 435/1000, Total Reward: 0.3999999999999977, Accuracy: 0.66
+2024-05-01 17:29:11,625 - Episode End: Accuracy=0.7661290322580645, Final Reward=5
+2024-05-01 17:29:11,625 - Episode: 436/1000, Total Reward: 14.49999999999999, Accuracy: 0.77
+2024-05-01 17:29:17,316 - Episode End: Accuracy=0.75, Final Reward=5
+2024-05-01 17:29:17,316 - Episode: 437/1000, Total Reward: 14.09999999999999, Accuracy: 0.75
+2024-05-01 17:29:23,036 - Episode End: Accuracy=0.6774193548387096, Final Reward=-5
+2024-05-01 17:29:23,037 - Episode: 438/1000, Total Reward: 1.2999999999999963, Accuracy: 0.68
+2024-05-01 17:29:28,404 - Episode End: Accuracy=0.5241935483870968, Final Reward=-5
+2024-05-01 17:29:28,404 - Episode: 439/1000, Total Reward: -4.000000000000001, Accuracy: 0.52
+2024-05-01 17:29:33,907 - Episode End: Accuracy=0.4274193548387097, Final Reward=-5
+2024-05-01 17:29:33,907 - Episode: 440/1000, Total Reward: -6.7, Accuracy: 0.43
+2024-05-01 17:29:39,390 - Episode End: Accuracy=0.4032258064516129, Final Reward=-5
+2024-05-01 17:29:39,390 - Episode: 441/1000, Total Reward: -7.300000000000001, Accuracy: 0.40
+2024-05-01 17:29:44,991 - Episode End: Accuracy=0.4435483870967742, Final Reward=-5
+2024-05-01 17:29:44,991 - Episode: 442/1000, Total Reward: -6.3, Accuracy: 0.44
+2024-05-01 17:29:50,531 - Episode End: Accuracy=0.5806451612903226, Final Reward=-5
+2024-05-01 17:29:50,531 - Episode: 443/1000, Total Reward: -2.0999999999999996, Accuracy: 0.58
+2024-05-01 17:29:55,878 - Episode End: Accuracy=0.6774193548387096, Final Reward=-5
+2024-05-01 17:29:55,878 - Episode: 444/1000, Total Reward: 1.2999999999999963, Accuracy: 0.68
+2024-05-01 17:30:01,645 - Episode End: Accuracy=0.7661290322580645, Final Reward=5
+2024-05-01 17:30:01,645 - Episode: 445/1000, Total Reward: 14.49999999999999, Accuracy: 0.77
+2024-05-01 17:30:07,310 - Episode End: Accuracy=0.7741935483870968, Final Reward=5
+2024-05-01 17:30:07,310 - Episode: 446/1000, Total Reward: 14.699999999999989, Accuracy: 0.77
+2024-05-01 17:30:12,835 - Episode End: Accuracy=0.7661290322580645, Final Reward=5
+2024-05-01 17:30:12,835 - Episode: 447/1000, Total Reward: 14.49999999999999, Accuracy: 0.77
+2024-05-01 17:30:18,270 - Episode End: Accuracy=0.717741935483871, Final Reward=-5
+2024-05-01 17:30:18,270 - Episode: 448/1000, Total Reward: 2.7999999999999927, Accuracy: 0.72
+2024-05-01 17:30:23,820 - Episode End: Accuracy=0.7903225806451613, Final Reward=5
+2024-05-01 17:30:23,820 - Episode: 449/1000, Total Reward: 15.599999999999987, Accuracy: 0.79
+2024-05-01 17:30:29,369 - Episode End: Accuracy=0.7580645161290323, Final Reward=5
+2024-05-01 17:30:29,370 - Episode: 450/1000, Total Reward: 14.29999999999999, Accuracy: 0.76
+2024-05-01 17:30:34,950 - Episode End: Accuracy=0.6774193548387096, Final Reward=-5
+2024-05-01 17:30:34,950 - Episode: 451/1000, Total Reward: 1.2999999999999963, Accuracy: 0.68
+2024-05-01 17:30:40,142 - Episode End: Accuracy=0.6290322580645161, Final Reward=-5
+2024-05-01 17:30:40,142 - Episode: 452/1000, Total Reward: -0.39999999999999947, Accuracy: 0.63
+2024-05-01 17:30:45,705 - Episode End: Accuracy=0.5564516129032258, Final Reward=-5
+2024-05-01 17:30:45,705 - Episode: 453/1000, Total Reward: -3.2, Accuracy: 0.56
+2024-05-01 17:30:51,305 - Episode End: Accuracy=0.532258064516129, Final Reward=-5
+2024-05-01 17:30:51,306 - Episode: 454/1000, Total Reward: -3.8000000000000007, Accuracy: 0.53
+2024-05-01 17:30:56,978 - Episode End: Accuracy=0.5645161290322581, Final Reward=-5
+2024-05-01 17:30:56,978 - Episode: 455/1000, Total Reward: -2.5, Accuracy: 0.56
+2024-05-01 17:31:02,735 - Episode End: Accuracy=0.532258064516129, Final Reward=-5
+2024-05-01 17:31:02,735 - Episode: 456/1000, Total Reward: -3.8000000000000007, Accuracy: 0.53
+2024-05-01 17:31:08,145 - Episode End: Accuracy=0.5725806451612904, Final Reward=-5
+2024-05-01 17:31:08,145 - Episode: 457/1000, Total Reward: -2.3, Accuracy: 0.57
+2024-05-01 17:31:14,087 - Episode End: Accuracy=0.6532258064516129, Final Reward=-5
+2024-05-01 17:31:14,087 - Episode: 458/1000, Total Reward: 0.6999999999999984, Accuracy: 0.65
+2024-05-01 17:31:19,697 - Episode End: Accuracy=0.6693548387096774, Final Reward=-5
+2024-05-01 17:31:19,698 - Episode: 459/1000, Total Reward: 1.099999999999997, Accuracy: 0.67
+2024-05-01 17:31:25,120 - Episode End: Accuracy=0.7016129032258065, Final Reward=-5
+2024-05-01 17:31:25,120 - Episode: 460/1000, Total Reward: 2.399999999999994, Accuracy: 0.70
+2024-05-01 17:31:30,790 - Episode End: Accuracy=0.7258064516129032, Final Reward=-5
+2024-05-01 17:31:30,790 - Episode: 461/1000, Total Reward: 2.999999999999992, Accuracy: 0.73
+2024-05-01 17:31:36,491 - Episode End: Accuracy=0.7741935483870968, Final Reward=5
+2024-05-01 17:31:36,491 - Episode: 462/1000, Total Reward: 14.699999999999989, Accuracy: 0.77
+2024-05-01 17:31:42,258 - Episode End: Accuracy=0.7741935483870968, Final Reward=5
+2024-05-01 17:31:42,258 - Episode: 463/1000, Total Reward: 14.699999999999989, Accuracy: 0.77
+2024-05-01 17:31:48,207 - Episode End: Accuracy=0.7580645161290323, Final Reward=5
+2024-05-01 17:31:48,207 - Episode: 464/1000, Total Reward: 14.29999999999999, Accuracy: 0.76
+2024-05-01 17:31:53,650 - Episode End: Accuracy=0.75, Final Reward=5
+2024-05-01 17:31:53,650 - Episode: 465/1000, Total Reward: 14.09999999999999, Accuracy: 0.75
+2024-05-01 17:31:59,451 - Episode End: Accuracy=0.782258064516129, Final Reward=5
+2024-05-01 17:31:59,451 - Episode: 466/1000, Total Reward: 15.599999999999987, Accuracy: 0.78
+2024-05-01 17:32:04,977 - Episode End: Accuracy=0.782258064516129, Final Reward=5
+2024-05-01 17:32:04,978 - Episode: 467/1000, Total Reward: 14.899999999999988, Accuracy: 0.78
+2024-05-01 17:32:10,814 - Episode End: Accuracy=0.7661290322580645, Final Reward=5
+2024-05-01 17:32:10,814 - Episode: 468/1000, Total Reward: 14.699999999999989, Accuracy: 0.77
+2024-05-01 17:32:16,245 - Episode End: Accuracy=0.7338709677419355, Final Reward=-5
+2024-05-01 17:32:16,246 - Episode: 469/1000, Total Reward: 3.199999999999992, Accuracy: 0.73
+2024-05-01 17:32:22,000 - Episode End: Accuracy=0.7741935483870968, Final Reward=5
+2024-05-01 17:32:22,000 - Episode: 470/1000, Total Reward: 14.699999999999989, Accuracy: 0.77
+2024-05-01 17:32:27,542 - Episode End: Accuracy=0.75, Final Reward=5
+2024-05-01 17:32:27,542 - Episode: 471/1000, Total Reward: 14.29999999999999, Accuracy: 0.75
+2024-05-01 17:32:33,227 - Episode End: Accuracy=0.7096774193548387, Final Reward=-5
+2024-05-01 17:32:33,227 - Episode: 472/1000, Total Reward: 2.5999999999999934, Accuracy: 0.71
+2024-05-01 17:32:38,845 - Episode End: Accuracy=0.7741935483870968, Final Reward=5
+2024-05-01 17:32:38,845 - Episode: 473/1000, Total Reward: 14.699999999999989, Accuracy: 0.77
+2024-05-01 17:32:44,338 - Episode End: Accuracy=0.7903225806451613, Final Reward=5
+2024-05-01 17:32:44,339 - Episode: 474/1000, Total Reward: 15.599999999999987, Accuracy: 0.79
+2024-05-01 17:32:50,107 - Episode End: Accuracy=0.8064516129032258, Final Reward=5
+2024-05-01 17:32:50,108 - Episode: 475/1000, Total Reward: 15.999999999999986, Accuracy: 0.81
+2024-05-01 17:32:55,842 - Episode End: Accuracy=0.7741935483870968, Final Reward=5
+2024-05-01 17:32:55,842 - Episode: 476/1000, Total Reward: 14.699999999999989, Accuracy: 0.77
+2024-05-01 17:33:01,398 - Episode End: Accuracy=0.7661290322580645, Final Reward=5
+2024-05-01 17:33:01,398 - Episode: 477/1000, Total Reward: 14.49999999999999, Accuracy: 0.77
+2024-05-01 17:33:07,155 - Episode End: Accuracy=0.8064516129032258, Final Reward=5
+2024-05-01 17:33:07,156 - Episode: 478/1000, Total Reward: 15.999999999999986, Accuracy: 0.81
+2024-05-01 17:33:12,848 - Episode End: Accuracy=0.7580645161290323, Final Reward=5
+2024-05-01 17:33:12,848 - Episode: 479/1000, Total Reward: 14.29999999999999, Accuracy: 0.76
+2024-05-01 17:33:18,348 - Episode End: Accuracy=0.7661290322580645, Final Reward=5
+2024-05-01 17:33:18,348 - Episode: 480/1000, Total Reward: 14.49999999999999, Accuracy: 0.77
+2024-05-01 17:33:24,093 - Episode End: Accuracy=0.7096774193548387, Final Reward=-5
+2024-05-01 17:33:24,094 - Episode: 481/1000, Total Reward: 2.5999999999999934, Accuracy: 0.71
+2024-05-01 17:33:29,707 - Episode End: Accuracy=0.6451612903225806, Final Reward=-5
+2024-05-01 17:33:29,707 - Episode: 482/1000, Total Reward: -8.881784197001252e-16, Accuracy: 0.65
+2024-05-01 17:33:35,272 - Episode End: Accuracy=0.6290322580645161, Final Reward=-5
+2024-05-01 17:33:35,272 - Episode: 483/1000, Total Reward: -0.39999999999999947, Accuracy: 0.63
+2024-05-01 17:33:40,940 - Episode End: Accuracy=0.6451612903225806, Final Reward=-5
+2024-05-01 17:33:40,940 - Episode: 484/1000, Total Reward: -8.881784197001252e-16, Accuracy: 0.65
+2024-05-01 17:33:46,527 - Episode End: Accuracy=0.7741935483870968, Final Reward=5
+2024-05-01 17:33:46,527 - Episode: 485/1000, Total Reward: 14.699999999999989, Accuracy: 0.77
+2024-05-01 17:33:52,003 - Episode End: Accuracy=0.7661290322580645, Final Reward=5
+2024-05-01 17:33:52,003 - Episode: 486/1000, Total Reward: 14.49999999999999, Accuracy: 0.77
+2024-05-01 17:33:57,621 - Episode End: Accuracy=0.7580645161290323, Final Reward=5
+2024-05-01 17:33:57,621 - Episode: 487/1000, Total Reward: 14.29999999999999, Accuracy: 0.76
+2024-05-01 17:34:03,362 - Episode End: Accuracy=0.7661290322580645, Final Reward=5
+2024-05-01 17:34:03,362 - Episode: 488/1000, Total Reward: 14.49999999999999, Accuracy: 0.77
+2024-05-01 17:34:09,116 - Episode End: Accuracy=0.782258064516129, Final Reward=5
+2024-05-01 17:34:09,116 - Episode: 489/1000, Total Reward: 14.899999999999988, Accuracy: 0.78
+2024-05-01 17:34:14,770 - Episode End: Accuracy=0.7661290322580645, Final Reward=5
+2024-05-01 17:34:14,770 - Episode: 490/1000, Total Reward: 14.49999999999999, Accuracy: 0.77
+2024-05-01 17:34:20,383 - Episode End: Accuracy=0.6209677419354839, Final Reward=-5
+2024-05-01 17:34:20,383 - Episode: 491/1000, Total Reward: -1.0999999999999992, Accuracy: 0.62
+2024-05-01 17:34:26,209 - Episode End: Accuracy=0.46774193548387094, Final Reward=-5
+2024-05-01 17:34:26,209 - Episode: 492/1000, Total Reward: -5.7, Accuracy: 0.47
+2024-05-01 17:34:31,722 - Episode End: Accuracy=0.3790322580645161, Final Reward=-5
+2024-05-01 17:34:31,722 - Episode: 493/1000, Total Reward: -7.900000000000001, Accuracy: 0.38
+2024-05-01 17:34:37,335 - Episode End: Accuracy=0.41935483870967744, Final Reward=-5
+2024-05-01 17:34:37,335 - Episode: 494/1000, Total Reward: -7.1000000000000005, Accuracy: 0.42
+2024-05-01 17:34:42,827 - Episode End: Accuracy=0.4274193548387097, Final Reward=-5
+2024-05-01 17:34:42,827 - Episode: 495/1000, Total Reward: -6.7, Accuracy: 0.43
+2024-05-01 17:34:48,559 - Episode End: Accuracy=0.4274193548387097, Final Reward=-5
+2024-05-01 17:34:48,559 - Episode: 496/1000, Total Reward: -6.7, Accuracy: 0.43
+2024-05-01 17:34:54,322 - Episode End: Accuracy=0.45161290322580644, Final Reward=-5
+2024-05-01 17:34:54,322 - Episode: 497/1000, Total Reward: -6.1, Accuracy: 0.45
+2024-05-01 17:34:59,899 - Episode End: Accuracy=0.6048387096774194, Final Reward=-5
+2024-05-01 17:34:59,899 - Episode: 498/1000, Total Reward: -1.4999999999999991, Accuracy: 0.60
+2024-05-01 17:35:05,683 - Episode End: Accuracy=0.6451612903225806, Final Reward=-5
+2024-05-01 17:35:05,683 - Episode: 499/1000, Total Reward: -8.881784197001252e-16, Accuracy: 0.65
+2024-05-01 17:35:11,416 - Episode End: Accuracy=0.5080645161290323, Final Reward=-5
+2024-05-01 17:35:11,416 - Episode: 500/1000, Total Reward: -4.7, Accuracy: 0.51
+2024-05-01 17:35:17,302 - Episode End: Accuracy=0.4274193548387097, Final Reward=-5
+2024-05-01 17:35:17,302 - Episode: 501/1000, Total Reward: -6.7, Accuracy: 0.43
+2024-05-01 17:35:23,061 - Episode End: Accuracy=0.3790322580645161, Final Reward=-5
+2024-05-01 17:35:23,061 - Episode: 502/1000, Total Reward: -7.900000000000001, Accuracy: 0.38
+2024-05-01 17:35:28,816 - Episode End: Accuracy=0.3548387096774194, Final Reward=-5
+2024-05-01 17:35:28,817 - Episode: 503/1000, Total Reward: -8.500000000000002, Accuracy: 0.35
+2024-05-01 17:35:34,701 - Episode End: Accuracy=0.3629032258064516, Final Reward=-5
+2024-05-01 17:35:34,701 - Episode: 504/1000, Total Reward: -8.500000000000002, Accuracy: 0.36
+2024-05-01 17:35:40,312 - Episode End: Accuracy=0.5645161290322581, Final Reward=-5
+2024-05-01 17:35:40,312 - Episode: 505/1000, Total Reward: -3.0, Accuracy: 0.56
+2024-05-01 17:35:45,944 - Episode End: Accuracy=0.6612903225806451, Final Reward=-5
+2024-05-01 17:35:45,944 - Episode: 506/1000, Total Reward: 0.3999999999999977, Accuracy: 0.66
+2024-05-01 17:35:51,612 - Episode End: Accuracy=0.7016129032258065, Final Reward=-5
+2024-05-01 17:35:51,613 - Episode: 507/1000, Total Reward: 1.8999999999999941, Accuracy: 0.70
+2024-05-01 17:35:57,349 - Episode End: Accuracy=0.717741935483871, Final Reward=-5
+2024-05-01 17:35:57,349 - Episode: 508/1000, Total Reward: 2.7999999999999927, Accuracy: 0.72
+2024-05-01 17:36:03,182 - Episode End: Accuracy=0.7580645161290323, Final Reward=5
+2024-05-01 17:36:03,183 - Episode: 509/1000, Total Reward: 14.29999999999999, Accuracy: 0.76
+2024-05-01 17:36:08,844 - Episode End: Accuracy=0.717741935483871, Final Reward=-5
+2024-05-01 17:36:08,844 - Episode: 510/1000, Total Reward: 2.7999999999999927, Accuracy: 0.72
+2024-05-01 17:36:14,553 - Episode End: Accuracy=0.7258064516129032, Final Reward=-5
+2024-05-01 17:36:14,553 - Episode: 511/1000, Total Reward: 2.999999999999992, Accuracy: 0.73
+2024-05-01 17:36:20,288 - Episode End: Accuracy=0.7016129032258065, Final Reward=-5
+2024-05-01 17:36:20,288 - Episode: 512/1000, Total Reward: 1.8999999999999941, Accuracy: 0.70
+2024-05-01 17:36:26,026 - Episode End: Accuracy=0.49193548387096775, Final Reward=-5
+2024-05-01 17:36:26,027 - Episode: 513/1000, Total Reward: -5.3, Accuracy: 0.49
+2024-05-01 17:36:31,922 - Episode End: Accuracy=0.3870967741935484, Final Reward=-5
+2024-05-01 17:36:31,922 - Episode: 514/1000, Total Reward: -7.900000000000001, Accuracy: 0.39
+2024-05-01 17:36:37,641 - Episode End: Accuracy=0.5645161290322581, Final Reward=-5
+2024-05-01 17:36:37,641 - Episode: 515/1000, Total Reward: -3.0, Accuracy: 0.56
+2024-05-01 17:36:43,439 - Episode End: Accuracy=0.7258064516129032, Final Reward=-5
+2024-05-01 17:36:43,439 - Episode: 516/1000, Total Reward: 2.999999999999992, Accuracy: 0.73
+2024-05-01 17:36:49,325 - Episode End: Accuracy=0.7419354838709677, Final Reward=-5
+2024-05-01 17:36:49,325 - Episode: 517/1000, Total Reward: 3.3999999999999915, Accuracy: 0.74
+2024-05-01 17:36:55,096 - Episode End: Accuracy=0.7419354838709677, Final Reward=-5
+2024-05-01 17:36:55,096 - Episode: 518/1000, Total Reward: 3.3999999999999915, Accuracy: 0.74
+2024-05-01 17:37:00,946 - Episode End: Accuracy=0.717741935483871, Final Reward=-5
+2024-05-01 17:37:00,946 - Episode: 519/1000, Total Reward: 2.7999999999999927, Accuracy: 0.72
+2024-05-01 17:37:06,607 - Episode End: Accuracy=0.6935483870967742, Final Reward=-5
+2024-05-01 17:37:06,608 - Episode: 520/1000, Total Reward: 1.6999999999999948, Accuracy: 0.69
+2024-05-01 17:37:12,353 - Episode End: Accuracy=0.7419354838709677, Final Reward=-5
+2024-05-01 17:37:12,354 - Episode: 521/1000, Total Reward: 3.3999999999999915, Accuracy: 0.74
+2024-05-01 17:37:17,870 - Episode End: Accuracy=0.7016129032258065, Final Reward=-5
+2024-05-01 17:37:17,870 - Episode: 522/1000, Total Reward: 1.8999999999999941, Accuracy: 0.70
+2024-05-01 17:37:23,513 - Episode End: Accuracy=0.6774193548387096, Final Reward=-5
+2024-05-01 17:37:23,513 - Episode: 523/1000, Total Reward: 1.4999999999999956, Accuracy: 0.68
+2024-05-01 17:37:29,161 - Episode End: Accuracy=0.6612903225806451, Final Reward=-5
+2024-05-01 17:37:29,163 - Episode: 524/1000, Total Reward: 0.3999999999999977, Accuracy: 0.66
+2024-05-01 17:37:34,856 - Episode End: Accuracy=0.6935483870967742, Final Reward=-5
+2024-05-01 17:37:34,856 - Episode: 525/1000, Total Reward: 1.6999999999999948, Accuracy: 0.69
+2024-05-01 17:37:40,434 - Episode End: Accuracy=0.7258064516129032, Final Reward=-5
+2024-05-01 17:37:40,434 - Episode: 526/1000, Total Reward: 2.999999999999992, Accuracy: 0.73
+2024-05-01 17:37:46,005 - Episode End: Accuracy=0.7258064516129032, Final Reward=-5
+2024-05-01 17:37:46,006 - Episode: 527/1000, Total Reward: 2.999999999999992, Accuracy: 0.73
+2024-05-01 17:37:51,502 - Episode End: Accuracy=0.6854838709677419, Final Reward=-5
+2024-05-01 17:37:51,503 - Episode: 528/1000, Total Reward: 1.6999999999999948, Accuracy: 0.69
+2024-05-01 17:37:57,200 - Episode End: Accuracy=0.717741935483871, Final Reward=-5
+2024-05-01 17:37:57,200 - Episode: 529/1000, Total Reward: 2.7999999999999927, Accuracy: 0.72
+2024-05-01 17:38:02,812 - Episode End: Accuracy=0.7016129032258065, Final Reward=-5
+2024-05-01 17:38:02,812 - Episode: 530/1000, Total Reward: 1.8999999999999941, Accuracy: 0.70
+2024-05-01 17:38:08,627 - Episode End: Accuracy=0.5483870967741935, Final Reward=-5
+2024-05-01 17:38:08,627 - Episode: 531/1000, Total Reward: -3.4000000000000004, Accuracy: 0.55
+2024-05-01 17:38:14,413 - Episode End: Accuracy=0.3790322580645161, Final Reward=-5
+2024-05-01 17:38:14,413 - Episode: 532/1000, Total Reward: -8.100000000000001, Accuracy: 0.38
+2024-05-01 17:38:20,120 - Episode End: Accuracy=0.4112903225806452, Final Reward=-5
+2024-05-01 17:38:20,121 - Episode: 533/1000, Total Reward: -7.300000000000001, Accuracy: 0.41
+2024-05-01 17:38:26,030 - Episode End: Accuracy=0.6451612903225806, Final Reward=-5
+2024-05-01 17:38:26,030 - Episode: 534/1000, Total Reward: -8.881784197001252e-16, Accuracy: 0.65
+2024-05-01 17:38:31,686 - Episode End: Accuracy=0.7096774193548387, Final Reward=-5
+2024-05-01 17:38:31,686 - Episode: 535/1000, Total Reward: 2.5999999999999934, Accuracy: 0.71
+2024-05-01 17:38:37,477 - Episode End: Accuracy=0.75, Final Reward=5
+2024-05-01 17:38:37,477 - Episode: 536/1000, Total Reward: 14.09999999999999, Accuracy: 0.75
+2024-05-01 17:38:43,098 - Episode End: Accuracy=0.6370967741935484, Final Reward=-5
+2024-05-01 17:38:43,098 - Episode: 537/1000, Total Reward: -0.20000000000000018, Accuracy: 0.64
+2024-05-01 17:38:48,758 - Episode End: Accuracy=0.3387096774193548, Final Reward=-5
+2024-05-01 17:38:48,758 - Episode: 538/1000, Total Reward: -9.100000000000001, Accuracy: 0.34
+2024-05-01 17:38:54,549 - Episode End: Accuracy=0.3629032258064516, Final Reward=-5
+2024-05-01 17:38:54,549 - Episode: 539/1000, Total Reward: -8.3, Accuracy: 0.36
+2024-05-01 17:39:00,322 - Episode End: Accuracy=0.3387096774193548, Final Reward=-5
+2024-05-01 17:39:00,323 - Episode: 540/1000, Total Reward: -8.900000000000002, Accuracy: 0.34
+2024-05-01 17:39:06,158 - Episode End: Accuracy=0.3225806451612903, Final Reward=-5
+2024-05-01 17:39:06,158 - Episode: 541/1000, Total Reward: -9.3, Accuracy: 0.32
+2024-05-01 17:39:11,905 - Episode End: Accuracy=0.3387096774193548, Final Reward=-5
+2024-05-01 17:39:11,905 - Episode: 542/1000, Total Reward: -8.900000000000002, Accuracy: 0.34
+2024-05-01 17:39:17,645 - Episode End: Accuracy=0.3387096774193548, Final Reward=-5
+2024-05-01 17:39:17,645 - Episode: 543/1000, Total Reward: -8.900000000000002, Accuracy: 0.34
+2024-05-01 17:39:23,219 - Episode End: Accuracy=0.4435483870967742, Final Reward=-5
+2024-05-01 17:39:23,219 - Episode: 544/1000, Total Reward: -6.3, Accuracy: 0.44
+2024-05-01 17:39:29,064 - Episode End: Accuracy=0.5080645161290323, Final Reward=-5
+2024-05-01 17:39:29,064 - Episode: 545/1000, Total Reward: -4.9, Accuracy: 0.51
+2024-05-01 17:39:34,911 - Episode End: Accuracy=0.7338709677419355, Final Reward=-5
+2024-05-01 17:39:34,912 - Episode: 546/1000, Total Reward: 3.199999999999992, Accuracy: 0.73
+2024-05-01 17:39:40,788 - Episode End: Accuracy=0.7661290322580645, Final Reward=5
+2024-05-01 17:39:40,788 - Episode: 547/1000, Total Reward: 14.49999999999999, Accuracy: 0.77
+2024-05-01 17:39:46,558 - Episode End: Accuracy=0.7661290322580645, Final Reward=5
+2024-05-01 17:39:46,558 - Episode: 548/1000, Total Reward: 14.49999999999999, Accuracy: 0.77
+2024-05-01 17:39:52,308 - Episode End: Accuracy=0.6451612903225806, Final Reward=-5
+2024-05-01 17:39:52,308 - Episode: 549/1000, Total Reward: -8.881784197001252e-16, Accuracy: 0.65
+2024-05-01 17:39:58,057 - Episode End: Accuracy=0.3951612903225806, Final Reward=-5
+2024-05-01 17:39:58,057 - Episode: 550/1000, Total Reward: -7.700000000000001, Accuracy: 0.40
+2024-05-01 17:40:03,787 - Episode End: Accuracy=0.4435483870967742, Final Reward=-5
+2024-05-01 17:40:03,787 - Episode: 551/1000, Total Reward: -6.3, Accuracy: 0.44
+2024-05-01 17:40:09,481 - Episode End: Accuracy=0.3790322580645161, Final Reward=-5
+2024-05-01 17:40:09,481 - Episode: 552/1000, Total Reward: -7.900000000000001, Accuracy: 0.38
+2024-05-01 17:40:15,256 - Episode End: Accuracy=0.3951612903225806, Final Reward=-5
+2024-05-01 17:40:15,257 - Episode: 553/1000, Total Reward: -7.500000000000001, Accuracy: 0.40
+2024-05-01 17:40:21,101 - Episode End: Accuracy=0.43548387096774194, Final Reward=-5
+2024-05-01 17:40:21,101 - Episode: 554/1000, Total Reward: -6.7, Accuracy: 0.44
+2024-05-01 17:40:26,939 - Episode End: Accuracy=0.7903225806451613, Final Reward=5
+2024-05-01 17:40:26,939 - Episode: 555/1000, Total Reward: 15.599999999999987, Accuracy: 0.79
+2024-05-01 17:40:32,733 - Episode End: Accuracy=0.7741935483870968, Final Reward=5
+2024-05-01 17:40:32,733 - Episode: 556/1000, Total Reward: 14.699999999999989, Accuracy: 0.77
+2024-05-01 17:40:38,476 - Episode End: Accuracy=0.8225806451612904, Final Reward=5
+2024-05-01 17:40:38,476 - Episode: 557/1000, Total Reward: 16.399999999999984, Accuracy: 0.82
+2024-05-01 17:40:44,218 - Episode End: Accuracy=0.7983870967741935, Final Reward=5
+2024-05-01 17:40:44,219 - Episode: 558/1000, Total Reward: 15.799999999999986, Accuracy: 0.80
+2024-05-01 17:40:50,046 - Episode End: Accuracy=0.7983870967741935, Final Reward=5
+2024-05-01 17:40:50,047 - Episode: 559/1000, Total Reward: 15.799999999999986, Accuracy: 0.80
+2024-05-01 17:40:55,820 - Episode End: Accuracy=0.782258064516129, Final Reward=5
+2024-05-01 17:40:55,820 - Episode: 560/1000, Total Reward: 14.899999999999988, Accuracy: 0.78
+2024-05-01 17:41:01,695 - Episode End: Accuracy=0.7580645161290323, Final Reward=5
+2024-05-01 17:41:01,695 - Episode: 561/1000, Total Reward: 14.29999999999999, Accuracy: 0.76
+2024-05-01 17:41:07,487 - Episode End: Accuracy=0.3629032258064516, Final Reward=-5
+2024-05-01 17:41:07,487 - Episode: 562/1000, Total Reward: -8.3, Accuracy: 0.36
+2024-05-01 17:41:13,219 - Episode End: Accuracy=0.31451612903225806, Final Reward=-5
+2024-05-01 17:41:13,219 - Episode: 563/1000, Total Reward: -9.5, Accuracy: 0.31
+2024-05-01 17:41:19,055 - Episode End: Accuracy=0.28225806451612906, Final Reward=-5
+2024-05-01 17:41:19,055 - Episode: 564/1000, Total Reward: -10.299999999999997, Accuracy: 0.28
+2024-05-01 17:41:24,807 - Episode End: Accuracy=0.28225806451612906, Final Reward=-5
+2024-05-01 17:41:24,807 - Episode: 565/1000, Total Reward: -10.299999999999997, Accuracy: 0.28
+2024-05-01 17:41:30,641 - Episode End: Accuracy=0.25806451612903225, Final Reward=-5
+2024-05-01 17:41:30,641 - Episode: 566/1000, Total Reward: -10.899999999999995, Accuracy: 0.26
+2024-05-01 17:41:36,390 - Episode End: Accuracy=0.3548387096774194, Final Reward=-5
+2024-05-01 17:41:36,391 - Episode: 567/1000, Total Reward: -8.500000000000002, Accuracy: 0.35
+2024-05-01 17:41:42,037 - Episode End: Accuracy=0.6854838709677419, Final Reward=-5
+2024-05-01 17:41:42,037 - Episode: 568/1000, Total Reward: 1.4999999999999956, Accuracy: 0.69
+2024-05-01 17:41:47,875 - Episode End: Accuracy=0.7580645161290323, Final Reward=5
+2024-05-01 17:41:47,875 - Episode: 569/1000, Total Reward: 14.29999999999999, Accuracy: 0.76
+2024-05-01 17:41:53,752 - Episode End: Accuracy=0.7983870967741935, Final Reward=5
+2024-05-01 17:41:53,752 - Episode: 570/1000, Total Reward: 15.799999999999986, Accuracy: 0.80
+2024-05-01 17:41:59,716 - Episode End: Accuracy=0.782258064516129, Final Reward=5
+2024-05-01 17:41:59,716 - Episode: 571/1000, Total Reward: 14.899999999999988, Accuracy: 0.78
+2024-05-01 17:42:05,672 - Episode End: Accuracy=0.7741935483870968, Final Reward=5
+2024-05-01 17:42:05,672 - Episode: 572/1000, Total Reward: 14.699999999999989, Accuracy: 0.77
+2024-05-01 17:42:11,683 - Episode End: Accuracy=0.7741935483870968, Final Reward=5
+2024-05-01 17:42:11,683 - Episode: 573/1000, Total Reward: 14.699999999999989, Accuracy: 0.77
+2024-05-01 17:42:17,190 - Episode End: Accuracy=0.7983870967741935, Final Reward=5
+2024-05-01 17:42:17,191 - Episode: 574/1000, Total Reward: 15.799999999999986, Accuracy: 0.80
+2024-05-01 17:42:22,972 - Episode End: Accuracy=0.75, Final Reward=5
+2024-05-01 17:42:22,972 - Episode: 575/1000, Total Reward: 14.09999999999999, Accuracy: 0.75
+2024-05-01 17:42:28,914 - Episode End: Accuracy=0.6532258064516129, Final Reward=-5
+2024-05-01 17:42:28,915 - Episode: 576/1000, Total Reward: 0.1999999999999984, Accuracy: 0.65
+2024-05-01 17:42:34,736 - Episode End: Accuracy=0.4838709677419355, Final Reward=-5
+2024-05-01 17:42:34,736 - Episode: 577/1000, Total Reward: -5.5, Accuracy: 0.48
+2024-05-01 17:42:40,636 - Episode End: Accuracy=0.4112903225806452, Final Reward=-5
+2024-05-01 17:42:40,636 - Episode: 578/1000, Total Reward: -7.300000000000001, Accuracy: 0.41
+2024-05-01 17:42:46,193 - Episode End: Accuracy=0.3951612903225806, Final Reward=-5
+2024-05-01 17:42:46,193 - Episode: 579/1000, Total Reward: -7.700000000000001, Accuracy: 0.40
+2024-05-01 17:42:52,021 - Episode End: Accuracy=0.3870967741935484, Final Reward=-5
+2024-05-01 17:42:52,022 - Episode: 580/1000, Total Reward: -7.900000000000001, Accuracy: 0.39
+2024-05-01 17:42:57,799 - Episode End: Accuracy=0.4032258064516129, Final Reward=-5
+2024-05-01 17:42:57,799 - Episode: 581/1000, Total Reward: -7.500000000000001, Accuracy: 0.40
+2024-05-01 17:43:03,706 - Episode End: Accuracy=0.6532258064516129, Final Reward=-5
+2024-05-01 17:43:03,707 - Episode: 582/1000, Total Reward: 0.6999999999999984, Accuracy: 0.65
+2024-05-01 17:43:09,561 - Episode End: Accuracy=0.7580645161290323, Final Reward=5
+2024-05-01 17:43:09,561 - Episode: 583/1000, Total Reward: 14.29999999999999, Accuracy: 0.76
+2024-05-01 17:43:15,330 - Episode End: Accuracy=0.7661290322580645, Final Reward=5
+2024-05-01 17:43:15,330 - Episode: 584/1000, Total Reward: 14.49999999999999, Accuracy: 0.77
+2024-05-01 17:43:21,139 - Episode End: Accuracy=0.7903225806451613, Final Reward=5
+2024-05-01 17:43:21,139 - Episode: 585/1000, Total Reward: 15.599999999999987, Accuracy: 0.79
+2024-05-01 17:43:27,096 - Episode End: Accuracy=0.7741935483870968, Final Reward=5
+2024-05-01 17:43:27,096 - Episode: 586/1000, Total Reward: 14.699999999999989, Accuracy: 0.77
+2024-05-01 17:43:32,712 - Episode End: Accuracy=0.7661290322580645, Final Reward=5
+2024-05-01 17:43:32,712 - Episode: 587/1000, Total Reward: 14.49999999999999, Accuracy: 0.77
+2024-05-01 17:43:38,552 - Episode End: Accuracy=0.7661290322580645, Final Reward=5
+2024-05-01 17:43:38,552 - Episode: 588/1000, Total Reward: 14.49999999999999, Accuracy: 0.77
+2024-05-01 17:43:44,395 - Episode End: Accuracy=0.7741935483870968, Final Reward=5
+2024-05-01 17:43:44,395 - Episode: 589/1000, Total Reward: 14.699999999999989, Accuracy: 0.77
+2024-05-01 17:43:50,320 - Episode End: Accuracy=0.6612903225806451, Final Reward=-5
+2024-05-01 17:43:50,320 - Episode: 590/1000, Total Reward: 0.8999999999999977, Accuracy: 0.66
+2024-05-01 17:43:56,247 - Episode End: Accuracy=0.5161290322580645, Final Reward=-5
+2024-05-01 17:43:56,247 - Episode: 591/1000, Total Reward: -4.7, Accuracy: 0.52
+2024-05-01 17:44:01,956 - Episode End: Accuracy=0.45161290322580644, Final Reward=-5
+2024-05-01 17:44:01,956 - Episode: 592/1000, Total Reward: -6.3, Accuracy: 0.45
+2024-05-01 17:44:07,605 - Episode End: Accuracy=0.4032258064516129, Final Reward=-5
+2024-05-01 17:44:07,605 - Episode: 593/1000, Total Reward: -7.500000000000001, Accuracy: 0.40
+2024-05-01 17:44:13,399 - Episode End: Accuracy=0.43548387096774194, Final Reward=-5
+2024-05-01 17:44:13,399 - Episode: 594/1000, Total Reward: -6.7, Accuracy: 0.44
+2024-05-01 17:44:18,953 - Episode End: Accuracy=0.5080645161290323, Final Reward=-5
+2024-05-01 17:44:18,953 - Episode: 595/1000, Total Reward: -4.9, Accuracy: 0.51
+2024-05-01 17:44:24,824 - Episode End: Accuracy=0.6209677419354839, Final Reward=-5
+2024-05-01 17:44:24,824 - Episode: 596/1000, Total Reward: -0.5999999999999988, Accuracy: 0.62
+2024-05-01 17:44:30,689 - Episode End: Accuracy=0.7258064516129032, Final Reward=-5
+2024-05-01 17:44:30,690 - Episode: 597/1000, Total Reward: 2.999999999999993, Accuracy: 0.73
+2024-05-01 17:44:36,579 - Episode End: Accuracy=0.8145161290322581, Final Reward=5
+2024-05-01 17:44:36,579 - Episode: 598/1000, Total Reward: 16.199999999999985, Accuracy: 0.81
+2024-05-01 17:44:42,439 - Episode End: Accuracy=0.8145161290322581, Final Reward=5
+2024-05-01 17:44:42,439 - Episode: 599/1000, Total Reward: 16.199999999999985, Accuracy: 0.81
+2024-05-01 17:44:48,223 - Episode End: Accuracy=0.8225806451612904, Final Reward=5
+2024-05-01 17:44:48,223 - Episode: 600/1000, Total Reward: 16.399999999999984, Accuracy: 0.82
+2024-05-01 17:44:53,961 - Episode End: Accuracy=0.8064516129032258, Final Reward=5
+2024-05-01 17:44:53,961 - Episode: 601/1000, Total Reward: 15.999999999999986, Accuracy: 0.81
+2024-05-01 17:44:59,827 - Episode End: Accuracy=0.8306451612903226, Final Reward=5
+2024-05-01 17:44:59,827 - Episode: 602/1000, Total Reward: 17.099999999999984, Accuracy: 0.83
+2024-05-01 17:45:05,854 - Episode End: Accuracy=0.8306451612903226, Final Reward=5
+2024-05-01 17:45:05,854 - Episode: 603/1000, Total Reward: 17.099999999999984, Accuracy: 0.83
+2024-05-01 17:45:11,528 - Episode End: Accuracy=0.8145161290322581, Final Reward=5
+2024-05-01 17:45:11,528 - Episode: 604/1000, Total Reward: 16.199999999999985, Accuracy: 0.81
+2024-05-01 17:45:17,298 - Episode End: Accuracy=0.8225806451612904, Final Reward=5
+2024-05-01 17:45:17,299 - Episode: 605/1000, Total Reward: 16.399999999999984, Accuracy: 0.82
+2024-05-01 17:45:23,219 - Episode End: Accuracy=0.6774193548387096, Final Reward=-5
+2024-05-01 17:45:23,220 - Episode: 606/1000, Total Reward: 1.2999999999999963, Accuracy: 0.68
+2024-05-01 17:45:29,162 - Episode End: Accuracy=0.5, Final Reward=-5
+2024-05-01 17:45:29,163 - Episode: 607/1000, Total Reward: -5.1, Accuracy: 0.50
+2024-05-01 17:45:35,034 - Episode End: Accuracy=0.4274193548387097, Final Reward=-5
+2024-05-01 17:45:35,034 - Episode: 608/1000, Total Reward: -6.9, Accuracy: 0.43
+2024-05-01 17:45:40,762 - Episode End: Accuracy=0.4274193548387097, Final Reward=-5
+2024-05-01 17:45:40,762 - Episode: 609/1000, Total Reward: -6.9, Accuracy: 0.43
+2024-05-01 17:45:46,715 - Episode End: Accuracy=0.4032258064516129, Final Reward=-5
+2024-05-01 17:45:46,715 - Episode: 610/1000, Total Reward: -7.500000000000001, Accuracy: 0.40
+2024-05-01 17:45:52,497 - Episode End: Accuracy=0.46774193548387094, Final Reward=-5
+2024-05-01 17:45:52,497 - Episode: 611/1000, Total Reward: -5.9, Accuracy: 0.47
+2024-05-01 17:45:58,380 - Episode End: Accuracy=0.5, Final Reward=-5
+2024-05-01 17:45:58,380 - Episode: 612/1000, Total Reward: -5.1, Accuracy: 0.50
+2024-05-01 17:46:04,245 - Episode End: Accuracy=0.6209677419354839, Final Reward=-5
+2024-05-01 17:46:04,245 - Episode: 613/1000, Total Reward: -1.0999999999999992, Accuracy: 0.62
+2024-05-01 17:46:10,076 - Episode End: Accuracy=0.8064516129032258, Final Reward=5
+2024-05-01 17:46:10,077 - Episode: 614/1000, Total Reward: 15.999999999999986, Accuracy: 0.81
+2024-05-01 17:46:15,995 - Episode End: Accuracy=0.8064516129032258, Final Reward=5
+2024-05-01 17:46:15,996 - Episode: 615/1000, Total Reward: 15.999999999999986, Accuracy: 0.81
+2024-05-01 17:46:21,860 - Episode End: Accuracy=0.8306451612903226, Final Reward=5
+2024-05-01 17:46:21,860 - Episode: 616/1000, Total Reward: 17.099999999999984, Accuracy: 0.83
+2024-05-01 17:46:27,732 - Episode End: Accuracy=0.8387096774193549, Final Reward=5
+2024-05-01 17:46:27,732 - Episode: 617/1000, Total Reward: 17.299999999999983, Accuracy: 0.84
+2024-05-01 17:46:33,663 - Episode End: Accuracy=0.8064516129032258, Final Reward=5
+2024-05-01 17:46:33,663 - Episode: 618/1000, Total Reward: 15.999999999999986, Accuracy: 0.81
+2024-05-01 17:46:39,497 - Episode End: Accuracy=0.7419354838709677, Final Reward=-5
+2024-05-01 17:46:39,497 - Episode: 619/1000, Total Reward: 3.3999999999999915, Accuracy: 0.74
+2024-05-01 17:46:45,933 - Episode End: Accuracy=0.6612903225806451, Final Reward=-5
+2024-05-01 17:46:45,933 - Episode: 620/1000, Total Reward: 0.3999999999999977, Accuracy: 0.66
+2024-05-01 17:46:51,798 - Episode End: Accuracy=0.5, Final Reward=-5
+2024-05-01 17:46:51,798 - Episode: 621/1000, Total Reward: -5.1, Accuracy: 0.50
+2024-05-01 17:46:57,700 - Episode End: Accuracy=0.4032258064516129, Final Reward=-5
+2024-05-01 17:46:57,700 - Episode: 622/1000, Total Reward: -7.300000000000001, Accuracy: 0.40
+2024-05-01 17:47:03,736 - Episode End: Accuracy=0.3629032258064516, Final Reward=-5
+2024-05-01 17:47:03,736 - Episode: 623/1000, Total Reward: -8.3, Accuracy: 0.36
+2024-05-01 17:47:09,339 - Episode End: Accuracy=0.3629032258064516, Final Reward=-5
+2024-05-01 17:47:09,339 - Episode: 624/1000, Total Reward: -8.3, Accuracy: 0.36
+2024-05-01 17:47:15,331 - Episode End: Accuracy=0.3387096774193548, Final Reward=-5
+2024-05-01 17:47:15,331 - Episode: 625/1000, Total Reward: -8.900000000000002, Accuracy: 0.34
+2024-05-01 17:47:21,172 - Episode End: Accuracy=0.3064516129032258, Final Reward=-5
+2024-05-01 17:47:21,172 - Episode: 626/1000, Total Reward: -9.7, Accuracy: 0.31
+2024-05-01 17:47:27,157 - Episode End: Accuracy=0.3467741935483871, Final Reward=-5
+2024-05-01 17:47:27,158 - Episode: 627/1000, Total Reward: -8.700000000000003, Accuracy: 0.35
+2024-05-01 17:47:33,008 - Episode End: Accuracy=0.3629032258064516, Final Reward=-5
+2024-05-01 17:47:33,009 - Episode: 628/1000, Total Reward: -8.3, Accuracy: 0.36
+2024-05-01 17:47:38,787 - Episode End: Accuracy=0.4032258064516129, Final Reward=-5
+2024-05-01 17:47:38,787 - Episode: 629/1000, Total Reward: -7.300000000000001, Accuracy: 0.40
+2024-05-01 17:47:44,755 - Episode End: Accuracy=0.4596774193548387, Final Reward=-5
+2024-05-01 17:47:44,755 - Episode: 630/1000, Total Reward: -5.9, Accuracy: 0.46
+2024-05-01 17:47:50,638 - Episode End: Accuracy=0.5806451612903226, Final Reward=-5
+2024-05-01 17:47:50,638 - Episode: 631/1000, Total Reward: -1.8999999999999995, Accuracy: 0.58
+2024-05-01 17:47:56,545 - Episode End: Accuracy=0.6451612903225806, Final Reward=-5
+2024-05-01 17:47:56,546 - Episode: 632/1000, Total Reward: -8.881784197001252e-16, Accuracy: 0.65
+2024-05-01 17:48:02,469 - Episode End: Accuracy=0.6774193548387096, Final Reward=-5
+2024-05-01 17:48:02,469 - Episode: 633/1000, Total Reward: 1.2999999999999963, Accuracy: 0.68
+2024-05-01 17:48:08,294 - Episode End: Accuracy=0.6854838709677419, Final Reward=-5
+2024-05-01 17:48:08,295 - Episode: 634/1000, Total Reward: 1.4999999999999956, Accuracy: 0.69
+2024-05-01 17:48:14,222 - Episode End: Accuracy=0.7419354838709677, Final Reward=-5
+2024-05-01 17:48:14,223 - Episode: 635/1000, Total Reward: 3.3999999999999915, Accuracy: 0.74
+2024-05-01 17:48:20,045 - Episode End: Accuracy=0.75, Final Reward=5
+2024-05-01 17:48:20,045 - Episode: 636/1000, Total Reward: 14.09999999999999, Accuracy: 0.75
+2024-05-01 17:48:26,134 - Episode End: Accuracy=0.7903225806451613, Final Reward=5
+2024-05-01 17:48:26,134 - Episode: 637/1000, Total Reward: 15.599999999999987, Accuracy: 0.79
+2024-05-01 17:48:32,063 - Episode End: Accuracy=0.75, Final Reward=5
+2024-05-01 17:48:32,063 - Episode: 638/1000, Total Reward: 14.09999999999999, Accuracy: 0.75
+2024-05-01 17:48:37,905 - Episode End: Accuracy=0.6774193548387096, Final Reward=-5
+2024-05-01 17:48:37,905 - Episode: 639/1000, Total Reward: 1.2999999999999963, Accuracy: 0.68
+2024-05-01 17:48:43,913 - Episode End: Accuracy=0.6129032258064516, Final Reward=-5
+2024-05-01 17:48:43,913 - Episode: 640/1000, Total Reward: -1.0999999999999992, Accuracy: 0.61
+2024-05-01 17:48:49,709 - Episode End: Accuracy=0.3548387096774194, Final Reward=-5
+2024-05-01 17:48:49,709 - Episode: 641/1000, Total Reward: -8.500000000000002, Accuracy: 0.35
+2024-05-01 17:48:55,583 - Episode End: Accuracy=0.3467741935483871, Final Reward=-5
+2024-05-01 17:48:55,583 - Episode: 642/1000, Total Reward: -8.700000000000003, Accuracy: 0.35
+2024-05-01 17:49:01,389 - Episode End: Accuracy=0.33064516129032256, Final Reward=-5
+2024-05-01 17:49:01,390 - Episode: 643/1000, Total Reward: -9.100000000000001, Accuracy: 0.33
+2024-05-01 17:49:07,169 - Episode End: Accuracy=0.33064516129032256, Final Reward=-5
+2024-05-01 17:49:07,169 - Episode: 644/1000, Total Reward: -9.100000000000001, Accuracy: 0.33
+2024-05-01 17:49:13,115 - Episode End: Accuracy=0.3225806451612903, Final Reward=-5
+2024-05-01 17:49:13,115 - Episode: 645/1000, Total Reward: -9.3, Accuracy: 0.32
+2024-05-01 17:49:18,974 - Episode End: Accuracy=0.33064516129032256, Final Reward=-5
+2024-05-01 17:49:18,974 - Episode: 646/1000, Total Reward: -9.100000000000001, Accuracy: 0.33
+2024-05-01 17:49:24,920 - Episode End: Accuracy=0.3467741935483871, Final Reward=-5
+2024-05-01 17:49:24,920 - Episode: 647/1000, Total Reward: -8.700000000000003, Accuracy: 0.35
+2024-05-01 17:49:30,898 - Episode End: Accuracy=0.5161290322580645, Final Reward=-5
+2024-05-01 17:49:30,898 - Episode: 648/1000, Total Reward: -4.7, Accuracy: 0.52
+2024-05-01 17:49:36,715 - Episode End: Accuracy=0.7016129032258065, Final Reward=-5
+2024-05-01 17:49:36,715 - Episode: 649/1000, Total Reward: 1.8999999999999941, Accuracy: 0.70
+2024-05-01 17:49:42,663 - Episode End: Accuracy=0.7258064516129032, Final Reward=-5
+2024-05-01 17:49:42,663 - Episode: 650/1000, Total Reward: 2.999999999999992, Accuracy: 0.73
+2024-05-01 17:49:48,483 - Episode End: Accuracy=0.7096774193548387, Final Reward=-5
+2024-05-01 17:49:48,483 - Episode: 651/1000, Total Reward: 2.5999999999999934, Accuracy: 0.71
+2024-05-01 17:49:54,378 - Episode End: Accuracy=0.6370967741935484, Final Reward=-5
+2024-05-01 17:49:54,379 - Episode: 652/1000, Total Reward: -0.20000000000000018, Accuracy: 0.64
+2024-05-01 17:50:00,202 - Episode End: Accuracy=0.4032258064516129, Final Reward=-5
+2024-05-01 17:50:00,202 - Episode: 653/1000, Total Reward: -7.300000000000001, Accuracy: 0.40
+2024-05-01 17:50:06,211 - Episode End: Accuracy=0.3629032258064516, Final Reward=-5
+2024-05-01 17:50:06,211 - Episode: 654/1000, Total Reward: -8.3, Accuracy: 0.36
+2024-05-01 17:50:12,034 - Episode End: Accuracy=0.3870967741935484, Final Reward=-5
+2024-05-01 17:50:12,034 - Episode: 655/1000, Total Reward: -7.700000000000001, Accuracy: 0.39
+2024-05-01 17:50:17,890 - Episode End: Accuracy=0.3790322580645161, Final Reward=-5
+2024-05-01 17:50:17,890 - Episode: 656/1000, Total Reward: -7.900000000000001, Accuracy: 0.38
+2024-05-01 17:50:24,308 - Episode End: Accuracy=0.3709677419354839, Final Reward=-5
+2024-05-01 17:50:24,308 - Episode: 657/1000, Total Reward: -8.100000000000001, Accuracy: 0.37
+2024-05-01 17:50:30,657 - Episode End: Accuracy=0.3629032258064516, Final Reward=-5
+2024-05-01 17:50:30,657 - Episode: 658/1000, Total Reward: -8.3, Accuracy: 0.36
+2024-05-01 17:50:36,522 - Episode End: Accuracy=0.3870967741935484, Final Reward=-5
+2024-05-01 17:50:36,522 - Episode: 659/1000, Total Reward: -7.700000000000001, Accuracy: 0.39
+2024-05-01 17:50:42,217 - Episode End: Accuracy=0.46774193548387094, Final Reward=-5
+2024-05-01 17:50:42,217 - Episode: 660/1000, Total Reward: -5.7, Accuracy: 0.47
+2024-05-01 17:50:48,079 - Episode End: Accuracy=0.7661290322580645, Final Reward=5
+2024-05-01 17:50:48,079 - Episode: 661/1000, Total Reward: 14.49999999999999, Accuracy: 0.77
+2024-05-01 17:50:53,906 - Episode End: Accuracy=0.7983870967741935, Final Reward=5
+2024-05-01 17:50:53,906 - Episode: 662/1000, Total Reward: 15.799999999999986, Accuracy: 0.80
+2024-05-01 17:50:59,569 - Episode End: Accuracy=0.8145161290322581, Final Reward=5
+2024-05-01 17:50:59,569 - Episode: 663/1000, Total Reward: 16.199999999999985, Accuracy: 0.81
+2024-05-01 17:51:05,634 - Episode End: Accuracy=0.8225806451612904, Final Reward=5
+2024-05-01 17:51:05,635 - Episode: 664/1000, Total Reward: 16.399999999999984, Accuracy: 0.82
+2024-05-01 17:51:11,545 - Episode End: Accuracy=0.8225806451612904, Final Reward=5
+2024-05-01 17:51:11,545 - Episode: 665/1000, Total Reward: 16.399999999999984, Accuracy: 0.82
+2024-05-01 17:51:17,416 - Episode End: Accuracy=0.8225806451612904, Final Reward=5
+2024-05-01 17:51:17,416 - Episode: 666/1000, Total Reward: 16.399999999999984, Accuracy: 0.82
+2024-05-01 17:51:23,243 - Episode End: Accuracy=0.8306451612903226, Final Reward=5
+2024-05-01 17:51:23,243 - Episode: 667/1000, Total Reward: 17.099999999999984, Accuracy: 0.83
+2024-05-01 17:51:28,997 - Episode End: Accuracy=0.8064516129032258, Final Reward=5
+2024-05-01 17:51:28,997 - Episode: 668/1000, Total Reward: 15.999999999999986, Accuracy: 0.81
+2024-05-01 17:51:34,981 - Episode End: Accuracy=0.7983870967741935, Final Reward=5
+2024-05-01 17:51:34,981 - Episode: 669/1000, Total Reward: 15.799999999999986, Accuracy: 0.80
+2024-05-01 17:51:40,796 - Episode End: Accuracy=0.7903225806451613, Final Reward=5
+2024-05-01 17:51:40,797 - Episode: 670/1000, Total Reward: 15.599999999999987, Accuracy: 0.79
+2024-05-01 17:51:46,846 - Episode End: Accuracy=0.7741935483870968, Final Reward=5
+2024-05-01 17:51:46,846 - Episode: 671/1000, Total Reward: 14.699999999999989, Accuracy: 0.77
+2024-05-01 17:51:52,694 - Episode End: Accuracy=0.7741935483870968, Final Reward=5
+2024-05-01 17:51:52,694 - Episode: 672/1000, Total Reward: 14.699999999999989, Accuracy: 0.77
+2024-05-01 17:51:58,574 - Episode End: Accuracy=0.8145161290322581, Final Reward=5
+2024-05-01 17:51:58,574 - Episode: 673/1000, Total Reward: 16.199999999999985, Accuracy: 0.81
+2024-05-01 17:52:04,604 - Episode End: Accuracy=0.8064516129032258, Final Reward=5
+2024-05-01 17:52:04,604 - Episode: 674/1000, Total Reward: 15.999999999999986, Accuracy: 0.81
+2024-05-01 17:52:10,448 - Episode End: Accuracy=0.8225806451612904, Final Reward=5
+2024-05-01 17:52:10,448 - Episode: 675/1000, Total Reward: 16.399999999999984, Accuracy: 0.82
+2024-05-01 17:52:16,432 - Episode End: Accuracy=0.8145161290322581, Final Reward=5
+2024-05-01 17:52:16,432 - Episode: 676/1000, Total Reward: 16.199999999999985, Accuracy: 0.81
+2024-05-01 17:52:22,151 - Episode End: Accuracy=0.8145161290322581, Final Reward=5
+2024-05-01 17:52:22,151 - Episode: 677/1000, Total Reward: 16.199999999999985, Accuracy: 0.81
+2024-05-01 17:52:28,049 - Episode End: Accuracy=0.8064516129032258, Final Reward=5
+2024-05-01 17:52:28,049 - Episode: 678/1000, Total Reward: 15.999999999999986, Accuracy: 0.81
+2024-05-01 17:52:33,922 - Episode End: Accuracy=0.8225806451612904, Final Reward=5
+2024-05-01 17:52:33,922 - Episode: 679/1000, Total Reward: 16.399999999999984, Accuracy: 0.82
+2024-05-01 17:52:39,709 - Episode End: Accuracy=0.8306451612903226, Final Reward=5
+2024-05-01 17:52:39,709 - Episode: 680/1000, Total Reward: 17.099999999999984, Accuracy: 0.83
+2024-05-01 17:52:45,678 - Episode End: Accuracy=0.8225806451612904, Final Reward=5
+2024-05-01 17:52:45,679 - Episode: 681/1000, Total Reward: 16.399999999999984, Accuracy: 0.82
+2024-05-01 17:52:51,424 - Episode End: Accuracy=0.8306451612903226, Final Reward=5
+2024-05-01 17:52:51,424 - Episode: 682/1000, Total Reward: 17.099999999999984, Accuracy: 0.83
+2024-05-01 17:52:57,255 - Episode End: Accuracy=0.7983870967741935, Final Reward=5
+2024-05-01 17:52:57,255 - Episode: 683/1000, Total Reward: 15.799999999999986, Accuracy: 0.80
+2024-05-01 17:53:03,310 - Episode End: Accuracy=0.7903225806451613, Final Reward=5
+2024-05-01 17:53:03,310 - Episode: 684/1000, Total Reward: 15.599999999999987, Accuracy: 0.79
+2024-05-01 17:53:09,090 - Episode End: Accuracy=0.75, Final Reward=5
+2024-05-01 17:53:09,091 - Episode: 685/1000, Total Reward: 14.09999999999999, Accuracy: 0.75
+2024-05-01 17:53:15,070 - Episode End: Accuracy=0.7016129032258065, Final Reward=-5
+2024-05-01 17:53:15,070 - Episode: 686/1000, Total Reward: 1.8999999999999941, Accuracy: 0.70
+2024-05-01 17:53:20,784 - Episode End: Accuracy=0.6854838709677419, Final Reward=-5
+2024-05-01 17:53:20,784 - Episode: 687/1000, Total Reward: 1.4999999999999956, Accuracy: 0.69
+2024-05-01 17:53:26,677 - Episode End: Accuracy=0.5967741935483871, Final Reward=-5
+2024-05-01 17:53:26,677 - Episode: 688/1000, Total Reward: -1.6999999999999993, Accuracy: 0.60
+2024-05-01 17:53:32,676 - Episode End: Accuracy=0.6290322580645161, Final Reward=-5
+2024-05-01 17:53:32,676 - Episode: 689/1000, Total Reward: -0.39999999999999947, Accuracy: 0.63
+2024-05-01 17:53:38,565 - Episode End: Accuracy=0.6693548387096774, Final Reward=-5
+2024-05-01 17:53:38,566 - Episode: 690/1000, Total Reward: 1.099999999999997, Accuracy: 0.67
+2024-05-01 17:53:44,439 - Episode End: Accuracy=0.6935483870967742, Final Reward=-5
+2024-05-01 17:53:44,440 - Episode: 691/1000, Total Reward: 1.6999999999999948, Accuracy: 0.69
+2024-05-01 17:53:50,222 - Episode End: Accuracy=0.7016129032258065, Final Reward=-5
+2024-05-01 17:53:50,222 - Episode: 692/1000, Total Reward: 1.8999999999999941, Accuracy: 0.70
+2024-05-01 17:53:56,187 - Episode End: Accuracy=0.7016129032258065, Final Reward=-5
+2024-05-01 17:53:56,187 - Episode: 693/1000, Total Reward: 1.8999999999999941, Accuracy: 0.70
+2024-05-01 17:54:02,034 - Episode End: Accuracy=0.7016129032258065, Final Reward=-5
+2024-05-01 17:54:02,034 - Episode: 694/1000, Total Reward: 1.8999999999999941, Accuracy: 0.70
+2024-05-01 17:54:07,886 - Episode End: Accuracy=0.6774193548387096, Final Reward=-5
+2024-05-01 17:54:07,887 - Episode: 695/1000, Total Reward: 1.2999999999999963, Accuracy: 0.68
+2024-05-01 17:54:13,922 - Episode End: Accuracy=0.7016129032258065, Final Reward=-5
+2024-05-01 17:54:13,922 - Episode: 696/1000, Total Reward: 1.8999999999999941, Accuracy: 0.70
+2024-05-01 17:54:19,760 - Episode End: Accuracy=0.7016129032258065, Final Reward=-5
+2024-05-01 17:54:19,760 - Episode: 697/1000, Total Reward: 1.8999999999999941, Accuracy: 0.70
+2024-05-01 17:54:25,594 - Episode End: Accuracy=0.7016129032258065, Final Reward=-5
+2024-05-01 17:54:25,594 - Episode: 698/1000, Total Reward: 1.8999999999999941, Accuracy: 0.70
+2024-05-01 17:54:31,536 - Episode End: Accuracy=0.6451612903225806, Final Reward=-5
+2024-05-01 17:54:31,536 - Episode: 699/1000, Total Reward: -8.881784197001252e-16, Accuracy: 0.65
+2024-05-01 17:54:37,419 - Episode End: Accuracy=0.5564516129032258, Final Reward=-5
+2024-05-01 17:54:37,419 - Episode: 700/1000, Total Reward: -3.0, Accuracy: 0.56
+2024-05-01 17:54:43,301 - Episode End: Accuracy=0.4838709677419355, Final Reward=-5
+2024-05-01 17:54:43,301 - Episode: 701/1000, Total Reward: -5.3, Accuracy: 0.48
+2024-05-01 17:54:49,053 - Episode End: Accuracy=0.3951612903225806, Final Reward=-5
+2024-05-01 17:54:49,053 - Episode: 702/1000, Total Reward: -7.500000000000001, Accuracy: 0.40
+2024-05-01 17:54:55,047 - Episode End: Accuracy=0.3790322580645161, Final Reward=-5
+2024-05-01 17:54:55,047 - Episode: 703/1000, Total Reward: -7.900000000000001, Accuracy: 0.38
+2024-05-01 17:55:01,005 - Episode End: Accuracy=0.3870967741935484, Final Reward=-5
+2024-05-01 17:55:01,005 - Episode: 704/1000, Total Reward: -7.700000000000001, Accuracy: 0.39
+2024-05-01 17:55:07,012 - Episode End: Accuracy=0.3548387096774194, Final Reward=-5
+2024-05-01 17:55:07,012 - Episode: 705/1000, Total Reward: -8.500000000000002, Accuracy: 0.35
+2024-05-01 17:55:12,796 - Episode End: Accuracy=0.3709677419354839, Final Reward=-5
+2024-05-01 17:55:12,796 - Episode: 706/1000, Total Reward: -8.100000000000001, Accuracy: 0.37
+2024-05-01 17:55:18,705 - Episode End: Accuracy=0.5080645161290323, Final Reward=-5
+2024-05-01 17:55:18,705 - Episode: 707/1000, Total Reward: -4.7, Accuracy: 0.51
+2024-05-01 17:55:24,671 - Episode End: Accuracy=0.7096774193548387, Final Reward=-5
+2024-05-01 17:55:24,671 - Episode: 708/1000, Total Reward: 2.5999999999999934, Accuracy: 0.71
+2024-05-01 17:55:30,630 - Episode End: Accuracy=0.7661290322580645, Final Reward=5
+2024-05-01 17:55:30,630 - Episode: 709/1000, Total Reward: 14.49999999999999, Accuracy: 0.77
+2024-05-01 17:55:36,619 - Episode End: Accuracy=0.7661290322580645, Final Reward=5
+2024-05-01 17:55:36,619 - Episode: 710/1000, Total Reward: 14.49999999999999, Accuracy: 0.77
+2024-05-01 17:55:42,421 - Episode End: Accuracy=0.7983870967741935, Final Reward=5
+2024-05-01 17:55:42,421 - Episode: 711/1000, Total Reward: 15.799999999999986, Accuracy: 0.80
+2024-05-01 17:55:48,273 - Episode End: Accuracy=0.8064516129032258, Final Reward=5
+2024-05-01 17:55:48,273 - Episode: 712/1000, Total Reward: 15.999999999999986, Accuracy: 0.81
+2024-05-01 17:55:54,235 - Episode End: Accuracy=0.7741935483870968, Final Reward=5
+2024-05-01 17:55:54,236 - Episode: 713/1000, Total Reward: 14.699999999999989, Accuracy: 0.77
+2024-05-01 17:56:00,251 - Episode End: Accuracy=0.5241935483870968, Final Reward=-5
+2024-05-01 17:56:00,251 - Episode: 714/1000, Total Reward: -3.8000000000000007, Accuracy: 0.52
+2024-05-01 17:56:06,216 - Episode End: Accuracy=0.3467741935483871, Final Reward=-5
+2024-05-01 17:56:06,216 - Episode: 715/1000, Total Reward: -8.700000000000003, Accuracy: 0.35
+2024-05-01 17:56:11,906 - Episode End: Accuracy=0.3548387096774194, Final Reward=-5
+2024-05-01 17:56:11,906 - Episode: 716/1000, Total Reward: -8.500000000000002, Accuracy: 0.35
+2024-05-01 17:56:17,802 - Episode End: Accuracy=0.31451612903225806, Final Reward=-5
+2024-05-01 17:56:17,802 - Episode: 717/1000, Total Reward: -9.5, Accuracy: 0.31
+2024-05-01 17:56:23,893 - Episode End: Accuracy=0.2903225806451613, Final Reward=-5
+2024-05-01 17:56:23,893 - Episode: 718/1000, Total Reward: -10.099999999999998, Accuracy: 0.29
+2024-05-01 17:56:29,873 - Episode End: Accuracy=0.31451612903225806, Final Reward=-5
+2024-05-01 17:56:29,873 - Episode: 719/1000, Total Reward: -9.5, Accuracy: 0.31
+2024-05-01 17:56:35,748 - Episode End: Accuracy=0.3064516129032258, Final Reward=-5
+2024-05-01 17:56:35,749 - Episode: 720/1000, Total Reward: -9.7, Accuracy: 0.31
+2024-05-01 17:56:41,574 - Episode End: Accuracy=0.3387096774193548, Final Reward=-5
+2024-05-01 17:56:41,575 - Episode: 721/1000, Total Reward: -8.900000000000002, Accuracy: 0.34
+2024-05-01 17:56:47,476 - Episode End: Accuracy=0.4032258064516129, Final Reward=-5
+2024-05-01 17:56:47,476 - Episode: 722/1000, Total Reward: -7.300000000000001, Accuracy: 0.40
+2024-05-01 17:56:53,365 - Episode End: Accuracy=0.7580645161290323, Final Reward=5
+2024-05-01 17:56:53,365 - Episode: 723/1000, Total Reward: 14.29999999999999, Accuracy: 0.76
+2024-05-01 17:56:59,137 - Episode End: Accuracy=0.8064516129032258, Final Reward=5
+2024-05-01 17:56:59,137 - Episode: 724/1000, Total Reward: 15.999999999999986, Accuracy: 0.81
+2024-05-01 17:57:05,015 - Episode End: Accuracy=0.8387096774193549, Final Reward=5
+2024-05-01 17:57:05,015 - Episode: 725/1000, Total Reward: 17.299999999999983, Accuracy: 0.84
+2024-05-01 17:57:10,839 - Episode End: Accuracy=0.8145161290322581, Final Reward=5
+2024-05-01 17:57:10,839 - Episode: 726/1000, Total Reward: 16.199999999999985, Accuracy: 0.81
+2024-05-01 17:57:16,796 - Episode End: Accuracy=0.8145161290322581, Final Reward=5
+2024-05-01 17:57:16,796 - Episode: 727/1000, Total Reward: 16.199999999999985, Accuracy: 0.81
+2024-05-01 17:57:22,627 - Episode End: Accuracy=0.782258064516129, Final Reward=5
+2024-05-01 17:57:22,627 - Episode: 728/1000, Total Reward: 14.899999999999988, Accuracy: 0.78
+2024-05-01 17:57:28,480 - Episode End: Accuracy=0.5887096774193549, Final Reward=-5
+2024-05-01 17:57:28,480 - Episode: 729/1000, Total Reward: -1.8999999999999995, Accuracy: 0.59
+2024-05-01 17:57:34,547 - Episode End: Accuracy=0.4274193548387097, Final Reward=-5
+2024-05-01 17:57:34,547 - Episode: 730/1000, Total Reward: -6.7, Accuracy: 0.43
+2024-05-01 17:57:40,400 - Episode End: Accuracy=0.3870967741935484, Final Reward=-5
+2024-05-01 17:57:40,400 - Episode: 731/1000, Total Reward: -7.700000000000001, Accuracy: 0.39
+2024-05-01 17:57:46,382 - Episode End: Accuracy=0.43548387096774194, Final Reward=-5
+2024-05-01 17:57:46,382 - Episode: 732/1000, Total Reward: -6.5, Accuracy: 0.44
+2024-05-01 17:57:52,250 - Episode End: Accuracy=0.49193548387096775, Final Reward=-5
+2024-05-01 17:57:52,250 - Episode: 733/1000, Total Reward: -5.3, Accuracy: 0.49
+2024-05-01 17:57:58,155 - Episode End: Accuracy=0.6774193548387096, Final Reward=-5
+2024-05-01 17:57:58,155 - Episode: 734/1000, Total Reward: 1.2999999999999963, Accuracy: 0.68
+2024-05-01 17:58:04,051 - Episode End: Accuracy=0.8225806451612904, Final Reward=5
+2024-05-01 17:58:04,051 - Episode: 735/1000, Total Reward: 16.399999999999984, Accuracy: 0.82
+2024-05-01 17:58:09,913 - Episode End: Accuracy=0.8306451612903226, Final Reward=5
+2024-05-01 17:58:09,913 - Episode: 736/1000, Total Reward: 17.099999999999984, Accuracy: 0.83
+2024-05-01 17:58:15,881 - Episode End: Accuracy=0.8306451612903226, Final Reward=5
+2024-05-01 17:58:15,881 - Episode: 737/1000, Total Reward: 17.099999999999984, Accuracy: 0.83
+2024-05-01 17:58:21,837 - Episode End: Accuracy=0.8225806451612904, Final Reward=5
+2024-05-01 17:58:21,837 - Episode: 738/1000, Total Reward: 16.399999999999984, Accuracy: 0.82
+2024-05-01 17:58:27,830 - Episode End: Accuracy=0.8306451612903226, Final Reward=5
+2024-05-01 17:58:27,830 - Episode: 739/1000, Total Reward: 17.099999999999984, Accuracy: 0.83
+2024-05-01 17:58:33,758 - Episode End: Accuracy=0.8064516129032258, Final Reward=5
+2024-05-01 17:58:33,759 - Episode: 740/1000, Total Reward: 15.999999999999986, Accuracy: 0.81
+2024-05-01 17:58:39,684 - Episode End: Accuracy=0.8387096774193549, Final Reward=5
+2024-05-01 17:58:39,684 - Episode: 741/1000, Total Reward: 17.299999999999983, Accuracy: 0.84
+2024-05-01 17:58:45,676 - Episode End: Accuracy=0.8387096774193549, Final Reward=5
+2024-05-01 17:58:45,677 - Episode: 742/1000, Total Reward: 17.299999999999983, Accuracy: 0.84
+2024-05-01 17:58:51,551 - Episode End: Accuracy=0.8225806451612904, Final Reward=5
+2024-05-01 17:58:51,551 - Episode: 743/1000, Total Reward: 16.399999999999984, Accuracy: 0.82
+2024-05-01 17:58:57,474 - Episode End: Accuracy=0.8467741935483871, Final Reward=5
+2024-05-01 17:58:57,474 - Episode: 744/1000, Total Reward: 17.499999999999982, Accuracy: 0.85
+2024-05-01 17:59:03,399 - Episode End: Accuracy=0.782258064516129, Final Reward=5
+2024-05-01 17:59:03,399 - Episode: 745/1000, Total Reward: 14.899999999999988, Accuracy: 0.78
+2024-05-01 17:59:09,291 - Episode End: Accuracy=0.7741935483870968, Final Reward=5
+2024-05-01 17:59:09,291 - Episode: 746/1000, Total Reward: 14.699999999999989, Accuracy: 0.77
+2024-05-01 17:59:15,257 - Episode End: Accuracy=0.8225806451612904, Final Reward=5
+2024-05-01 17:59:15,257 - Episode: 747/1000, Total Reward: 16.399999999999984, Accuracy: 0.82
+2024-05-01 17:59:21,080 - Episode End: Accuracy=0.7903225806451613, Final Reward=5
+2024-05-01 17:59:21,080 - Episode: 748/1000, Total Reward: 15.599999999999987, Accuracy: 0.79
+2024-05-01 17:59:27,075 - Episode End: Accuracy=0.8225806451612904, Final Reward=5
+2024-05-01 17:59:27,075 - Episode: 749/1000, Total Reward: 16.399999999999984, Accuracy: 0.82
+2024-05-01 17:59:33,345 - Episode End: Accuracy=0.8225806451612904, Final Reward=5
+2024-05-01 17:59:33,345 - Episode: 750/1000, Total Reward: 16.399999999999984, Accuracy: 0.82
+2024-05-01 17:59:39,459 - Episode End: Accuracy=0.8306451612903226, Final Reward=5
+2024-05-01 17:59:39,459 - Episode: 751/1000, Total Reward: 17.099999999999984, Accuracy: 0.83
+2024-05-01 17:59:45,324 - Episode End: Accuracy=0.7983870967741935, Final Reward=5
+2024-05-01 17:59:45,324 - Episode: 752/1000, Total Reward: 15.799999999999986, Accuracy: 0.80
+2024-05-01 17:59:51,227 - Episode End: Accuracy=0.7096774193548387, Final Reward=-5
+2024-05-01 17:59:51,227 - Episode: 753/1000, Total Reward: 2.5999999999999934, Accuracy: 0.71
+2024-05-01 17:59:57,216 - Episode End: Accuracy=0.6854838709677419, Final Reward=-5
+2024-05-01 17:59:57,217 - Episode: 754/1000, Total Reward: 1.4999999999999956, Accuracy: 0.69
+2024-05-01 18:00:03,221 - Episode End: Accuracy=0.6935483870967742, Final Reward=-5
+2024-05-01 18:00:03,221 - Episode: 755/1000, Total Reward: 1.6999999999999948, Accuracy: 0.69
+2024-05-01 18:00:09,140 - Episode End: Accuracy=0.7258064516129032, Final Reward=-5
+2024-05-01 18:00:09,140 - Episode: 756/1000, Total Reward: 2.999999999999992, Accuracy: 0.73
+2024-05-01 18:00:15,040 - Episode End: Accuracy=0.7903225806451613, Final Reward=5
+2024-05-01 18:00:15,041 - Episode: 757/1000, Total Reward: 15.599999999999987, Accuracy: 0.79
+2024-05-01 18:00:20,969 - Episode End: Accuracy=0.8064516129032258, Final Reward=5
+2024-05-01 18:00:20,969 - Episode: 758/1000, Total Reward: 15.999999999999986, Accuracy: 0.81
+2024-05-01 18:00:26,989 - Episode End: Accuracy=0.8225806451612904, Final Reward=5
+2024-05-01 18:00:26,989 - Episode: 759/1000, Total Reward: 16.399999999999984, Accuracy: 0.82
+2024-05-01 18:00:32,976 - Episode End: Accuracy=0.7983870967741935, Final Reward=5
+2024-05-01 18:00:32,976 - Episode: 760/1000, Total Reward: 15.799999999999986, Accuracy: 0.80
+2024-05-01 18:00:38,912 - Episode End: Accuracy=0.8145161290322581, Final Reward=5
+2024-05-01 18:00:38,913 - Episode: 761/1000, Total Reward: 16.199999999999985, Accuracy: 0.81
+2024-05-01 18:00:44,786 - Episode End: Accuracy=0.8064516129032258, Final Reward=5
+2024-05-01 18:00:44,786 - Episode: 762/1000, Total Reward: 15.999999999999986, Accuracy: 0.81
+2024-05-01 18:00:50,630 - Episode End: Accuracy=0.7741935483870968, Final Reward=5
+2024-05-01 18:00:50,630 - Episode: 763/1000, Total Reward: 14.699999999999989, Accuracy: 0.77
+2024-05-01 18:00:56,634 - Episode End: Accuracy=0.717741935483871, Final Reward=-5
+2024-05-01 18:00:56,634 - Episode: 764/1000, Total Reward: 2.7999999999999927, Accuracy: 0.72
+2024-05-01 18:01:03,110 - Episode End: Accuracy=0.6935483870967742, Final Reward=-5
+2024-05-01 18:01:03,110 - Episode: 765/1000, Total Reward: 1.6999999999999948, Accuracy: 0.69
+2024-05-01 18:01:09,251 - Episode End: Accuracy=0.7338709677419355, Final Reward=-5
+2024-05-01 18:01:09,251 - Episode: 766/1000, Total Reward: 3.199999999999992, Accuracy: 0.73
+2024-05-01 18:01:15,162 - Episode End: Accuracy=0.7419354838709677, Final Reward=-5
+2024-05-01 18:01:15,162 - Episode: 767/1000, Total Reward: 3.3999999999999915, Accuracy: 0.74
+2024-05-01 18:01:20,987 - Episode End: Accuracy=0.782258064516129, Final Reward=5
+2024-05-01 18:01:20,988 - Episode: 768/1000, Total Reward: 14.899999999999988, Accuracy: 0.78
+2024-05-01 18:01:26,926 - Episode End: Accuracy=0.8064516129032258, Final Reward=5
+2024-05-01 18:01:26,926 - Episode: 769/1000, Total Reward: 15.999999999999986, Accuracy: 0.81
+2024-05-01 18:01:32,993 - Episode End: Accuracy=0.8225806451612904, Final Reward=5
+2024-05-01 18:01:32,994 - Episode: 770/1000, Total Reward: 16.399999999999984, Accuracy: 0.82
+2024-05-01 18:01:39,071 - Episode End: Accuracy=0.8145161290322581, Final Reward=5
+2024-05-01 18:01:39,071 - Episode: 771/1000, Total Reward: 16.199999999999985, Accuracy: 0.81
+2024-05-01 18:01:45,055 - Episode End: Accuracy=0.8064516129032258, Final Reward=5
+2024-05-01 18:01:45,055 - Episode: 772/1000, Total Reward: 15.999999999999986, Accuracy: 0.81
+2024-05-01 18:01:51,051 - Episode End: Accuracy=0.8306451612903226, Final Reward=5
+2024-05-01 18:01:51,051 - Episode: 773/1000, Total Reward: 17.099999999999984, Accuracy: 0.83
+2024-05-01 18:01:56,970 - Episode End: Accuracy=0.8064516129032258, Final Reward=5
+2024-05-01 18:01:56,970 - Episode: 774/1000, Total Reward: 15.999999999999986, Accuracy: 0.81
+2024-05-01 18:02:02,983 - Episode End: Accuracy=0.7580645161290323, Final Reward=5
+2024-05-01 18:02:02,983 - Episode: 775/1000, Total Reward: 14.29999999999999, Accuracy: 0.76
+2024-05-01 18:02:08,952 - Episode End: Accuracy=0.7258064516129032, Final Reward=-5
+2024-05-01 18:02:08,953 - Episode: 776/1000, Total Reward: 2.999999999999992, Accuracy: 0.73
+2024-05-01 18:02:14,857 - Episode End: Accuracy=0.7016129032258065, Final Reward=-5
+2024-05-01 18:02:14,857 - Episode: 777/1000, Total Reward: 2.399999999999994, Accuracy: 0.70
+2024-05-01 18:02:20,820 - Episode End: Accuracy=0.7096774193548387, Final Reward=-5
+2024-05-01 18:02:20,820 - Episode: 778/1000, Total Reward: 2.5999999999999934, Accuracy: 0.71
+2024-05-01 18:02:26,630 - Episode End: Accuracy=0.6935483870967742, Final Reward=-5
+2024-05-01 18:02:26,630 - Episode: 779/1000, Total Reward: 1.6999999999999948, Accuracy: 0.69
+2024-05-01 18:02:32,670 - Episode End: Accuracy=0.7661290322580645, Final Reward=5
+2024-05-01 18:02:32,670 - Episode: 780/1000, Total Reward: 14.49999999999999, Accuracy: 0.77
+2024-05-01 18:02:38,741 - Episode End: Accuracy=0.8064516129032258, Final Reward=5
+2024-05-01 18:02:38,741 - Episode: 781/1000, Total Reward: 15.999999999999986, Accuracy: 0.81
+2024-05-01 18:02:44,599 - Episode End: Accuracy=0.8145161290322581, Final Reward=5
+2024-05-01 18:02:44,599 - Episode: 782/1000, Total Reward: 16.199999999999985, Accuracy: 0.81
+2024-05-01 18:02:50,639 - Episode End: Accuracy=0.8225806451612904, Final Reward=5
+2024-05-01 18:02:50,639 - Episode: 783/1000, Total Reward: 16.399999999999984, Accuracy: 0.82
+2024-05-01 18:02:56,570 - Episode End: Accuracy=0.8145161290322581, Final Reward=5
+2024-05-01 18:02:56,570 - Episode: 784/1000, Total Reward: 16.199999999999985, Accuracy: 0.81
+2024-05-01 18:03:02,552 - Episode End: Accuracy=0.8064516129032258, Final Reward=5
+2024-05-01 18:03:02,552 - Episode: 785/1000, Total Reward: 15.999999999999986, Accuracy: 0.81
+2024-05-01 18:03:08,533 - Episode End: Accuracy=0.8306451612903226, Final Reward=5
+2024-05-01 18:03:08,533 - Episode: 786/1000, Total Reward: 17.099999999999984, Accuracy: 0.83
+2024-05-01 18:03:14,293 - Episode End: Accuracy=0.7903225806451613, Final Reward=5
+2024-05-01 18:03:14,293 - Episode: 787/1000, Total Reward: 15.599999999999987, Accuracy: 0.79
+2024-05-01 18:03:20,343 - Episode End: Accuracy=0.7419354838709677, Final Reward=-5
+2024-05-01 18:03:20,343 - Episode: 788/1000, Total Reward: 3.3999999999999915, Accuracy: 0.74
+2024-05-01 18:03:26,330 - Episode End: Accuracy=0.7096774193548387, Final Reward=-5
+2024-05-01 18:03:26,331 - Episode: 789/1000, Total Reward: 2.5999999999999934, Accuracy: 0.71
+2024-05-01 18:03:32,305 - Episode End: Accuracy=0.6451612903225806, Final Reward=-5
+2024-05-01 18:03:32,305 - Episode: 790/1000, Total Reward: -8.881784197001252e-16, Accuracy: 0.65
+2024-05-01 18:03:38,107 - Episode End: Accuracy=0.6451612903225806, Final Reward=-5
+2024-05-01 18:03:38,107 - Episode: 791/1000, Total Reward: -8.881784197001252e-16, Accuracy: 0.65
+2024-05-01 18:03:43,912 - Episode End: Accuracy=0.6693548387096774, Final Reward=-5
+2024-05-01 18:03:43,913 - Episode: 792/1000, Total Reward: 1.099999999999997, Accuracy: 0.67
+2024-05-01 18:03:49,826 - Episode End: Accuracy=0.7258064516129032, Final Reward=-5
+2024-05-01 18:03:49,827 - Episode: 793/1000, Total Reward: 2.999999999999992, Accuracy: 0.73
+2024-05-01 18:03:55,754 - Episode End: Accuracy=0.8064516129032258, Final Reward=5
+2024-05-01 18:03:55,755 - Episode: 794/1000, Total Reward: 15.999999999999986, Accuracy: 0.81
+2024-05-01 18:04:01,791 - Episode End: Accuracy=0.8225806451612904, Final Reward=5
+2024-05-01 18:04:01,791 - Episode: 795/1000, Total Reward: 16.399999999999984, Accuracy: 0.82
+2024-05-01 18:04:07,556 - Episode End: Accuracy=0.8064516129032258, Final Reward=5
+2024-05-01 18:04:07,556 - Episode: 796/1000, Total Reward: 15.999999999999986, Accuracy: 0.81
+2024-05-01 18:04:13,580 - Episode End: Accuracy=0.8225806451612904, Final Reward=5
+2024-05-01 18:04:13,580 - Episode: 797/1000, Total Reward: 16.399999999999984, Accuracy: 0.82
+2024-05-01 18:04:19,481 - Episode End: Accuracy=0.8225806451612904, Final Reward=5
+2024-05-01 18:04:19,481 - Episode: 798/1000, Total Reward: 16.399999999999984, Accuracy: 0.82
+2024-05-01 18:04:25,358 - Episode End: Accuracy=0.8225806451612904, Final Reward=5
+2024-05-01 18:04:25,358 - Episode: 799/1000, Total Reward: 16.399999999999984, Accuracy: 0.82
+2024-05-01 18:04:31,458 - Episode End: Accuracy=0.8306451612903226, Final Reward=5
+2024-05-01 18:04:31,459 - Episode: 800/1000, Total Reward: 17.099999999999984, Accuracy: 0.83
+2024-05-01 18:04:37,349 - Episode End: Accuracy=0.7903225806451613, Final Reward=5
+2024-05-01 18:04:37,349 - Episode: 801/1000, Total Reward: 15.599999999999987, Accuracy: 0.79
+2024-05-01 18:04:43,289 - Episode End: Accuracy=0.75, Final Reward=5
+2024-05-01 18:04:43,289 - Episode: 802/1000, Total Reward: 14.09999999999999, Accuracy: 0.75
+2024-05-01 18:04:49,133 - Episode End: Accuracy=0.7258064516129032, Final Reward=-5
+2024-05-01 18:04:49,133 - Episode: 803/1000, Total Reward: 2.999999999999992, Accuracy: 0.73
+2024-05-01 18:04:55,039 - Episode End: Accuracy=0.6854838709677419, Final Reward=-5
+2024-05-01 18:04:55,039 - Episode: 804/1000, Total Reward: 1.4999999999999956, Accuracy: 0.69
+2024-05-01 18:05:01,155 - Episode End: Accuracy=0.7258064516129032, Final Reward=-5
+2024-05-01 18:05:01,156 - Episode: 805/1000, Total Reward: 2.999999999999992, Accuracy: 0.73
+2024-05-01 18:05:07,105 - Episode End: Accuracy=0.75, Final Reward=5
+2024-05-01 18:05:07,105 - Episode: 806/1000, Total Reward: 14.09999999999999, Accuracy: 0.75
+2024-05-01 18:05:13,078 - Episode End: Accuracy=0.7661290322580645, Final Reward=5
+2024-05-01 18:05:13,078 - Episode: 807/1000, Total Reward: 14.49999999999999, Accuracy: 0.77
+2024-05-01 18:05:18,991 - Episode End: Accuracy=0.7580645161290323, Final Reward=5
+2024-05-01 18:05:18,991 - Episode: 808/1000, Total Reward: 14.29999999999999, Accuracy: 0.76
+2024-05-01 18:05:24,974 - Episode End: Accuracy=0.8306451612903226, Final Reward=5
+2024-05-01 18:05:24,974 - Episode: 809/1000, Total Reward: 17.099999999999984, Accuracy: 0.83
+2024-05-01 18:05:30,924 - Episode End: Accuracy=0.8225806451612904, Final Reward=5
+2024-05-01 18:05:30,925 - Episode: 810/1000, Total Reward: 16.399999999999984, Accuracy: 0.82
+2024-05-01 18:05:36,865 - Episode End: Accuracy=0.8225806451612904, Final Reward=5
+2024-05-01 18:05:36,865 - Episode: 811/1000, Total Reward: 16.399999999999984, Accuracy: 0.82
+2024-05-01 18:05:42,911 - Episode End: Accuracy=0.8306451612903226, Final Reward=5
+2024-05-01 18:05:42,911 - Episode: 812/1000, Total Reward: 17.099999999999984, Accuracy: 0.83
+2024-05-01 18:05:48,885 - Episode End: Accuracy=0.8306451612903226, Final Reward=5
+2024-05-01 18:05:48,885 - Episode: 813/1000, Total Reward: 17.099999999999984, Accuracy: 0.83
+2024-05-01 18:05:54,888 - Episode End: Accuracy=0.8225806451612904, Final Reward=5
+2024-05-01 18:05:54,888 - Episode: 814/1000, Total Reward: 16.399999999999984, Accuracy: 0.82
+2024-05-01 18:06:00,821 - Episode End: Accuracy=0.8145161290322581, Final Reward=5
+2024-05-01 18:06:00,821 - Episode: 815/1000, Total Reward: 16.199999999999985, Accuracy: 0.81
+2024-05-01 18:06:06,717 - Episode End: Accuracy=0.8225806451612904, Final Reward=5
+2024-05-01 18:06:06,717 - Episode: 816/1000, Total Reward: 16.399999999999984, Accuracy: 0.82
+2024-05-01 18:06:12,655 - Episode End: Accuracy=0.8225806451612904, Final Reward=5
+2024-05-01 18:06:12,656 - Episode: 817/1000, Total Reward: 16.399999999999984, Accuracy: 0.82
+2024-05-01 18:06:18,590 - Episode End: Accuracy=0.782258064516129, Final Reward=5
+2024-05-01 18:06:18,590 - Episode: 818/1000, Total Reward: 14.899999999999988, Accuracy: 0.78
+2024-05-01 18:06:24,647 - Episode End: Accuracy=0.8064516129032258, Final Reward=5
+2024-05-01 18:06:24,647 - Episode: 819/1000, Total Reward: 15.999999999999986, Accuracy: 0.81
+2024-05-01 18:06:30,544 - Episode End: Accuracy=0.782258064516129, Final Reward=5
+2024-05-01 18:06:30,544 - Episode: 820/1000, Total Reward: 14.899999999999988, Accuracy: 0.78
+2024-05-01 18:06:36,701 - Episode End: Accuracy=0.7096774193548387, Final Reward=-5
+2024-05-01 18:06:36,701 - Episode: 821/1000, Total Reward: 2.5999999999999934, Accuracy: 0.71
+2024-05-01 18:06:42,579 - Episode End: Accuracy=0.6612903225806451, Final Reward=-5
+2024-05-01 18:06:42,579 - Episode: 822/1000, Total Reward: 0.8999999999999977, Accuracy: 0.66
+2024-05-01 18:06:48,513 - Episode End: Accuracy=0.6129032258064516, Final Reward=-5
+2024-05-01 18:06:48,513 - Episode: 823/1000, Total Reward: -0.799999999999998, Accuracy: 0.61
+2024-05-01 18:06:54,450 - Episode End: Accuracy=0.6370967741935484, Final Reward=-5
+2024-05-01 18:06:54,450 - Episode: 824/1000, Total Reward: -0.20000000000000018, Accuracy: 0.64
+2024-05-01 18:07:00,290 - Episode End: Accuracy=0.717741935483871, Final Reward=-5
+2024-05-01 18:07:00,290 - Episode: 825/1000, Total Reward: 2.7999999999999927, Accuracy: 0.72
+2024-05-01 18:07:06,340 - Episode End: Accuracy=0.8064516129032258, Final Reward=5
+2024-05-01 18:07:06,340 - Episode: 826/1000, Total Reward: 15.999999999999986, Accuracy: 0.81
+2024-05-01 18:07:12,203 - Episode End: Accuracy=0.8225806451612904, Final Reward=5
+2024-05-01 18:07:12,204 - Episode: 827/1000, Total Reward: 16.399999999999984, Accuracy: 0.82
+2024-05-01 18:07:18,036 - Episode End: Accuracy=0.8306451612903226, Final Reward=5
+2024-05-01 18:07:18,036 - Episode: 828/1000, Total Reward: 17.099999999999984, Accuracy: 0.83
+2024-05-01 18:07:24,033 - Episode End: Accuracy=0.8306451612903226, Final Reward=5
+2024-05-01 18:07:24,033 - Episode: 829/1000, Total Reward: 17.099999999999984, Accuracy: 0.83
+2024-05-01 18:07:29,911 - Episode End: Accuracy=0.8306451612903226, Final Reward=5
+2024-05-01 18:07:29,912 - Episode: 830/1000, Total Reward: 17.099999999999984, Accuracy: 0.83
+2024-05-01 18:07:36,044 - Episode End: Accuracy=0.8225806451612904, Final Reward=5
+2024-05-01 18:07:36,044 - Episode: 831/1000, Total Reward: 16.399999999999984, Accuracy: 0.82
+2024-05-01 18:07:41,918 - Episode End: Accuracy=0.7983870967741935, Final Reward=5
+2024-05-01 18:07:41,918 - Episode: 832/1000, Total Reward: 15.799999999999986, Accuracy: 0.80
+2024-05-01 18:07:47,687 - Episode End: Accuracy=0.7580645161290323, Final Reward=5
+2024-05-01 18:07:47,688 - Episode: 833/1000, Total Reward: 14.29999999999999, Accuracy: 0.76
+2024-05-01 18:07:53,639 - Episode End: Accuracy=0.6612903225806451, Final Reward=-5
+2024-05-01 18:07:53,639 - Episode: 834/1000, Total Reward: 0.8999999999999977, Accuracy: 0.66
+2024-05-01 18:07:59,530 - Episode End: Accuracy=0.5806451612903226, Final Reward=-5
+2024-05-01 18:07:59,530 - Episode: 835/1000, Total Reward: -2.0999999999999996, Accuracy: 0.58
+2024-05-01 18:08:05,578 - Episode End: Accuracy=0.5161290322580645, Final Reward=-5
+2024-05-01 18:08:05,578 - Episode: 836/1000, Total Reward: -4.2, Accuracy: 0.52
+2024-05-01 18:08:11,378 - Episode End: Accuracy=0.5241935483870968, Final Reward=-5
+2024-05-01 18:08:11,378 - Episode: 837/1000, Total Reward: -4.5, Accuracy: 0.52
+2024-05-01 18:08:17,329 - Episode End: Accuracy=0.5645161290322581, Final Reward=-5
+2024-05-01 18:08:17,329 - Episode: 838/1000, Total Reward: -3.0, Accuracy: 0.56
+2024-05-01 18:08:23,164 - Episode End: Accuracy=0.7741935483870968, Final Reward=5
+2024-05-01 18:08:23,164 - Episode: 839/1000, Total Reward: 14.699999999999989, Accuracy: 0.77
+2024-05-01 18:08:28,970 - Episode End: Accuracy=0.8064516129032258, Final Reward=5
+2024-05-01 18:08:28,971 - Episode: 840/1000, Total Reward: 15.999999999999986, Accuracy: 0.81
+2024-05-01 18:08:35,051 - Episode End: Accuracy=0.8225806451612904, Final Reward=5
+2024-05-01 18:08:35,051 - Episode: 841/1000, Total Reward: 16.399999999999984, Accuracy: 0.82
+2024-05-01 18:08:40,923 - Episode End: Accuracy=0.8145161290322581, Final Reward=5
+2024-05-01 18:08:40,923 - Episode: 842/1000, Total Reward: 16.199999999999985, Accuracy: 0.81
+2024-05-01 18:08:46,994 - Episode End: Accuracy=0.8306451612903226, Final Reward=5
+2024-05-01 18:08:46,994 - Episode: 843/1000, Total Reward: 17.099999999999984, Accuracy: 0.83
+2024-05-01 18:08:52,904 - Episode End: Accuracy=0.8225806451612904, Final Reward=5
+2024-05-01 18:08:52,904 - Episode: 844/1000, Total Reward: 16.399999999999984, Accuracy: 0.82
+2024-05-01 18:08:58,849 - Episode End: Accuracy=0.8306451612903226, Final Reward=5
+2024-05-01 18:08:58,849 - Episode: 845/1000, Total Reward: 17.099999999999984, Accuracy: 0.83
+2024-05-01 18:09:04,852 - Episode End: Accuracy=0.8064516129032258, Final Reward=5
+2024-05-01 18:09:04,852 - Episode: 846/1000, Total Reward: 15.999999999999986, Accuracy: 0.81
+2024-05-01 18:09:10,812 - Episode End: Accuracy=0.8306451612903226, Final Reward=5
+2024-05-01 18:09:10,812 - Episode: 847/1000, Total Reward: 17.099999999999984, Accuracy: 0.83
+2024-05-01 18:09:16,876 - Episode End: Accuracy=0.8306451612903226, Final Reward=5
+2024-05-01 18:09:16,877 - Episode: 848/1000, Total Reward: 17.099999999999984, Accuracy: 0.83
+2024-05-01 18:09:22,769 - Episode End: Accuracy=0.8064516129032258, Final Reward=5
+2024-05-01 18:09:22,769 - Episode: 849/1000, Total Reward: 15.999999999999986, Accuracy: 0.81
+2024-05-01 18:09:28,761 - Episode End: Accuracy=0.8225806451612904, Final Reward=5
+2024-05-01 18:09:28,762 - Episode: 850/1000, Total Reward: 16.399999999999984, Accuracy: 0.82
+2024-05-01 18:09:34,810 - Episode End: Accuracy=0.8064516129032258, Final Reward=5
+2024-05-01 18:09:34,810 - Episode: 851/1000, Total Reward: 15.999999999999986, Accuracy: 0.81
+2024-05-01 18:09:40,708 - Episode End: Accuracy=0.5564516129032258, Final Reward=-5
+2024-05-01 18:09:40,708 - Episode: 852/1000, Total Reward: -3.2, Accuracy: 0.56
+2024-05-01 18:09:46,705 - Episode End: Accuracy=0.46774193548387094, Final Reward=-5
+2024-05-01 18:09:46,705 - Episode: 853/1000, Total Reward: -5.7, Accuracy: 0.47
+2024-05-01 18:09:52,667 - Episode End: Accuracy=0.46774193548387094, Final Reward=-5
+2024-05-01 18:09:52,667 - Episode: 854/1000, Total Reward: -5.7, Accuracy: 0.47
+2024-05-01 18:09:58,722 - Episode End: Accuracy=0.4838709677419355, Final Reward=-5
+2024-05-01 18:09:58,722 - Episode: 855/1000, Total Reward: -5.3, Accuracy: 0.48
+2024-05-01 18:10:04,561 - Episode End: Accuracy=0.5403225806451613, Final Reward=-5
+2024-05-01 18:10:04,561 - Episode: 856/1000, Total Reward: -3.4000000000000004, Accuracy: 0.54
+2024-05-01 18:10:10,439 - Episode End: Accuracy=0.6693548387096774, Final Reward=-5
+2024-05-01 18:10:10,439 - Episode: 857/1000, Total Reward: 1.099999999999997, Accuracy: 0.67
+2024-05-01 18:10:16,446 - Episode End: Accuracy=0.8225806451612904, Final Reward=5
+2024-05-01 18:10:16,446 - Episode: 858/1000, Total Reward: 16.399999999999984, Accuracy: 0.82
+2024-05-01 18:10:22,353 - Episode End: Accuracy=0.8306451612903226, Final Reward=5
+2024-05-01 18:10:22,354 - Episode: 859/1000, Total Reward: 17.099999999999984, Accuracy: 0.83
+2024-05-01 18:10:28,331 - Episode End: Accuracy=0.8467741935483871, Final Reward=5
+2024-05-01 18:10:28,331 - Episode: 860/1000, Total Reward: 17.499999999999982, Accuracy: 0.85
+2024-05-01 18:10:34,388 - Episode End: Accuracy=0.8225806451612904, Final Reward=5
+2024-05-01 18:10:34,389 - Episode: 861/1000, Total Reward: 16.399999999999984, Accuracy: 0.82
+2024-05-01 18:10:40,321 - Episode End: Accuracy=0.8145161290322581, Final Reward=5
+2024-05-01 18:10:40,321 - Episode: 862/1000, Total Reward: 16.199999999999985, Accuracy: 0.81
+2024-05-01 18:10:46,375 - Episode End: Accuracy=0.8145161290322581, Final Reward=5
+2024-05-01 18:10:46,375 - Episode: 863/1000, Total Reward: 16.199999999999985, Accuracy: 0.81
+2024-05-01 18:10:52,302 - Episode End: Accuracy=0.8064516129032258, Final Reward=5
+2024-05-01 18:10:52,302 - Episode: 864/1000, Total Reward: 15.999999999999986, Accuracy: 0.81
+2024-05-01 18:10:58,303 - Episode End: Accuracy=0.75, Final Reward=5
+2024-05-01 18:10:58,303 - Episode: 865/1000, Total Reward: 14.09999999999999, Accuracy: 0.75
+2024-05-01 18:11:04,200 - Episode End: Accuracy=0.5887096774193549, Final Reward=-5
+2024-05-01 18:11:04,200 - Episode: 866/1000, Total Reward: -1.8999999999999995, Accuracy: 0.59
+2024-05-01 18:11:10,238 - Episode End: Accuracy=0.5161290322580645, Final Reward=-5
+2024-05-01 18:11:10,238 - Episode: 867/1000, Total Reward: -4.000000000000001, Accuracy: 0.52
+2024-05-01 18:11:16,097 - Episode End: Accuracy=0.5, Final Reward=-5
+2024-05-01 18:11:16,097 - Episode: 868/1000, Total Reward: -4.4, Accuracy: 0.50
+2024-05-01 18:11:21,989 - Episode End: Accuracy=0.5080645161290323, Final Reward=-5
+2024-05-01 18:11:21,989 - Episode: 869/1000, Total Reward: -4.2, Accuracy: 0.51
+2024-05-01 18:11:28,013 - Episode End: Accuracy=0.5241935483870968, Final Reward=-5
+2024-05-01 18:11:28,013 - Episode: 870/1000, Total Reward: -3.8000000000000007, Accuracy: 0.52
+2024-05-01 18:11:34,083 - Episode End: Accuracy=0.5645161290322581, Final Reward=-5
+2024-05-01 18:11:34,083 - Episode: 871/1000, Total Reward: -3.0, Accuracy: 0.56
+2024-05-01 18:11:40,094 - Episode End: Accuracy=0.7338709677419355, Final Reward=-5
+2024-05-01 18:11:40,094 - Episode: 872/1000, Total Reward: 3.199999999999992, Accuracy: 0.73
+2024-05-01 18:11:45,987 - Episode End: Accuracy=0.8225806451612904, Final Reward=5
+2024-05-01 18:11:45,987 - Episode: 873/1000, Total Reward: 16.399999999999984, Accuracy: 0.82
+2024-05-01 18:11:51,838 - Episode End: Accuracy=0.7983870967741935, Final Reward=5
+2024-05-01 18:11:51,839 - Episode: 874/1000, Total Reward: 15.799999999999986, Accuracy: 0.80
+2024-05-01 18:11:57,831 - Episode End: Accuracy=0.8145161290322581, Final Reward=5
+2024-05-01 18:11:57,831 - Episode: 875/1000, Total Reward: 16.199999999999985, Accuracy: 0.81
+2024-05-01 18:12:03,890 - Episode End: Accuracy=0.8306451612903226, Final Reward=5
+2024-05-01 18:12:03,890 - Episode: 876/1000, Total Reward: 17.099999999999984, Accuracy: 0.83
+2024-05-01 18:12:09,869 - Episode End: Accuracy=0.7741935483870968, Final Reward=5
+2024-05-01 18:12:09,869 - Episode: 877/1000, Total Reward: 14.699999999999989, Accuracy: 0.77
+2024-05-01 18:12:15,702 - Episode End: Accuracy=0.7741935483870968, Final Reward=5
+2024-05-01 18:12:15,702 - Episode: 878/1000, Total Reward: 14.699999999999989, Accuracy: 0.77
+2024-05-01 18:12:21,759 - Episode End: Accuracy=0.7903225806451613, Final Reward=5
+2024-05-01 18:12:21,760 - Episode: 879/1000, Total Reward: 15.599999999999987, Accuracy: 0.79
+2024-05-01 18:12:27,673 - Episode End: Accuracy=0.7661290322580645, Final Reward=5
+2024-05-01 18:12:27,673 - Episode: 880/1000, Total Reward: 14.49999999999999, Accuracy: 0.77
+2024-05-01 18:12:33,767 - Episode End: Accuracy=0.782258064516129, Final Reward=5
+2024-05-01 18:12:33,767 - Episode: 881/1000, Total Reward: 14.899999999999988, Accuracy: 0.78
+2024-05-01 18:12:39,845 - Episode End: Accuracy=0.8306451612903226, Final Reward=5
+2024-05-01 18:12:39,845 - Episode: 882/1000, Total Reward: 17.099999999999984, Accuracy: 0.83
+2024-05-01 18:12:45,727 - Episode End: Accuracy=0.782258064516129, Final Reward=5
+2024-05-01 18:12:45,727 - Episode: 883/1000, Total Reward: 14.899999999999988, Accuracy: 0.78
+2024-05-01 18:12:51,783 - Episode End: Accuracy=0.8064516129032258, Final Reward=5
+2024-05-01 18:12:51,783 - Episode: 884/1000, Total Reward: 15.999999999999986, Accuracy: 0.81
+2024-05-01 18:12:57,742 - Episode End: Accuracy=0.7983870967741935, Final Reward=5
+2024-05-01 18:12:57,743 - Episode: 885/1000, Total Reward: 15.799999999999986, Accuracy: 0.80
+2024-05-01 18:13:03,730 - Episode End: Accuracy=0.7983870967741935, Final Reward=5
+2024-05-01 18:13:03,730 - Episode: 886/1000, Total Reward: 15.799999999999986, Accuracy: 0.80
+2024-05-01 18:13:09,778 - Episode End: Accuracy=0.8064516129032258, Final Reward=5
+2024-05-01 18:13:09,778 - Episode: 887/1000, Total Reward: 15.999999999999986, Accuracy: 0.81
+2024-05-01 18:13:15,692 - Episode End: Accuracy=0.8306451612903226, Final Reward=5
+2024-05-01 18:13:15,692 - Episode: 888/1000, Total Reward: 17.099999999999984, Accuracy: 0.83
+2024-05-01 18:13:21,829 - Episode End: Accuracy=0.7419354838709677, Final Reward=-5
+2024-05-01 18:13:21,829 - Episode: 889/1000, Total Reward: 3.3999999999999915, Accuracy: 0.74
+2024-05-01 18:13:28,032 - Episode End: Accuracy=0.6854838709677419, Final Reward=-5
+2024-05-01 18:13:28,033 - Episode: 890/1000, Total Reward: 1.4999999999999956, Accuracy: 0.69
+2024-05-01 18:13:34,203 - Episode End: Accuracy=0.5806451612903226, Final Reward=-5
+2024-05-01 18:13:34,203 - Episode: 891/1000, Total Reward: -2.0999999999999996, Accuracy: 0.58
+2024-05-01 18:13:40,157 - Episode End: Accuracy=0.5806451612903226, Final Reward=-5
+2024-05-01 18:13:40,157 - Episode: 892/1000, Total Reward: -2.0999999999999996, Accuracy: 0.58
+2024-05-01 18:13:46,113 - Episode End: Accuracy=0.6048387096774194, Final Reward=-5
+2024-05-01 18:13:46,113 - Episode: 893/1000, Total Reward: -1.4999999999999991, Accuracy: 0.60
+2024-05-01 18:13:52,188 - Episode End: Accuracy=0.6451612903225806, Final Reward=-5
+2024-05-01 18:13:52,188 - Episode: 894/1000, Total Reward: -8.881784197001252e-16, Accuracy: 0.65
+2024-05-01 18:13:58,147 - Episode End: Accuracy=0.6612903225806451, Final Reward=-5
+2024-05-01 18:13:58,147 - Episode: 895/1000, Total Reward: 0.8999999999999977, Accuracy: 0.66
+2024-05-01 18:14:04,197 - Episode End: Accuracy=0.6935483870967742, Final Reward=-5
+2024-05-01 18:14:04,197 - Episode: 896/1000, Total Reward: 2.199999999999995, Accuracy: 0.69
+2024-05-01 18:14:10,213 - Episode End: Accuracy=0.7338709677419355, Final Reward=-5
+2024-05-01 18:14:10,213 - Episode: 897/1000, Total Reward: 3.199999999999992, Accuracy: 0.73
+2024-05-01 18:14:16,258 - Episode End: Accuracy=0.7419354838709677, Final Reward=-5
+2024-05-01 18:14:16,258 - Episode: 898/1000, Total Reward: 3.3999999999999915, Accuracy: 0.74
+2024-05-01 18:14:22,219 - Episode End: Accuracy=0.8064516129032258, Final Reward=5
+2024-05-01 18:14:22,219 - Episode: 899/1000, Total Reward: 15.999999999999986, Accuracy: 0.81
+2024-05-01 18:14:28,073 - Episode End: Accuracy=0.8064516129032258, Final Reward=5
+2024-05-01 18:14:28,073 - Episode: 900/1000, Total Reward: 15.999999999999986, Accuracy: 0.81
+2024-05-01 18:14:34,283 - Episode End: Accuracy=0.8064516129032258, Final Reward=5
+2024-05-01 18:14:34,283 - Episode: 901/1000, Total Reward: 15.999999999999986, Accuracy: 0.81
+2024-05-01 18:14:40,194 - Episode End: Accuracy=0.7903225806451613, Final Reward=5
+2024-05-01 18:14:40,194 - Episode: 902/1000, Total Reward: 15.599999999999987, Accuracy: 0.79
+2024-05-01 18:14:46,272 - Episode End: Accuracy=0.7983870967741935, Final Reward=5
+2024-05-01 18:14:46,272 - Episode: 903/1000, Total Reward: 15.799999999999986, Accuracy: 0.80
+2024-05-01 18:14:52,234 - Episode End: Accuracy=0.717741935483871, Final Reward=-5
+2024-05-01 18:14:52,234 - Episode: 904/1000, Total Reward: 2.7999999999999927, Accuracy: 0.72
+2024-05-01 18:14:58,256 - Episode End: Accuracy=0.6774193548387096, Final Reward=-5
+2024-05-01 18:14:58,256 - Episode: 905/1000, Total Reward: 1.2999999999999963, Accuracy: 0.68
+2024-05-01 18:15:04,370 - Episode End: Accuracy=0.6774193548387096, Final Reward=-5
+2024-05-01 18:15:04,370 - Episode: 906/1000, Total Reward: 1.2999999999999963, Accuracy: 0.68
+2024-05-01 18:15:10,254 - Episode End: Accuracy=0.7096774193548387, Final Reward=-5
+2024-05-01 18:15:10,254 - Episode: 907/1000, Total Reward: 2.5999999999999934, Accuracy: 0.71
+2024-05-01 18:15:16,355 - Episode End: Accuracy=0.7096774193548387, Final Reward=-5
+2024-05-01 18:15:16,356 - Episode: 908/1000, Total Reward: 2.5999999999999934, Accuracy: 0.71
+2024-05-01 18:15:22,413 - Episode End: Accuracy=0.7258064516129032, Final Reward=-5
+2024-05-01 18:15:22,413 - Episode: 909/1000, Total Reward: 2.999999999999993, Accuracy: 0.73
+2024-05-01 18:15:28,492 - Episode End: Accuracy=0.7661290322580645, Final Reward=5
+2024-05-01 18:15:28,492 - Episode: 910/1000, Total Reward: 14.49999999999999, Accuracy: 0.77
+2024-05-01 18:15:34,530 - Episode End: Accuracy=0.7983870967741935, Final Reward=5
+2024-05-01 18:15:34,530 - Episode: 911/1000, Total Reward: 15.799999999999986, Accuracy: 0.80
+2024-05-01 18:15:40,507 - Episode End: Accuracy=0.8064516129032258, Final Reward=5
+2024-05-01 18:15:40,507 - Episode: 912/1000, Total Reward: 15.999999999999986, Accuracy: 0.81
+2024-05-01 18:15:46,583 - Episode End: Accuracy=0.8064516129032258, Final Reward=5
+2024-05-01 18:15:46,584 - Episode: 913/1000, Total Reward: 15.999999999999986, Accuracy: 0.81
+2024-05-01 18:15:52,501 - Episode End: Accuracy=0.8064516129032258, Final Reward=5
+2024-05-01 18:15:52,501 - Episode: 914/1000, Total Reward: 15.999999999999986, Accuracy: 0.81
+2024-05-01 18:15:58,538 - Episode End: Accuracy=0.8225806451612904, Final Reward=5
+2024-05-01 18:15:58,538 - Episode: 915/1000, Total Reward: 16.399999999999984, Accuracy: 0.82
+2024-05-01 18:16:04,449 - Episode End: Accuracy=0.7661290322580645, Final Reward=5
+2024-05-01 18:16:04,449 - Episode: 916/1000, Total Reward: 14.49999999999999, Accuracy: 0.77
+2024-05-01 18:16:10,363 - Episode End: Accuracy=0.7661290322580645, Final Reward=5
+2024-05-01 18:16:10,364 - Episode: 917/1000, Total Reward: 14.49999999999999, Accuracy: 0.77
+2024-05-01 18:16:16,413 - Episode End: Accuracy=0.7258064516129032, Final Reward=-5
+2024-05-01 18:16:16,414 - Episode: 918/1000, Total Reward: 2.999999999999993, Accuracy: 0.73
+2024-05-01 18:16:22,417 - Episode End: Accuracy=0.6935483870967742, Final Reward=-5
+2024-05-01 18:16:22,417 - Episode: 919/1000, Total Reward: 2.199999999999995, Accuracy: 0.69
+2024-05-01 18:16:28,495 - Episode End: Accuracy=0.6693548387096774, Final Reward=-5
+2024-05-01 18:16:28,495 - Episode: 920/1000, Total Reward: 1.099999999999997, Accuracy: 0.67
+2024-05-01 18:16:34,567 - Episode End: Accuracy=0.6854838709677419, Final Reward=-5
+2024-05-01 18:16:34,567 - Episode: 921/1000, Total Reward: 1.4999999999999956, Accuracy: 0.69
+2024-05-01 18:16:40,617 - Episode End: Accuracy=0.717741935483871, Final Reward=-5
+2024-05-01 18:16:40,617 - Episode: 922/1000, Total Reward: 2.7999999999999927, Accuracy: 0.72
+2024-05-01 18:16:46,807 - Episode End: Accuracy=0.7580645161290323, Final Reward=5
+2024-05-01 18:16:46,808 - Episode: 923/1000, Total Reward: 14.29999999999999, Accuracy: 0.76
+2024-05-01 18:16:52,749 - Episode End: Accuracy=0.7661290322580645, Final Reward=5
+2024-05-01 18:16:52,749 - Episode: 924/1000, Total Reward: 14.49999999999999, Accuracy: 0.77
+2024-05-01 18:16:58,675 - Episode End: Accuracy=0.7903225806451613, Final Reward=5
+2024-05-01 18:16:58,676 - Episode: 925/1000, Total Reward: 15.599999999999987, Accuracy: 0.79
+2024-05-01 18:17:04,563 - Episode End: Accuracy=0.782258064516129, Final Reward=5
+2024-05-01 18:17:04,563 - Episode: 926/1000, Total Reward: 14.899999999999988, Accuracy: 0.78
+2024-05-01 18:17:10,540 - Episode End: Accuracy=0.8064516129032258, Final Reward=5
+2024-05-01 18:17:10,540 - Episode: 927/1000, Total Reward: 15.999999999999986, Accuracy: 0.81
+2024-05-01 18:17:16,513 - Episode End: Accuracy=0.7903225806451613, Final Reward=5
+2024-05-01 18:17:16,514 - Episode: 928/1000, Total Reward: 15.599999999999987, Accuracy: 0.79
+2024-05-01 18:17:22,423 - Episode End: Accuracy=0.7903225806451613, Final Reward=5
+2024-05-01 18:17:22,423 - Episode: 929/1000, Total Reward: 15.599999999999987, Accuracy: 0.79
+2024-05-01 18:17:28,455 - Episode End: Accuracy=0.7903225806451613, Final Reward=5
+2024-05-01 18:17:28,455 - Episode: 930/1000, Total Reward: 15.599999999999987, Accuracy: 0.79
+2024-05-01 18:17:34,403 - Episode End: Accuracy=0.7741935483870968, Final Reward=5
+2024-05-01 18:17:34,403 - Episode: 931/1000, Total Reward: 14.699999999999989, Accuracy: 0.77
+2024-05-01 18:17:40,561 - Episode End: Accuracy=0.7741935483870968, Final Reward=5
+2024-05-01 18:17:40,561 - Episode: 932/1000, Total Reward: 14.699999999999989, Accuracy: 0.77
+2024-05-01 18:17:46,563 - Episode End: Accuracy=0.7661290322580645, Final Reward=5
+2024-05-01 18:17:46,563 - Episode: 933/1000, Total Reward: 14.49999999999999, Accuracy: 0.77
+2024-05-01 18:17:52,636 - Episode End: Accuracy=0.75, Final Reward=5
+2024-05-01 18:17:52,636 - Episode: 934/1000, Total Reward: 14.09999999999999, Accuracy: 0.75
+2024-05-01 18:17:58,574 - Episode End: Accuracy=0.717741935483871, Final Reward=-5
+2024-05-01 18:17:58,574 - Episode: 935/1000, Total Reward: 2.7999999999999927, Accuracy: 0.72
+2024-05-01 18:18:04,531 - Episode End: Accuracy=0.6935483870967742, Final Reward=-5
+2024-05-01 18:18:04,531 - Episode: 936/1000, Total Reward: 1.6999999999999948, Accuracy: 0.69
+2024-05-01 18:18:10,540 - Episode End: Accuracy=0.6854838709677419, Final Reward=-5
+2024-05-01 18:18:10,540 - Episode: 937/1000, Total Reward: 1.4999999999999956, Accuracy: 0.69
+2024-05-01 18:18:16,389 - Episode End: Accuracy=0.6774193548387096, Final Reward=-5
+2024-05-01 18:18:16,389 - Episode: 938/1000, Total Reward: 1.2999999999999963, Accuracy: 0.68
+2024-05-01 18:18:22,335 - Episode End: Accuracy=0.6774193548387096, Final Reward=-5
+2024-05-01 18:18:22,335 - Episode: 939/1000, Total Reward: 1.2999999999999963, Accuracy: 0.68
+2024-05-01 18:18:28,283 - Episode End: Accuracy=0.6935483870967742, Final Reward=-5
+2024-05-01 18:18:28,283 - Episode: 940/1000, Total Reward: 1.6999999999999948, Accuracy: 0.69
+2024-05-01 18:18:34,249 - Episode End: Accuracy=0.7096774193548387, Final Reward=-5
+2024-05-01 18:18:34,249 - Episode: 941/1000, Total Reward: 2.5999999999999934, Accuracy: 0.71
+2024-05-01 18:18:40,392 - Episode End: Accuracy=0.7016129032258065, Final Reward=-5
+2024-05-01 18:18:40,392 - Episode: 942/1000, Total Reward: 1.8999999999999941, Accuracy: 0.70
+2024-05-01 18:18:46,403 - Episode End: Accuracy=0.717741935483871, Final Reward=-5
+2024-05-01 18:18:46,403 - Episode: 943/1000, Total Reward: 2.7999999999999927, Accuracy: 0.72
+2024-05-01 18:18:52,450 - Episode End: Accuracy=0.7580645161290323, Final Reward=5
+2024-05-01 18:18:52,450 - Episode: 944/1000, Total Reward: 14.29999999999999, Accuracy: 0.76
+2024-05-01 18:18:58,405 - Episode End: Accuracy=0.7580645161290323, Final Reward=5
+2024-05-01 18:18:58,405 - Episode: 945/1000, Total Reward: 14.29999999999999, Accuracy: 0.76
+2024-05-01 18:19:04,510 - Episode End: Accuracy=0.7580645161290323, Final Reward=5
+2024-05-01 18:19:04,511 - Episode: 946/1000, Total Reward: 14.29999999999999, Accuracy: 0.76
+2024-05-01 18:19:10,482 - Episode End: Accuracy=0.7419354838709677, Final Reward=-5
+2024-05-01 18:19:10,482 - Episode: 947/1000, Total Reward: 3.3999999999999915, Accuracy: 0.74
+2024-05-01 18:19:16,394 - Episode End: Accuracy=0.7016129032258065, Final Reward=-5
+2024-05-01 18:19:16,394 - Episode: 948/1000, Total Reward: 1.8999999999999941, Accuracy: 0.70
+2024-05-01 18:19:22,443 - Episode End: Accuracy=0.7096774193548387, Final Reward=-5
+2024-05-01 18:19:22,443 - Episode: 949/1000, Total Reward: 2.5999999999999934, Accuracy: 0.71
+2024-05-01 18:19:28,364 - Episode End: Accuracy=0.7016129032258065, Final Reward=-5
+2024-05-01 18:19:28,365 - Episode: 950/1000, Total Reward: 2.399999999999994, Accuracy: 0.70
+2024-05-01 18:19:34,387 - Episode End: Accuracy=0.7016129032258065, Final Reward=-5
+2024-05-01 18:19:34,387 - Episode: 951/1000, Total Reward: 1.8999999999999941, Accuracy: 0.70
+2024-05-01 18:19:40,438 - Episode End: Accuracy=0.7580645161290323, Final Reward=5
+2024-05-01 18:19:40,438 - Episode: 952/1000, Total Reward: 14.29999999999999, Accuracy: 0.76
+2024-05-01 18:19:46,400 - Episode End: Accuracy=0.7661290322580645, Final Reward=5
+2024-05-01 18:19:46,400 - Episode: 953/1000, Total Reward: 14.49999999999999, Accuracy: 0.77
+2024-05-01 18:19:52,477 - Episode End: Accuracy=0.7580645161290323, Final Reward=5
+2024-05-01 18:19:52,478 - Episode: 954/1000, Total Reward: 14.29999999999999, Accuracy: 0.76
+2024-05-01 18:19:58,347 - Episode End: Accuracy=0.7419354838709677, Final Reward=-5
+2024-05-01 18:19:58,348 - Episode: 955/1000, Total Reward: 3.3999999999999915, Accuracy: 0.74
+2024-05-01 18:20:04,591 - Episode End: Accuracy=0.7258064516129032, Final Reward=-5
+2024-05-01 18:20:04,591 - Episode: 956/1000, Total Reward: 2.999999999999992, Accuracy: 0.73
+2024-05-01 18:20:10,525 - Episode End: Accuracy=0.6774193548387096, Final Reward=-5
+2024-05-01 18:20:10,525 - Episode: 957/1000, Total Reward: 1.2999999999999963, Accuracy: 0.68
+2024-05-01 18:20:16,623 - Episode End: Accuracy=0.6612903225806451, Final Reward=-5
+2024-05-01 18:20:16,623 - Episode: 958/1000, Total Reward: 0.8999999999999977, Accuracy: 0.66
+2024-05-01 18:20:22,604 - Episode End: Accuracy=0.6693548387096774, Final Reward=-5
+2024-05-01 18:20:22,604 - Episode: 959/1000, Total Reward: 1.099999999999997, Accuracy: 0.67
+2024-05-01 18:20:28,543 - Episode End: Accuracy=0.6532258064516129, Final Reward=-5
+2024-05-01 18:20:28,544 - Episode: 960/1000, Total Reward: 0.1999999999999984, Accuracy: 0.65
+2024-05-01 18:20:34,581 - Episode End: Accuracy=0.6370967741935484, Final Reward=-5
+2024-05-01 18:20:34,581 - Episode: 961/1000, Total Reward: -0.20000000000000018, Accuracy: 0.64
+2024-05-01 18:20:40,661 - Episode End: Accuracy=0.6774193548387096, Final Reward=-5
+2024-05-01 18:20:40,661 - Episode: 962/1000, Total Reward: 1.2999999999999963, Accuracy: 0.68
+2024-05-01 18:20:46,732 - Episode End: Accuracy=0.7419354838709677, Final Reward=-5
+2024-05-01 18:20:46,732 - Episode: 963/1000, Total Reward: 3.3999999999999915, Accuracy: 0.74
+2024-05-01 18:20:52,704 - Episode End: Accuracy=0.7741935483870968, Final Reward=5
+2024-05-01 18:20:52,704 - Episode: 964/1000, Total Reward: 14.699999999999989, Accuracy: 0.77
+2024-05-01 18:20:58,612 - Episode End: Accuracy=0.7903225806451613, Final Reward=5
+2024-05-01 18:20:58,612 - Episode: 965/1000, Total Reward: 15.599999999999987, Accuracy: 0.79
+2024-05-01 18:21:04,692 - Episode End: Accuracy=0.6612903225806451, Final Reward=-5
+2024-05-01 18:21:04,692 - Episode: 966/1000, Total Reward: 0.3999999999999977, Accuracy: 0.66
+2024-05-01 18:21:10,617 - Episode End: Accuracy=0.5645161290322581, Final Reward=-5
+2024-05-01 18:21:10,618 - Episode: 967/1000, Total Reward: -3.0, Accuracy: 0.56
+2024-05-01 18:21:16,654 - Episode End: Accuracy=0.5483870967741935, Final Reward=-5
+2024-05-01 18:21:16,654 - Episode: 968/1000, Total Reward: -3.4000000000000004, Accuracy: 0.55
+2024-05-01 18:21:22,546 - Episode End: Accuracy=0.6854838709677419, Final Reward=-5
+2024-05-01 18:21:22,546 - Episode: 969/1000, Total Reward: 1.4999999999999956, Accuracy: 0.69
+2024-05-01 18:21:28,573 - Episode End: Accuracy=0.8306451612903226, Final Reward=5
+2024-05-01 18:21:28,574 - Episode: 970/1000, Total Reward: 17.099999999999984, Accuracy: 0.83
+2024-05-01 18:21:34,504 - Episode End: Accuracy=0.8064516129032258, Final Reward=5
+2024-05-01 18:21:34,504 - Episode: 971/1000, Total Reward: 15.999999999999986, Accuracy: 0.81
+2024-05-01 18:21:40,561 - Episode End: Accuracy=0.8064516129032258, Final Reward=5
+2024-05-01 18:21:40,561 - Episode: 972/1000, Total Reward: 15.999999999999986, Accuracy: 0.81
+2024-05-01 18:21:46,664 - Episode End: Accuracy=0.8306451612903226, Final Reward=5
+2024-05-01 18:21:46,664 - Episode: 973/1000, Total Reward: 17.099999999999984, Accuracy: 0.83
+2024-05-01 18:21:52,641 - Episode End: Accuracy=0.7903225806451613, Final Reward=5
+2024-05-01 18:21:52,642 - Episode: 974/1000, Total Reward: 15.599999999999987, Accuracy: 0.79
+2024-05-01 18:21:58,609 - Episode End: Accuracy=0.7580645161290323, Final Reward=5
+2024-05-01 18:21:58,609 - Episode: 975/1000, Total Reward: 14.29999999999999, Accuracy: 0.76
+2024-05-01 18:22:04,584 - Episode End: Accuracy=0.6935483870967742, Final Reward=-5
+2024-05-01 18:22:04,585 - Episode: 976/1000, Total Reward: 1.6999999999999948, Accuracy: 0.69
+2024-05-01 18:22:10,563 - Episode End: Accuracy=0.6451612903225806, Final Reward=-5
+2024-05-01 18:22:10,563 - Episode: 977/1000, Total Reward: -8.881784197001252e-16, Accuracy: 0.65
+2024-05-01 18:22:16,600 - Episode End: Accuracy=0.6129032258064516, Final Reward=-5
+2024-05-01 18:22:16,600 - Episode: 978/1000, Total Reward: -0.799999999999998, Accuracy: 0.61
+2024-05-01 18:22:22,560 - Episode End: Accuracy=0.532258064516129, Final Reward=-5
+2024-05-01 18:22:22,561 - Episode: 979/1000, Total Reward: -3.8000000000000007, Accuracy: 0.53
+2024-05-01 18:22:28,624 - Episode End: Accuracy=0.532258064516129, Final Reward=-5
+2024-05-01 18:22:28,624 - Episode: 980/1000, Total Reward: -3.6000000000000005, Accuracy: 0.53
+2024-05-01 18:22:34,565 - Episode End: Accuracy=0.5887096774193549, Final Reward=-5
+2024-05-01 18:22:34,566 - Episode: 981/1000, Total Reward: -1.8999999999999995, Accuracy: 0.59
+2024-05-01 18:22:40,641 - Episode End: Accuracy=0.6532258064516129, Final Reward=-5
+2024-05-01 18:22:40,642 - Episode: 982/1000, Total Reward: 0.1999999999999984, Accuracy: 0.65
+2024-05-01 18:22:46,583 - Episode End: Accuracy=0.6774193548387096, Final Reward=-5
+2024-05-01 18:22:46,583 - Episode: 983/1000, Total Reward: 1.2999999999999963, Accuracy: 0.68
+2024-05-01 18:22:52,568 - Episode End: Accuracy=0.75, Final Reward=5
+2024-05-01 18:22:52,569 - Episode: 984/1000, Total Reward: 14.09999999999999, Accuracy: 0.75
+2024-05-01 18:22:58,668 - Episode End: Accuracy=0.782258064516129, Final Reward=5
+2024-05-01 18:22:58,668 - Episode: 985/1000, Total Reward: 14.899999999999988, Accuracy: 0.78
+2024-05-01 18:23:05,114 - Episode End: Accuracy=0.6693548387096774, Final Reward=-5
+2024-05-01 18:23:05,115 - Episode: 986/1000, Total Reward: 1.099999999999997, Accuracy: 0.67
+2024-05-01 18:23:11,173 - Episode End: Accuracy=0.532258064516129, Final Reward=-5
+2024-05-01 18:23:11,173 - Episode: 987/1000, Total Reward: -3.8000000000000007, Accuracy: 0.53
+2024-05-01 18:23:17,089 - Episode End: Accuracy=0.5, Final Reward=-5
+2024-05-01 18:23:17,089 - Episode: 988/1000, Total Reward: -4.6000000000000005, Accuracy: 0.50
+2024-05-01 18:23:23,130 - Episode End: Accuracy=0.49193548387096775, Final Reward=-5
+2024-05-01 18:23:23,130 - Episode: 989/1000, Total Reward: -5.3, Accuracy: 0.49
+2024-05-01 18:23:29,019 - Episode End: Accuracy=0.5241935483870968, Final Reward=-5
+2024-05-01 18:23:29,019 - Episode: 990/1000, Total Reward: -4.000000000000001, Accuracy: 0.52
+2024-05-01 18:23:34,926 - Episode End: Accuracy=0.5887096774193549, Final Reward=-5
+2024-05-01 18:23:34,926 - Episode: 991/1000, Total Reward: -1.8999999999999995, Accuracy: 0.59
+2024-05-01 18:23:41,042 - Episode End: Accuracy=0.7258064516129032, Final Reward=-5
+2024-05-01 18:23:41,042 - Episode: 992/1000, Total Reward: 2.999999999999992, Accuracy: 0.73
+2024-05-01 18:23:47,004 - Episode End: Accuracy=0.7983870967741935, Final Reward=5
+2024-05-01 18:23:47,004 - Episode: 993/1000, Total Reward: 15.799999999999986, Accuracy: 0.80
+2024-05-01 18:23:53,036 - Episode End: Accuracy=0.7741935483870968, Final Reward=5
+2024-05-01 18:23:53,036 - Episode: 994/1000, Total Reward: 14.699999999999989, Accuracy: 0.77
+2024-05-01 18:23:59,001 - Episode End: Accuracy=0.6209677419354839, Final Reward=-5
+2024-05-01 18:23:59,001 - Episode: 995/1000, Total Reward: -0.5999999999999988, Accuracy: 0.62
+2024-05-01 18:24:04,953 - Episode End: Accuracy=0.5564516129032258, Final Reward=-5
+2024-05-01 18:24:04,955 - Episode: 996/1000, Total Reward: -3.2, Accuracy: 0.56
+2024-05-01 18:24:10,936 - Episode End: Accuracy=0.5161290322580645, Final Reward=-5
+2024-05-01 18:24:10,936 - Episode: 997/1000, Total Reward: -4.200000000000001, Accuracy: 0.52
+2024-05-01 18:24:16,864 - Episode End: Accuracy=0.45161290322580644, Final Reward=-5
+2024-05-01 18:24:16,864 - Episode: 998/1000, Total Reward: -6.1, Accuracy: 0.45
+2024-05-01 18:24:22,865 - Episode End: Accuracy=0.5080645161290323, Final Reward=-5
+2024-05-01 18:24:22,865 - Episode: 999/1000, Total Reward: -4.200000000000001, Accuracy: 0.51
+2024-05-01 18:24:28,861 - Episode End: Accuracy=0.5, Final Reward=-5
+2024-05-01 18:24:28,861 - Episode: 1000/1000, Total Reward: -4.6000000000000005, Accuracy: 0.50
